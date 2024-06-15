@@ -1,0 +1,8023 @@
+{
+  "Alabama": [
+    [
+      "athens",
+      "1596",
+      "(256) 216-6181",
+      "1033 US-72, Athens, AL 35611",
+      34.785991,
+      -86.954638,
+      "https://www.google.com/maps?cid=17747085480344086295"
+    ],
+    [
+      "college street",
+      "1598",
+      "(334) 501-8969",
+      "1347 S COLLEGE ST, Auburn, AL 36832",
+      32.58106,
+      -85.49421,
+      "https://www.google.com/maps?cid=2567752409999179200"
+    ],
+    [
+      "bessemer",
+      "1582",
+      "(205) 425-7923",
+      "730 ACADEMY DR, Bessemer, AL 35022",
+      33.360397,
+      -86.9992,
+      "https://www.google.com/maps?cid=7018668534804503206"
+    ],
+    [
+      "eastwood village",
+      "1643",
+      "(205) 956-9871",
+      "1566 MONTCLAIR ROAD, Birmingham, AL 35213",
+      33.525795,
+      -86.72234,
+      "https://www.google.com/maps?cid=14826942448032553858"
+    ],
+    [
+      "edwards lake road",
+      "1583",
+      "(205) 661-3199",
+      "1901 EDWARDS LAKE RD, Birmingham, AL 35235",
+      33.596004,
+      -86.648476,
+      "https://www.google.com/maps?cid=13453715185253135750"
+    ],
+    [
+      "hoover",
+      "1587",
+      "(205) 408-7501",
+      "5489 HIGHWAY 280, Birmingham, AL 35242",
+      33.40887,
+      -86.66344,
+      "https://www.google.com/maps?cid=5158338852912729042"
+    ],
+    [
+      "daphne",
+      "1549",
+      "(251) 621-1712",
+      "2112 HIGHWAY 98, Daphne, AL 36526",
+      30.609184,
+      -87.89856,
+      "https://www.google.com/maps?cid=6572327759883098205"
+    ],
+    [
+      "decatur",
+      "1595",
+      "(256) 350-5381",
+      "2330 HIGHWAY 31 SOUTH, Decatur, AL 35601",
+      34.56523,
+      -86.972694,
+      "https://www.google.com/maps?cid=2164212810189088057"
+    ],
+    [
+      "foley",
+      "1550",
+      "(251) 971-1212",
+      "1327 S MCKENZIE ST, Foley, AL 36535",
+      30.390865,
+      -87.682884,
+      "https://www.google.com/maps?cid=11778692237812558496"
+    ],
+    [
+      "gardendale",
+      "1586",
+      "(205) 631-2344",
+      "1210 DECATUR HWY, Gardendale, AL 35071",
+      33.65559,
+      -86.81172,
+      "https://www.google.com/maps?cid=15966024987055860502"
+    ],
+    [
+      "homewood",
+      "1070",
+      "(205) 948-1233",
+      "804 GREENSPRINGS HIGHWAY, Homewood, AL 35209",
+      33.461655,
+      -86.81944,
+      "https://www.google.com/maps?cid=10586476511131065248"
+    ],
+    [
+      "riverchase galleria",
+      "1584",
+      "(205) 682-0807",
+      "3300 GALLERIA CIRCLE, Hoover, AL 35244",
+      33.37612,
+      -86.80724,
+      "https://www.google.com/maps?cid=8583481006330301374"
+    ],
+    [
+      "hueytown",
+      "1588",
+      "(205) 744-8473",
+      "3019 ALLISON BONNETT MEMO, Hueytown, AL 35023",
+      33.45127,
+      -86.97754,
+      "https://www.google.com/maps?cid=6062289006268876558"
+    ],
+    [
+      "memorial & shoney",
+      "1593",
+      "(256) 881-3940",
+      "3305 S MEMORIAL PKWY, Huntsville, AL 35801",
+      34.701324,
+      -86.5857,
+      "https://www.google.com/maps?cid=11589945499322364799"
+    ],
+    [
+      "memorial & ben giles",
+      "1592",
+      "(256) 882-1276",
+      "11114 MEMORIAL PKWY SW, Huntsville, AL 35803",
+      34.62523,
+      -86.567712,
+      "https://www.google.com/maps?cid=16797939044937799429"
+    ],
+    [
+      "brandonton",
+      "1591",
+      "(256) 830-0240",
+      "2301 JORDAN LANE NW, Huntsville, AL 35816",
+      34.75211,
+      -86.63711,
+      "https://www.google.com/maps?cid=10488817627374322304"
+    ],
+    [
+      "madison",
+      "1594",
+      "(256) 772-0250",
+      "105 IVORY WAY, Madison, AL 35758",
+      34.67757,
+      -86.75269,
+      "https://www.google.com/maps?cid=1934045545988743001"
+    ],
+    [
+      "airport & schillinger",
+      "1546",
+      "(251) 639-9680",
+      "7756 AIRPORT BLVD, Mobile, AL 36608",
+      30.684078,
+      -88.22455,
+      "https://www.google.com/maps?cid=17787562141475266024"
+    ],
+    [
+      "airport & general bullard",
+      "1548",
+      "(251) 343-1430",
+      "4700 AIRPORT BLVD, Mobile, AL 36608",
+      30.67655,
+      -88.17415,
+      "https://www.google.com/maps?cid=9688356968936379867"
+    ],
+    [
+      "airport highway/al",
+      "0185",
+      "(251) 460-3161",
+      "831 MONTLIMAR DR, Mobile, AL 36609",
+      30.674685,
+      -88.13411,
+      "https://www.google.com/maps?cid=677910282439721576"
+    ],
+    [
+      "tillmans corner",
+      "1551",
+      "(251) 661-7974",
+      "5335 HIGHWAY WAY 90 WEST, Mobile, AL 36619",
+      30.595331,
+      -88.16782,
+      "https://www.google.com/maps?cid=14665136673856692506"
+    ],
+    [
+      "zelda road",
+      "1579",
+      "(334) 271-2278",
+      "2769 ZELDA RD, Montgomery, AL 36106",
+      32.36311,
+      -86.26597,
+      "https://www.google.com/maps?cid=5027005840727311282"
+    ],
+    [
+      "sturbridge",
+      "1577",
+      "(334) 213-3260",
+      "3541 MALCOLM DR, Montgomery, AL 36116",
+      32.33033,
+      -86.17991,
+      "https://www.google.com/maps?cid=60901330831840133"
+    ],
+    [
+      "eastdale mall",
+      "1576",
+      "(334) 277-7072",
+      "5706 ATLANTA HWY, Montgomery, AL 36117",
+      32.381645,
+      -86.202545,
+      "https://www.google.com/maps?cid=6004241946572793652"
+    ],
+    [
+      "opelika",
+      "1597",
+      "(334) 741-0275",
+      "3904 PEPPERELL PKWY, Opelika, AL 36801",
+      32.62974,
+      -85.43862,
+      "https://www.google.com/maps?cid=18280168341031759110"
+    ],
+    [
+      "orange beach",
+      "1544",
+      "(251) 981-2060",
+      "25770 CANAL RD, Orange Beach, AL 36561",
+      30.290606,
+      -87.58495,
+      "https://www.google.com/maps?cid=1955303240362301438"
+    ],
+    [
+      "pelham",
+      "1580",
+      "(205) 663-6421",
+      "3318 PELHAM PKWY, Pelham, AL 35124",
+      33.277084,
+      -86.81242,
+      "https://www.google.com/maps?cid=12155202896269135158"
+    ],
+    [
+      "phenix city",
+      "1572",
+      "(334) 291-0813",
+      "5 ASHWOOD DR, Phenix City, AL 36867",
+      32.506073,
+      -85.05181,
+      "https://www.google.com/maps?cid=3274689590306883205"
+    ],
+    [
+      "prattville",
+      "1578",
+      "(334) 361-9608",
+      "1749 E MAIN ST, Prattville, AL 36066",
+      32.460983,
+      -86.423355,
+      "https://www.google.com/maps?cid=4661729611828518318"
+    ],
+    [
+      "robertsdale",
+      "1600",
+      "(251) 945-1435",
+      "21613 HIGHWAY 59, Robertsdale, AL 36567",
+      30.539822,
+      -87.708916,
+      "https://www.google.com/maps?cid=2423495232249682178"
+    ],
+    [
+      "saraland",
+      "1547",
+      "(251) 675-2171",
+      "821 HIGHWAY 43 S, Saraland, AL 36571",
+      30.802742,
+      -88.07243,
+      "https://www.google.com/maps?cid=2559041070635141044"
+    ],
+    [
+      "mcfarland blvd",
+      "1589",
+      "(205) 556-0934",
+      "3025 MCFARLAND BLVD, Tuscaloosa, AL 35405",
+      33.18167,
+      -87.52509,
+      "https://www.google.com/maps?cid=13566615001983937354"
+    ],
+    [
+      "vestavia hills",
+      "1585",
+      "(205) 823-1453",
+      "1453 MONTGOMERY HWY, Vestavia Hills, AL 35216",
+      33.418724,
+      -86.800644,
+      "https://www.google.com/maps?cid=16605118161423545056"
+    ]
+  ],
+  "Arizona": [
+    [
+      "n. alma school road",
+      "6475",
+      "(480) 821-2292",
+      "2160 N ALMA SCHOOL RD, Chandler, AZ 85224",
+      33.337452,
+      -111.86007,
+      "https://www.google.com/maps?cid=8722353898797822923"
+    ],
+    [
+      "chandler",
+      "0735",
+      "(480) 899-0822",
+      "400 S ARIZONA AVE, Chandler, AZ 85225",
+      33.296707,
+      -111.84223,
+      "https://www.google.com/maps?cid=1049756353738064307"
+    ],
+    [
+      "n. kasper avenue",
+      "6477",
+      "(928) 526-0556",
+      "3735 N KASPER DRIVE, Flagstaff, AZ 86004",
+      35.218105,
+      -111.59334,
+      "https://www.google.com/maps?cid=11406767666255027852"
+    ],
+    [
+      "gilbert",
+      "6474",
+      "(480) 813-4262",
+      "1267 E BASELINE RD, Gilbert, AZ 85233",
+      33.378643,
+      -111.805855,
+      "https://www.google.com/maps?cid=3312500403885270960"
+    ],
+    [
+      "peoria",
+      "1759",
+      "(623) 772-1168",
+      "9492 W NORTHERN AVE, Glendale, AZ 85305",
+      33.552532,
+      -112.26238,
+      "https://www.google.com/maps?cid=11300901494414035765"
+    ],
+    [
+      "dysart road",
+      "1049",
+      "(623) 293-9601",
+      "660 N. DYSART RD, Goodyear, AZ 85338",
+      33.453682,
+      -112.34188,
+      "https://www.google.com/maps?cid=7553592633229381571"
+    ],
+    [
+      "n. higley road",
+      "6467",
+      "(480) 985-5400",
+      "1947 W HIGLEY ROAD, Mesa, AZ 85205",
+      33.450695,
+      -111.71819,
+      "https://www.google.com/maps?cid=4892536149805423658"
+    ],
+    [
+      "east main",
+      "0738",
+      "(480) 986-1193",
+      "7715 E MAIN ST, Mesa, AZ 85207",
+      33.414654,
+      -111.66505,
+      "https://www.google.com/maps?cid=3602249391593417468"
+    ],
+    [
+      "country club",
+      "0669",
+      "(480) 964-1784",
+      "1233 S COUNTRY CLUB DR, Mesa, AZ 85210",
+      33.39202,
+      -111.83944,
+      "https://www.google.com/maps?cid=12405680954844932223"
+    ],
+    [
+      "ellsworth",
+      "1760",
+      "(480) 357-2191",
+      "9249 EAST GUADALUPE RD, Mesa, AZ 85212",
+      33.363827,
+      -111.63407,
+      "https://www.google.com/maps?cid=2911370970380373506"
+    ],
+    [
+      "nogales",
+      "0795",
+      "(520) 287-3626",
+      "470 N GRAND AVE, Nogales, AZ 85621",
+      31.339745,
+      -110.93659,
+      "https://www.google.com/maps?cid=15200291694833529066"
+    ],
+    [
+      "peoria",
+      "0748",
+      "(623) 486-4544",
+      "7440 W PEORIA AVE, Peoria, AZ 85345",
+      33.582047,
+      -112.21931,
+      "https://www.google.com/maps?cid=8255769761628777271"
+    ],
+    [
+      "mcdowell",
+      "0644",
+      "(602) 231-0147",
+      "2424 E MCDOWELL RD, Phoenix, AZ 85008",
+      33.466583,
+      -112.0291,
+      "https://www.google.com/maps?cid=13508111661109075033"
+    ],
+    [
+      "van buren",
+      "0757",
+      "(602) 269-6771",
+      "2502 W VAN BUREN, Phoenix, AZ 85009",
+      33.45177,
+      -112.11387,
+      "https://www.google.com/maps?cid=777391178765551311"
+    ],
+    [
+      "e. greenway parkway",
+      "6466",
+      "(602) 863-4411",
+      "810 E GREENWAY PARKWAY, Phoenix, AZ 85022",
+      33.638115,
+      -112.0634,
+      "https://www.google.com/maps?cid=18057336035756349206"
+    ],
+    [
+      "bell road",
+      "0633",
+      "(602) 867-7985",
+      "2754 E BELL RD, Phoenix, AZ 85032",
+      33.641117,
+      -112.02295,
+      "https://www.google.com/maps?cid=1789453138723430243"
+    ],
+    [
+      "prescott valley",
+      "6479",
+      "(928) 772-9013",
+      "6801 E FIRST STREET, Prescott Valley, AZ 86314",
+      34.58152,
+      -112.346214,
+      "https://www.google.com/maps?cid=16206503678360611188"
+    ],
+    [
+      "prescott",
+      "6478",
+      "(928) 445-3218",
+      "1052 WILLOW CREEK RD, Prescott, AZ 86301",
+      34.563652,
+      -112.482834,
+      "https://www.google.com/maps?cid=13574755546170002932"
+    ],
+    [
+      "e. thomas road",
+      "6472",
+      "(480) 290-7850",
+      "6828 E THOMAS RD, Scottsdale, AZ 85251",
+      33.480618,
+      -111.93357,
+      "https://www.google.com/maps?cid=15701301659397312127"
+    ],
+    [
+      "scottsdale",
+      "0684",
+      "(480) 945-9958",
+      "2524 N SCOTTSDALE RD, Scottsdale, AZ 85257",
+      33.475945,
+      -111.92663,
+      "https://www.google.com/maps?cid=12116383540591327388"
+    ],
+    [
+      "e. sahuaro drive",
+      "6470",
+      "(480) 451-9695",
+      "11478 E SAHUARO DR, Scottsdale, AZ 85259",
+      33.584576,
+      -111.83343,
+      "https://www.google.com/maps?cid=16823844625940563604"
+    ],
+    [
+      "surprise",
+      "6476",
+      "(623) 878-4072",
+      "14087 W GRAND AVE, Surprise, AZ 85374",
+      33.651054,
+      -112.36681,
+      "https://www.google.com/maps?cid=2508416141011554432"
+    ],
+    [
+      "tempe",
+      "1754",
+      "(480) 736-0113",
+      "445 W BROADWAY RD, Tempe, AZ 85282",
+      33.40678,
+      -111.94531,
+      "https://www.google.com/maps?cid=2307672715094562324"
+    ],
+    [
+      "oracle",
+      "0626",
+      "(520) 293-5070",
+      "3783 N ORACLE RD, Tucson, AZ 85705",
+      32.274803,
+      -110.97929,
+      "https://www.google.com/maps?cid=18156302512750429027"
+    ],
+    [
+      "kolb",
+      "0769",
+      "(520) 721-0424",
+      "7227 E 22ND ST, Tucson, AZ 85710",
+      32.2072,
+      -110.838066,
+      "https://www.google.com/maps?cid=8494666586327784202"
+    ],
+    [
+      "speedway",
+      "0661",
+      "(520) 795-5993",
+      "4491 E SPEEDWAY BLVD, Tucson, AZ 85712",
+      32.236633,
+      -110.897484,
+      "https://www.google.com/maps?cid=11871613824407771568"
+    ],
+    [
+      "tucson",
+      "0645",
+      "(520) 622-4884",
+      "1300 S 6TH AVE, Tucson, AZ 85713",
+      32.20535,
+      -110.96883,
+      "https://www.google.com/maps?cid=5518277780045152881"
+    ],
+    [
+      "speedway blvd",
+      "1789",
+      "(520) 416-7325",
+      "3645 E SPEEDWAY, Tucson, AZ 85716",
+      32.23666,
+      -110.91512,
+      "https://www.google.com/maps?q=3645 E SPEEDWAY,Tucson"
+    ],
+    [
+      "ina road",
+      "0728",
+      "(520) 744-6626",
+      "4275 W INA RD, Tucson, AZ 85741",
+      32.336506,
+      -111.056755,
+      "https://www.google.com/maps?cid=15283983837785946107"
+    ],
+    [
+      "yuma",
+      "0674",
+      "(928) 726-6740",
+      "155 W 32ND ST, Yuma, AZ 85364",
+      32.668446,
+      -114.619194,
+      "https://www.google.com/maps?cid=12181501580181658837"
+    ]
+  ],
+  "Arkansas": [
+    [
+      "north little rock",
+      "0191",
+      "(501) 945-5050",
+      "4228 E MCCAIN BLVD, North Little Rock, AR 72117",
+      34.788857,
+      -92.22067,
+      "https://www.google.com/maps?cid=13963394619896997370"
+    ]
+  ],
+  "California": [
+    [
+      "aliso viejo",
+      "0880",
+      "(949) 362-9254",
+      "26881 ALISO CREEK RD, Aliso Viejo, CA 92656",
+      33.57248,
+      -117.72562,
+      "https://www.google.com/maps?cid=6555980643033926656"
+    ],
+    [
+      "anaheim",
+      "0663",
+      "(714) 826-4810",
+      "3030 W LINCOLN AVE, Anaheim, CA 92801",
+      33.831547,
+      -117.995094,
+      "https://www.google.com/maps?cid=2086704624802401923"
+    ],
+    [
+      "anaheim",
+      "1455",
+      "(714) 533-3469",
+      "2312 E. LINCOLN AVE, Anaheim, CA 92806",
+      33.838314,
+      -117.88412,
+      "https://www.google.com/maps?cid=18313340724966753641"
+    ],
+    [
+      "anaheim hills",
+      "0809",
+      "(714) 974-0105",
+      "8205 E SANTA ANA CANYON R, Anaheim, CA 92808",
+      33.86853,
+      -117.74531,
+      "https://www.google.com/maps?cid=16661537438309837465"
+    ],
+    [
+      "bakersfield  f street",
+      "0622",
+      "(661) 325-9015",
+      "2411 F ST, Bakersfield, CA 93301",
+      35.38168,
+      -119.023926,
+      "https://www.google.com/maps?cid=7581571145223689435"
+    ],
+    [
+      "niles/ca",
+      "0743",
+      "(661) 872-7390",
+      "4014 E NILES ST, Bakersfield, CA 93306",
+      35.376656,
+      -118.93858,
+      "https://www.google.com/maps?cid=17273413819691501600"
+    ],
+    [
+      "stockdale town cnt",
+      "0677",
+      "(661) 834-6858",
+      "4605 PLANZ RD, Bakersfield, CA 93309",
+      35.32403,
+      -119.0539,
+      "https://www.google.com/maps?cid=12667701777904420300"
+    ],
+    [
+      "bakersfield  white lane",
+      "1662",
+      "(661) 241-7695",
+      "6561 WHITE LANE, Bakersfield, CA 93309",
+      35.317184,
+      -119.07568,
+      "https://www.google.com/maps?cid=15923468218046200275"
+    ],
+    [
+      "bakersfield  rosedale hwy",
+      "1661",
+      "(661) 589-8368",
+      "10500 ROSEDALE HWY, Bakersfield, CA 93312",
+      35.383865,
+      -119.119484,
+      "https://www.google.com/maps?cid=4846033679750889398"
+    ],
+    [
+      "bellflower",
+      "0763",
+      "(562) 630-8985",
+      "8533 ARTESIA BLVD, Bellflower, CA 90706",
+      33.87528,
+      -118.15004,
+      "https://www.google.com/maps?cid=6327749313642273732"
+    ],
+    [
+      "burbank",
+      "0618",
+      "(818) 845-3555",
+      "254 W OLIVE ST, Burbank, CA 91502",
+      34.17396,
+      -118.315094,
+      "https://www.google.com/maps?cid=10229749069043969947"
+    ],
+    [
+      "burbank",
+      "1431",
+      "(818) 840-0745",
+      "3514 W. BURBANK BLVD, Burbank, CA 91505",
+      34.174923,
+      -118.34878,
+      "https://www.google.com/maps?cid=5726123656927183536"
+    ],
+    [
+      "calexico",
+      "0771",
+      "(760) 357-4966",
+      "400 IMPERIAL AVE, Calexico, CA 92231",
+      32.669186,
+      -115.49806,
+      "https://www.google.com/maps?cid=10758890102971259876"
+    ],
+    [
+      "carson",
+      "0657",
+      "(310) 532-2050",
+      "810 E DOMINGUEZ BLVD, Carson, CA 90746",
+      33.840504,
+      -118.26153,
+      "https://www.google.com/maps?cid=4444247793432227639"
+    ],
+    [
+      "cathedral city",
+      "0844",
+      "(760) 324-7677",
+      "31-505 DATE PALM DR, Cathedral City, CA 92234",
+      33.819927,
+      -116.45976,
+      "https://www.google.com/maps?cid=7214314390998316144"
+    ],
+    [
+      "artesia",
+      "0665",
+      "(562) 402-1987",
+      "11944 SOUTH ST, Cerritos, CA 90703",
+      33.857903,
+      -118.07724,
+      "https://www.google.com/maps?cid=11299359217555379580"
+    ],
+    [
+      "chico",
+      "0980",
+      "(530) 895-1336",
+      "1555 MANGROVE AVE, Chico, CA 95926",
+      39.746082,
+      -121.84193,
+      "https://www.google.com/maps?cid=9160817313380181222"
+    ],
+    [
+      "chino hills",
+      "0812",
+      "(909) 590-7141",
+      "4046 GRAND AVE, Chino Hills, CA 91710",
+      34.00187,
+      -117.71584,
+      "https://www.google.com/maps?cid=4978940218802714584"
+    ],
+    [
+      "chino",
+      "0881",
+      "(909) 627-3662",
+      "11980 CENTRAL AVE, Chino, CA 91710",
+      34.036106,
+      -117.69032,
+      "https://www.google.com/maps?cid=14731478228888088181"
+    ],
+    [
+      "n. chula vista",
+      "0651",
+      "(619) 426-2444",
+      "454 BROADWAY, Chula Vista, CA 91910",
+      32.63224,
+      -117.09053,
+      "https://www.google.com/maps?cid=12167011874393352753"
+    ],
+    [
+      "rancho del rey",
+      "0872",
+      "(619) 216-4604",
+      "1000 TIERRA DEL REY, Chula Vista, CA 91910",
+      32.6364,
+      -117.01967,
+      "https://www.google.com/maps?cid=6724366659181286214"
+    ],
+    [
+      "e. puente hill",
+      "1404",
+      "(626) 964-8176",
+      "17811 COLIMA RD, City Of Industry, CA 91748",
+      33.991005,
+      -117.91702,
+      "https://www.google.com/maps?cid=1436410816650600575"
+    ],
+    [
+      "clovis",
+      "0668",
+      "(559) 298-2557",
+      "693 W SHAW AVE, Clovis, CA 93612",
+      36.809067,
+      -119.724785,
+      "https://www.google.com/maps?cid=5713589477828003113"
+    ],
+    [
+      "corona",
+      "0778",
+      "(951) 279-9230",
+      "581 N MAIN ST, Corona, CA 92880",
+      33.887264,
+      -117.56346,
+      "https://www.google.com/maps?cid=12941319147948682920"
+    ],
+    [
+      "costa mesa  bristol st",
+      "0660",
+      "(714) 549-1533",
+      "2946 BRISTOL ST, Costa Mesa, CA 92626",
+      33.67831,
+      -117.88554,
+      "https://www.google.com/maps?cid=10451500521226362542"
+    ],
+    [
+      "costa mesa  newport blvd",
+      "1663",
+      "(949) 645-3554",
+      "1950 NEWPORT BLVD, Costa Mesa, CA 92627",
+      33.64471,
+      -117.91465,
+      "https://www.google.com/maps?cid=6286079874376431086"
+    ],
+    [
+      "covina",
+      "0841",
+      "(626) 966-1244",
+      "1270 N AZUSA AVE, Covina, CA 91722",
+      34.102695,
+      -117.9071,
+      "https://www.google.com/maps?cid=9618364573551977950"
+    ],
+    [
+      "culver city",
+      "0894",
+      "(310) 397-5553",
+      "4520 S SEPULVEDA BLVD 102, Culver City, CA 90230",
+      34.001934,
+      -118.40435,
+      "https://www.google.com/maps?cid=15806895909792249928"
+    ],
+    [
+      "downey  paramount blvd",
+      "1664",
+      "(562) 622-6757",
+      "11432 PARAMOUNT BLVD, Downey, CA 90241",
+      33.940643,
+      -118.13913,
+      "https://www.google.com/maps?cid=451891073305001912"
+    ],
+    [
+      "downey  lakewood blvd",
+      "0636",
+      "(562) 861-9909",
+      "10231 LAKEWOOD BLVD, Downey, CA 90241",
+      33.946926,
+      -118.11831,
+      "https://www.google.com/maps?cid=12149810420727915677"
+    ],
+    [
+      "el cajon",
+      "0813",
+      "(619) 590-0084",
+      "201 JAMACHA RD, El Cajon, CA 92019",
+      32.79484,
+      -116.934924,
+      "https://www.google.com/maps?cid=14936374640350032045"
+    ],
+    [
+      "el centro",
+      "0995",
+      "(760) 353-8565",
+      "902 N IMPERIAL AVE, El Centro, CA 92243",
+      32.80052,
+      -115.570656,
+      "https://www.google.com/maps?cid=10806517080272832432"
+    ],
+    [
+      "el monte",
+      "0641",
+      "(626) 401-0404",
+      "11937 E VALLEY BLVD, El Monte, CA 91732",
+      34.063466,
+      -118.019095,
+      "https://www.google.com/maps?cid=5178775714993137222"
+    ],
+    [
+      "encinitas",
+      "0701",
+      "(760) 944-7007",
+      "254 N EL CAMINO REAL, Encinitas, CA 92024",
+      33.05192,
+      -117.26297,
+      "https://www.google.com/maps?cid=5072051379336161711"
+    ],
+    [
+      "escondido",
+      "0664",
+      "(760) 741-8426",
+      "855 W MISSION AVE, Escondido, CA 92025",
+      33.1263,
+      -117.09679,
+      "https://www.google.com/maps?cid=13417735461294358932"
+    ],
+    [
+      "fontana",
+      "0680",
+      "(909) 823-7131",
+      "16711 VALLEY BLVD, Fontana, CA 92335",
+      34.069084,
+      -117.43958,
+      "https://www.google.com/maps?cid=3714064361964288549"
+    ],
+    [
+      "shaw",
+      "0777",
+      "(559) 276-7501",
+      "4490 W SHAW AVE, Fresno, CA 93722",
+      36.808678,
+      -119.87364,
+      "https://www.google.com/maps?cid=13789980212131374125"
+    ],
+    [
+      "blackstone",
+      "0639",
+      "(559) 225-8811",
+      "3655 N BLACKSTONE AVE, Fresno, CA 93726",
+      36.784485,
+      -119.79132,
+      "https://www.google.com/maps?cid=16840057960319137292"
+    ],
+    [
+      "kings canyon",
+      "0673",
+      "(559) 251-6600",
+      "5615 E KINGS CANYON RD, Fresno, CA 93727",
+      36.736355,
+      -119.69907,
+      "https://www.google.com/maps?cid=18432643566437952674"
+    ],
+    [
+      "fullerton",
+      "0642",
+      "(714) 870-0700",
+      "1530 S HARBOR BLVD, Fullerton, CA 92832",
+      33.855988,
+      -117.92371,
+      "https://www.google.com/maps?cid=4214798118502618809"
+    ],
+    [
+      "hanford",
+      "0859",
+      "(559) 583-9790",
+      "1836 W LACEY BLVD, Hanford, CA 93230",
+      36.329773,
+      -119.67626,
+      "https://www.google.com/maps?cid=6019363180853768517"
+    ],
+    [
+      "harbor city",
+      "0851",
+      "(310) 325-7510",
+      "1315 PACIFIC COAST HWY, Harbor City, CA 90710",
+      33.79013,
+      -118.29953,
+      "https://www.google.com/maps?cid=13652274814709105787"
+    ],
+    [
+      "hemet",
+      "0866",
+      "(951) 766-1477",
+      "2050 W FLORIDA AVE, Hemet, CA 92545",
+      33.748802,
+      -116.99288,
+      "https://www.google.com/maps?cid=3175641044827067255"
+    ],
+    [
+      "bear valley",
+      "1438",
+      "(760) 949-2430",
+      "16349 BEAR VALLEY RD, Hesperia, CA 92345",
+      34.470275,
+      -117.306894,
+      "https://www.google.com/maps?cid=14618723535385484445"
+    ],
+    [
+      "hesperia",
+      "0773",
+      "(760) 947-4791",
+      "15659 MAIN ST, Hesperia, CA 92345",
+      34.423744,
+      -117.32115,
+      "https://www.google.com/maps?cid=17589214198152677316"
+    ],
+    [
+      "huntington beach",
+      "0799",
+      "(714) 964-0777",
+      "19122 BROOKHURST ST, Huntington Beach, CA 92646",
+      33.684856,
+      -117.9531,
+      "https://www.google.com/maps?cid=6024931759118253989"
+    ],
+    [
+      "huntington park",
+      "0603",
+      "(323) 583-6855",
+      "2671 RANDOLPH ST, Huntington Park, CA 90255",
+      33.985695,
+      -118.22315,
+      "https://www.google.com/maps?cid=14392832049345790189"
+    ],
+    [
+      "indio",
+      "0675",
+      "(760) 347-4597",
+      "81-246 STATE HIGHWAY 111, Indio, CA 92201",
+      33.70797,
+      -116.2479,
+      "https://www.google.com/maps?cid=14571283555231522254"
+    ],
+    [
+      "inglewood",
+      "0630",
+      "(323) 678-2255",
+      "200 E SPRUCE AVE, Inglewood, CA 90301",
+      33.956867,
+      -118.351585,
+      "https://www.google.com/maps?cid=6880272748157060749"
+    ],
+    [
+      "la habra",
+      "0997",
+      "(714) 447-0601",
+      "125 W IMPERIAL HWY, La Habra, CA 90631",
+      33.918045,
+      -117.94714,
+      "https://www.google.com/maps?cid=6285176372563914931"
+    ],
+    [
+      "la mirada",
+      "0611",
+      "(562) 944-6437",
+      "14207 ROSECRANS AVE, La Mirada, CA 90638",
+      33.903145,
+      -118.02858,
+      "https://www.google.com/maps?cid=4210902973998081501"
+    ],
+    [
+      "lake forest",
+      "0798",
+      "(949) 855-9593",
+      "22675 LAKE FOREST DR, Lake Forest, CA 92630",
+      33.633755,
+      -117.71232,
+      "https://www.google.com/maps?cid=17131510624708633372"
+    ],
+    [
+      "lakewood",
+      "1666",
+      "(562) 804-1436",
+      "5453 E DEL AMO BLVD, Lakewood, CA 90712",
+      33.84735,
+      -118.12637,
+      "https://www.google.com/maps?cid=16337996207898388368"
+    ],
+    [
+      "lancaster/ca",
+      "0678",
+      "(661) 945-9408",
+      "44229 20TH ST W, Lancaster, CA 93534",
+      34.686535,
+      -118.166664,
+      "https://www.google.com/maps?cid=18380711295372277284"
+    ],
+    [
+      "159th street",
+      "6595",
+      "(424) 408-6055",
+      "15820 INGLEWOOD AVE, Lawndale, CA 90260",
+      33.886691,
+      -118.361024,
+      "https://www.google.com/maps?cid=17231876626416349046"
+    ],
+    [
+      "lodi",
+      "0562",
+      "(209) 365-0175",
+      "1401 S CHEROKEE LN, Lodi, CA 95240",
+      38.11565,
+      -121.26109,
+      "https://www.google.com/maps?cid=12694889028639156853"
+    ],
+    [
+      "long beach",
+      "0803",
+      "(562) 985-0778",
+      "4645 E PACIFIC COAST HWY, Long Beach, CA 90804",
+      33.787285,
+      -118.138145,
+      "https://www.google.com/maps?cid=15543117719565459982"
+    ],
+    [
+      "washington boulevard",
+      "0612",
+      "(213) 749-1594",
+      "1200 W WASHINGTON BLVD, Los Angeles, CA 90007",
+      34.0389,
+      -118.28269,
+      "https://www.google.com/maps?cid=177498730765960522"
+    ],
+    [
+      "crenshaw & rodeo",
+      "0970",
+      "(323) 290-1125",
+      "3737 CRENSHAW BLVD, Los Angeles, CA 90016",
+      34.019558,
+      -118.33588,
+      "https://www.google.com/maps?cid=8115775103818689133"
+    ],
+    [
+      "atlantic",
+      "0652",
+      "(323) 722-1000",
+      "256 S ATLANTIC BLVD, Los Angeles, CA 90022",
+      34.032833,
+      -118.15269,
+      "https://www.google.com/maps?cid=9985954221365686607"
+    ],
+    [
+      "hollywood  fountain ave",
+      "1665",
+      "(323) 662-6401",
+      "3904 FOUNTAIN AVE, Los Angeles, CA 90029",
+      34.09546,
+      -118.27767,
+      "https://www.google.com/maps?cid=1350575337269311163"
+    ],
+    [
+      "pico",
+      "0614",
+      "(310) 836-6622",
+      "10644 W PICO BLVD, Los Angeles, CA 90064",
+      34.042442,
+      -118.4232,
+      "https://www.google.com/maps?cid=8008121592905345634"
+    ],
+    [
+      "atwater village",
+      "0857",
+      "(323) 258-0325",
+      "3332 SAN FERNANDO RD, Los Angeles, CA 90065",
+      34.11759,
+      -118.24965,
+      "https://www.google.com/maps?cid=15388636049507985444"
+    ],
+    [
+      "merced",
+      "0649",
+      "(209) 723-3177",
+      "1207 W MAIN ST, Merced, CA 95340",
+      37.306202,
+      -120.49381,
+      "https://www.google.com/maps?cid=4099618224019557065"
+    ],
+    [
+      "modesto",
+      "0634",
+      "(209) 529-3310",
+      "1340 MCHENRY AVE, Modesto, CA 95350",
+      37.663136,
+      -120.993095,
+      "https://www.google.com/maps?cid=8244688782916005111"
+    ],
+    [
+      "monrovia",
+      "0985",
+      "(626) 303-3906",
+      "201 WEST HUNTINGTON DR, Monrovia, CA 91016",
+      34.140756,
+      -118.003512,
+      "https://www.google.com/maps?cid=2511661263506349456"
+    ],
+    [
+      "montclair",
+      "0730",
+      "(909) 626-0717",
+      "5150 ARROW HWY, Montclair, CA 91763",
+      34.093464,
+      -117.693195,
+      "https://www.google.com/maps?cid=7480271882352099412"
+    ],
+    [
+      "moreno valley",
+      "0724",
+      "(951) 247-4564",
+      "23470 SUNNY MEAD BLVD, Moreno Valley, CA 92553",
+      33.939777,
+      -117.253204,
+      "https://www.google.com/maps?cid=11948944424195263063"
+    ],
+    [
+      "north hollywood",
+      "0854",
+      "(818) 763-0355",
+      "6065 LANKERSHIM BLVD, N Hollywood, CA 91606",
+      34.180798,
+      -118.38482,
+      "https://www.google.com/maps?cid=9938653635136924617"
+    ],
+    [
+      "new park",
+      "6458",
+      "(510) 745-0100",
+      "39165 CEDAR BLVD, Newark, CA 94560",
+      37.52354,
+      -122.00562,
+      "https://www.google.com/maps?cid=17663300051319821745"
+    ],
+    [
+      "tri-city crossroad",
+      "0742",
+      "(760) 724-2726",
+      "3752 PLAZA DR, Oceanside, CA 92056",
+      33.182487,
+      -117.29471,
+      "https://www.google.com/maps?cid=4833741808464576074"
+    ],
+    [
+      "oceanside",
+      "0667",
+      "(760) 721-4195",
+      "2041 MISSION AVE, Oceanside, CA 92058",
+      33.205326,
+      -117.36269,
+      "https://www.google.com/maps?cid=7139378114517073548"
+    ],
+    [
+      "ontario",
+      "0732",
+      "(909) 947-6889",
+      "2415 S VINEYARD AVE, Ontario, CA 91761",
+      34.028988,
+      -117.60933,
+      "https://www.google.com/maps?cid=15279722626476108994"
+    ],
+    [
+      "orange  katella avenue",
+      "0806",
+      "(714) 997-1540",
+      "215 E KATELLA AVE, Orange, CA 92867",
+      33.810238,
+      -117.851746,
+      "https://www.google.com/maps?cid=11535620099460175431"
+    ],
+    [
+      "oxnard",
+      "0650",
+      "(805) 486-6387",
+      "939 S OXNARD BLVD, Oxnard, CA 93030",
+      34.191833,
+      -119.17786,
+      "https://www.google.com/maps?cid=15373770483922576257"
+    ],
+    [
+      "palmdale",
+      "0772",
+      "(661) 266-0193",
+      "3054 E PALMDALE BLVD, Palmdale, CA 93550",
+      34.579636,
+      -118.0745,
+      "https://www.google.com/maps?cid=3173747809149675497"
+    ],
+    [
+      "panorama city",
+      "0879",
+      "(818) 891-2949",
+      "8521 VAN NUYS BLVD, Panorama City, CA 91402",
+      34.22568,
+      -118.44969,
+      "https://www.google.com/maps?cid=1875392262988293682"
+    ],
+    [
+      "pasadena/ca",
+      "0607",
+      "(626) 793-8181",
+      "1135 E COLORADO BLVD, Pasadena, CA 91106",
+      34.146317,
+      -118.127174,
+      "https://www.google.com/maps?cid=7965850350307878619"
+    ],
+    [
+      "pleasant hill",
+      "0968",
+      "(925) 691-0178",
+      "520 CONTRA COSTA BLVD, Pleasant Hill, CA 94523",
+      37.98019,
+      -122.06767,
+      "https://www.google.com/maps?cid=6088326802863992312"
+    ],
+    [
+      "foothill blvd.",
+      "1439",
+      "(909) 392-1038",
+      "340 E. FOOTHILL BLVD, Pomona, CA 91767",
+      34.10652,
+      -117.74352,
+      "https://www.google.com/maps?cid=3073055586073120595"
+    ],
+    [
+      "pomona",
+      "0616",
+      "(909) 623-3476",
+      "336 E HOLT AVE, Pomona, CA 91767",
+      34.061985,
+      -117.74494,
+      "https://www.google.com/maps?cid=743588655228624660"
+    ],
+    [
+      "rancho cordova",
+      "0712",
+      "(916) 638-4808",
+      "10899 FOLSOM BLVD, Rancho Cordova, CA 95670",
+      38.60115,
+      -121.27974,
+      "https://www.google.com/maps?cid=12545903433821353506"
+    ],
+    [
+      "cucamonga  terra vista",
+      "1668",
+      "(909) 484-1801",
+      "11788 FOOTHILL BLVD, Rancho Cucamonga, CA 91730",
+      34.106735,
+      -117.54752,
+      "https://www.google.com/maps?cid=7288504405666592506"
+    ],
+    [
+      "rancho cucamonga",
+      "0637",
+      "(909) 945-3313",
+      "9292 FOOTHILL BLVD, Rancho Cucamonga, CA 91730",
+      34.10717,
+      -117.60287,
+      "https://www.google.com/maps?cid=895391663866057711"
+    ],
+    [
+      "rancho santa margarita",
+      "6483",
+      "(949) 459-1841",
+      "23071 ANTONIO PARKWAY, Rancho Santa Margarita, CA 92688",
+      33.627808,
+      -117.605835,
+      "https://www.google.com/maps?cid=16367687561444121644"
+    ],
+    [
+      "redlands",
+      "0833",
+      "(909) 792-9110",
+      "1650 W REDLANDS BLVD, Redlands, CA 92373",
+      34.063713,
+      -117.21127,
+      "https://www.google.com/maps?cid=3869999078744647572"
+    ],
+    [
+      "redondo",
+      "0814",
+      "(310) 798-9968",
+      "1800 ARTESIA BLVD, Redondo Beach, CA 90278",
+      33.872158,
+      -118.38025,
+      "https://www.google.com/maps?cid=13347405222265132083"
+    ],
+    [
+      "reseda",
+      "0638",
+      "(818) 708-7002",
+      "7340 RESEDA BLVD, Reseda, CA 91335",
+      34.204075,
+      -118.53575,
+      "https://www.google.com/maps?cid=13795388269027646782"
+    ],
+    [
+      "rialto  foothill blvd",
+      "0790",
+      "(909) 421-1177",
+      "505 E FOOTHILL BLVD, Rialto, CA 92376",
+      34.10572,
+      -117.35959,
+      "https://www.google.com/maps?cid=17736898392438140105"
+    ],
+    [
+      "rialto  west valley blvd",
+      "1669",
+      "(909) 877-3421",
+      "484 W VALLEY BLVD, Rialto, CA 92376",
+      34.07087,
+      -117.378586,
+      "https://www.google.com/maps?cid=8805996945930392773"
+    ],
+    [
+      "magnolia",
+      "0690",
+      "(951) 354-0100",
+      "10831 MAGNOLIA AVE, Riverside, CA 92505",
+      33.90641,
+      -117.472435,
+      "https://www.google.com/maps?cid=6636647742336816561"
+    ],
+    [
+      "rocklin",
+      "6596",
+      "(916) 625-0260",
+      "5880 PACIFIC ST, Rocklin, CA 95677",
+      38.782151,
+      -121.242134,
+      "https://www.google.com/maps?cid=8337651517390027550"
+    ],
+    [
+      "rohnert park",
+      "0862",
+      "(707) 588-0799",
+      "4805 REDWOOD DR, Rohnert Park, CA 94928",
+      38.36611,
+      -122.714874,
+      "https://www.google.com/maps?cid=6593004753923057445"
+    ],
+    [
+      "sacramento",
+      "0714",
+      "(916) 392-3131",
+      "5895 47TH AVE, Sacramento, CA 95824",
+      38.51089,
+      -121.436851,
+      "https://www.google.com/maps?cid=10973691233493827805"
+    ],
+    [
+      "arden way",
+      "0723",
+      "(916) 646-6671",
+      "2500 ARDEN WAY, Sacramento, CA 95825",
+      38.595554,
+      -121.40343,
+      "https://www.google.com/maps?cid=355633023386453991"
+    ],
+    [
+      "northgate",
+      "0774",
+      "(916) 567-0137",
+      "3534 NORTHGATE BLVD, Sacramento, CA 95834",
+      38.631306,
+      -121.4748,
+      "https://www.google.com/maps?cid=5929590185735006378"
+    ],
+    [
+      "citrus heights",
+      "0719",
+      "(916) 331-4880",
+      "5135 AUBURN BLVD, Sacramento, CA 95841",
+      38.663013,
+      -121.345505,
+      "https://www.google.com/maps?cid=5155309943523095826"
+    ],
+    [
+      "san carlos",
+      "0827",
+      "(650) 632-1522",
+      "1087 OLD COUNTY RD, San Carlos, CA 94070",
+      37.50201,
+      -122.251656,
+      "https://www.google.com/maps?cid=7421227121041411013"
+    ],
+    [
+      "normal heights",
+      "0810",
+      "(619) 283-7107",
+      "3550 EL CAJON BLVD, San Diego, CA 92104",
+      32.7561,
+      -117.116455,
+      "https://www.google.com/maps?cid=14423460392266521147"
+    ],
+    [
+      "67th street",
+      "0647",
+      "(619) 463-4402",
+      "6714 EL CAJON BLVD, San Diego, CA 92115",
+      32.768948,
+      -117.053345,
+      "https://www.google.com/maps?cid=4393243438691022340"
+    ],
+    [
+      "clairemont",
+      "0978",
+      "(858) 569-9533",
+      "4441 GENESEE AVE, San Diego, CA 92117",
+      32.824493,
+      -117.18395,
+      "https://www.google.com/maps?cid=18171838857472117427"
+    ],
+    [
+      "san fernando",
+      "0635",
+      "(818) 898-1491",
+      "1231 SAN FERNANDO RD, San Fernando, CA 91340",
+      34.285,
+      -118.44346,
+      "https://www.google.com/maps?cid=15641981265908101890"
+    ],
+    [
+      "stevens creek",
+      "0873",
+      "(408) 246-8090",
+      "3780 STEVENS CREEK BLVD, San Jose, CA 95117",
+      37.322777,
+      -121.96802,
+      "https://www.google.com/maps?cid=11706373985936430205"
+    ],
+    [
+      "east san jose",
+      "0828",
+      "(408) 254-7022",
+      "2730 E STORY ROAD, San Jose, CA 95127",
+      37.35099,
+      -121.82593,
+      "https://www.google.com/maps?cid=13848237888681915829"
+    ],
+    [
+      "san leandro",
+      "0847",
+      "(510) 895-9200",
+      "14845 E 14TH STREET, San Leandro, CA 94578",
+      37.70637,
+      -122.13176,
+      "https://www.google.com/maps?cid=14090517233944478514"
+    ],
+    [
+      "san marcos",
+      "1712",
+      "(760) 591-3900",
+      "868 W SAN MARCOS BLVD, San Marcos, CA 92069",
+      33.136135,
+      -117.18426,
+      "https://www.google.com/maps?cid=11639651060608380222"
+    ],
+    [
+      "santa ana  east 1st st",
+      "0609",
+      "(714) 547-7477",
+      "124 E 1ST ST, Santa Ana, CA 92701",
+      33.745083,
+      -117.86663,
+      "https://www.google.com/maps?cid=1042385538444462918"
+    ],
+    [
+      "santa clarita",
+      "0808",
+      "(661) 251-8004",
+      "20600 GOLDEN TRIANGLE RD, Santa Clarita, CA 91351",
+      34.419014,
+      -118.4958,
+      "https://www.google.com/maps?cid=7590442996241849620"
+    ],
+    [
+      "santa maria",
+      "0801",
+      "(805) 345-4180",
+      "1723 S BROADWAY, Santa Maria, CA 93454",
+      34.92884,
+      -120.43718,
+      "https://www.google.com/maps?cid=8708256570971225330"
+    ],
+    [
+      "santa monica",
+      "1672",
+      "(310) 829-1534",
+      "2411 PICO BLVD, Santa Monica, CA 90405",
+      34.022385,
+      -118.46474,
+      "https://www.google.com/maps?cid=10909476431615029346"
+    ],
+    [
+      "santee",
+      "0898",
+      "(619) 596-4567",
+      "10041 MISSION GORGE RD, Santee, CA 92071",
+      32.83792,
+      -116.978714,
+      "https://www.google.com/maps?cid=16019171033968773751"
+    ],
+    [
+      "simi valley",
+      "0619",
+      "(805) 522-4002",
+      "660 E LOS ANGELES AVE, Simi Valley, CA 93065",
+      34.27041,
+      -118.784065,
+      "https://www.google.com/maps?cid=9533528481052228531"
+    ],
+    [
+      "spring valley",
+      "1454",
+      "(619) 464-0406",
+      "8888 JAMACHA BLVD, Spring Valley, CA 91977",
+      32.707832,
+      -117.00764,
+      "https://www.google.com/maps?cid=13408897948780261620"
+    ],
+    [
+      "south stockton",
+      "0710",
+      "(209) 464-6066",
+      "845 DR.MARTIN LUTHER KING, Stockton, CA 95206",
+      37.941006,
+      -121.27613,
+      "https://www.google.com/maps?cid=7268094976745305273"
+    ],
+    [
+      "west lane",
+      "0711",
+      "(209) 952-1222",
+      "4987 WEST LANE, Stockton, CA 95210",
+      38.00074,
+      -121.2908,
+      "https://www.google.com/maps?cid=3685253726983464277"
+    ],
+    [
+      "sunnyvale",
+      "0840",
+      "(408) 774-0159",
+      "170 E EL CAMINO BLVD, Sunnyvale, CA 94087",
+      37.36463,
+      -122.02971,
+      "https://www.google.com/maps?cid=18113998579528468405"
+    ],
+    [
+      "temecula  winchester rd",
+      "0800",
+      "(951) 695-2322",
+      "40605 WINCHESTER RD, Temecula, CA 92591",
+      33.529892,
+      -117.15505,
+      "https://www.google.com/maps?cid=2155137938322369039"
+    ],
+    [
+      "thousand oaks",
+      "0739",
+      "(805) 497-0089",
+      "2099E THOUSAND OAKS BLVD, Thousand Oaks, CA 91362",
+      34.17579,
+      -118.84686,
+      "https://www.google.com/maps?cid=13346898335768379989"
+    ],
+    [
+      "torrance  sepulveda blvd",
+      "0658",
+      "(310) 326-3002",
+      "3124 SEPULVEDA BLVD, Torrance, CA 90505",
+      33.824287,
+      -118.34209,
+      "https://www.google.com/maps?cid=2817579817542405028"
+    ],
+    [
+      "tujunga",
+      "1676",
+      "(818) 353-8100",
+      "6511 FOOTHILL BLVD, Tujunga, CA 91042",
+      34.245396,
+      -118.27354,
+      "https://www.google.com/maps?cid=1350697297899566859"
+    ],
+    [
+      "union city/ca",
+      "0816",
+      "(510) 441-0261",
+      "30085 INDUSTRIAL PARKWAY, Union City, CA 94587",
+      37.610775,
+      -122.06862,
+      "https://www.google.com/maps?cid=15835823297145908427"
+    ],
+    [
+      "upland",
+      "0960",
+      "(909) 931-9996",
+      "304 E FOOTHILL BLVD, Upland, CA 91786",
+      34.106503,
+      -117.647484,
+      "https://www.google.com/maps?cid=4403035235165325402"
+    ],
+    [
+      "vallejo",
+      "0815",
+      "(707) 648-1032",
+      "182 PLAZA DRIVE, Vallejo, CA 94591",
+      38.133923,
+      -122.21602,
+      "https://www.google.com/maps?cid=2239591876111866976"
+    ],
+    [
+      "sherman oaks",
+      "0888",
+      "(818) 787-3311",
+      "6110 SEPULVEDA BLVD, Van Nuys, CA 91411",
+      34.181065,
+      -118.4657,
+      "https://www.google.com/maps?cid=13291984690013791103"
+    ],
+    [
+      "ventura (so)",
+      "1401",
+      "(805) 652-0653",
+      "2705 EAST THOMPSON BLVD, Ventura, CA 93003",
+      34.272587,
+      -119.2599,
+      "https://www.google.com/maps?cid=10137339678390258767"
+    ],
+    [
+      "victorville",
+      "0972",
+      "(760) 245-6055",
+      "14475 7TH ST, Victorville, CA 92395",
+      34.51327,
+      -117.31546,
+      "https://www.google.com/maps?cid=12003965575661883044"
+    ],
+    [
+      "visalia",
+      "0656",
+      "(559) 733-4535",
+      "3015 S MOONEY BLVD, Visalia, CA 93277",
+      36.303947,
+      -119.31423,
+      "https://www.google.com/maps?cid=10058508650840287255"
+    ],
+    [
+      "west covina",
+      "0676",
+      "(626) 810-9936",
+      "1540 E AMAR RD, West Covina, CA 91792",
+      34.029778,
+      -117.91257,
+      "https://www.google.com/maps?cid=9834408847720141797"
+    ],
+    [
+      "westchester",
+      "0474",
+      "(310) 670-2420",
+      "6136 W MANCHESTER AVE, Westchester, CA 90045",
+      33.959366,
+      -118.39313,
+      "https://www.google.com/maps?cid=3852710433035536586"
+    ],
+    [
+      "westminster",
+      "0653",
+      "(714) 893-8544",
+      "15221 BEACH BLVD, Westminster, CA 92683",
+      33.741474,
+      -117.98997,
+      "https://www.google.com/maps?cid=807029202229359041"
+    ],
+    [
+      "santa fe springs",
+      "0792",
+      "(562) 908-4400",
+      "11456 E WASHINGTON BLVD, Whittier, CA 90606",
+      33.97037,
+      -118.067245,
+      "https://www.google.com/maps?cid=12605081455865575669"
+    ],
+    [
+      "west hills",
+      "0975",
+      "(818) 883-1770",
+      "6325 FALLBROOK AVE, Woodland Hills, CA 91367",
+      34.185234,
+      -118.624016,
+      "https://www.google.com/maps?cid=4639365813450172445"
+    ],
+    [
+      "yucaipa",
+      "1493",
+      "(909) 790-6841",
+      "33133 YUCAIPA BLVD, Yucaipa, CA 92399",
+      34.03345,
+      -117.081566,
+      "https://www.google.com/maps?cid=7199969436179480636"
+    ]
+  ],
+  "Colorado": [
+    [
+      "platte",
+      "1748",
+      "(719) 447-9988",
+      "2800 E. PLATTE ST, Colorado Springs, CO 80909",
+      38.840218,
+      -104.77551,
+      "https://www.google.com/maps?cid=4785852266643026951"
+    ],
+    [
+      "north academy",
+      "0270",
+      "(719) 599-4455",
+      "7625 N ACADEMY BLVD, Colorado Springs, CO 80920",
+      38.941635,
+      -104.79734,
+      "https://www.google.com/maps?cid=1201560618335667677"
+    ],
+    [
+      "broadway",
+      "0241",
+      "(303) 778-0440",
+      "487 S BROADWAY, Denver, CO 80209",
+      39.707867,
+      -104.99064,
+      "https://www.google.com/maps?cid=13399372862987022438"
+    ],
+    [
+      "center",
+      "1788",
+      "(303) 640-3360",
+      "592 SOUTH BROADWAY, Denver, CO 80209",
+      39.70584,
+      -104.98728,
+      "https://www.google.com/maps?cid=15751885137048092187"
+    ],
+    [
+      "parker",
+      "1750",
+      "(303) 337-2380",
+      "1390 S. PARKER RD, Denver, CO 80231",
+      39.69214,
+      -104.89212,
+      "https://www.google.com/maps?cid=15957899123031025016"
+    ],
+    [
+      "west colfax",
+      "1745",
+      "(303) 595-9100",
+      "9301 W COLFAX AVE, Lakewood, CO 80215",
+      39.740627,
+      -105.10171,
+      "https://www.google.com/maps?cid=9648269107605869744"
+    ],
+    [
+      "lakewood",
+      "1749",
+      "(303) 763-5454",
+      "7817 W. JEWELL AVE, Lakewood, CO 80226",
+      39.68253,
+      -105.08567,
+      "https://www.google.com/maps?cid=3085919533855059852"
+    ],
+    [
+      "castle rock",
+      "1787",
+      "(303) 663-0312",
+      "4400 BARRANCA LANE, Castle Rock, CO 80104",
+      39.406075,
+      -104.856514,
+      "https://www.google.com/maps?cid=15668144488448019568"
+    ],
+    [
+      "lafayette",
+      "1742",
+      "(303) 665-9988",
+      "200 NORTH HWY 287, Lafayette, CO 80026",
+      39.999,
+      -105.10189,
+      "https://www.google.com/maps?cid=10173154187186827189"
+    ],
+    [
+      "littleton",
+      "0271",
+      "(303) 754-0010",
+      "7469 PARK MEADOWS DR, Lone Tree, CO 80124",
+      39.56117,
+      -104.90357,
+      "https://www.google.com/maps?cid=2769148328342726341"
+    ],
+    [
+      "aurora",
+      "0242",
+      "(303) 338-8080",
+      "12820 E MISSISSIPPI AVE, Aurora, CO 80012",
+      39.696231,
+      -104.840051,
+      "https://www.google.com/maps?cid=144787632181182679"
+    ],
+    [
+      "tower road",
+      "1753",
+      "(303) 766-0888",
+      "18385 EAST GIRARD AVE, Aurora, CO 80013",
+      39.65545,
+      -104.7737,
+      "https://www.google.com/maps?cid=7420688965007547055"
+    ],
+    [
+      "wadsworth",
+      "1744",
+      "(303) 423-8600",
+      "7999 WADSWORTH BLVD, Arvada, CO 80003",
+      39.841156,
+      -105.08474,
+      "https://www.google.com/maps?cid=5542709562000419431"
+    ],
+    [
+      "northglenn",
+      "1752",
+      "(303) 450-3191",
+      "920 E 120TH AVENUE, Northglenn, CO 80233",
+      39.913387,
+      -104.975716,
+      "https://www.google.com/maps?cid=11312853546973834589"
+    ],
+    [
+      "south academy",
+      "0268",
+      "(719) 380-0003",
+      "135 N ACADEMY BLVD, Colorado Spgs, CO 80909",
+      38.833134,
+      -104.75656,
+      "https://www.google.com/maps?cid=4364511914685460732"
+    ]
+  ],
+  "Connecticut": [
+  	[
+      "mystic",
+      "06591",
+      "(860) 536-9235",
+      "2400 GOLD STAR HWY, Mystic Groton, CT 06355",
+      41.390272,
+      -71.988618,
+      "https://www.google.com/maps?cid=6331070353622775249"
+    ],
+    [
+      "hamden",
+      "0317",
+      "(203) 281-4441",
+      "2301 DIXWELL AVE, Hamden, CT 06514",
+      41.371944,
+      -72.91685,
+      "https://www.google.com/maps?cid=8796418389782538267"
+    ],
+    [
+      "orange",
+      "0222",
+      "(203) 795-1616",
+      "145 BOSTON POST RD, Orange, CT 06477",
+      41.274265,
+      -72.99331,
+      "https://www.google.com/maps?cid=11304524675082889184"
+    ],
+    [
+      "west hartford",
+      "0421",
+      "(860) 570-2525",
+      "1000 NEW BRITAIN AVE, West Hartford, CT 06110",
+      41.730515,
+      -72.72171,
+      "https://www.google.com/maps?cid=15926636037271965422"
+    ],
+    [
+      "manchester/ct",
+      "0238",
+      "(860) 646-5900",
+      "205 SPENCER ST, Manchester, CT 06040",
+      41.767853,
+      -72.570045,
+      "https://www.google.com/maps?cid=10420371921274592958"
+    ],
+    [
+      "bridgeport",
+      "0439",
+      "(203) 335-6009",
+      "513 BOSTON AVE, Bridgeport, CT 06610",
+      41.19949,
+      -73.180954,
+      "https://www.google.com/maps?cid=3806924197938100023"
+    ],
+    [
+      "berlin",
+      "0250",
+      "(860) 829-6800",
+      "44 BERLIN TURNPIKE, Berlin, CT 06037",
+      41.64822,
+      -72.7306,
+      "https://www.google.com/maps?cid=12305995313885457036"
+    ],
+    [
+      "southington",
+      "6405",
+      "(860) 793-0505",
+      "1217 QUEEN STREET, Southington, CT 06489",
+      41.649693,
+      -72.87066,
+      "https://www.google.com/maps?cid=1398342716976194973"
+    ],
+    [
+      "waterbury",
+      "0277",
+      "(203) 757-5678",
+      "699 WOLCOTT ST, Waterbury, CT 06705",
+      41.561325,
+      -73.01237,
+      "https://www.google.com/maps?cid=11815604288159952422"
+    ]
+  ],
+  "Delaware": [
+    [
+      "midway",
+      "1488",
+      "(302) 995-5497",
+      "4800 KIRKWOOD HWY, Wilmington, DE 19808",
+      39.721405,
+      -75.66122,
+      "https://www.google.com/maps?cid=117629141365961995"
+    ],
+    [
+      "prices corner",
+      "0066",
+      "(302) 998-2254",
+      "3207 ROBERT KIRKWOOD HWY, Wilmington, DE 19808",
+      39.737843,
+      -75.62397,
+      "https://www.google.com/maps?cid=3156828476839463"
+    ],
+    [
+      "claymont",
+      "1625",
+      "(302) 764-4391",
+      "729 PHILADELPHIA PIKE, Wilmington, DE 19809",
+      39.77146,
+      -75.49933,
+      "https://www.google.com/maps?cid=10044443767787596700"
+    ],
+    [
+      "bear",
+      "0374",
+      "(302) 836-3338",
+      "1164 PULASKI HWY, Bear, DE 19701",
+      39.629734,
+      -75.66373,
+      "https://www.google.com/maps?cid=6955301369581798977"
+    ],
+    [
+      "dover",
+      "0067",
+      "(302) 678-2050",
+      "919 N DUPONT HWY, Dover, DE 19901",
+      39.18427,
+      -75.53249,
+      "https://www.google.com/maps?cid=7910772074961258465"
+    ],
+    [
+      "christiana",
+      "1402",
+      "(302) 322-4307",
+      "135 CHRISTIANA RD, New Castle, DE 19720",
+      39.66426,
+      -75.61685,
+      "https://www.google.com/maps?cid=5807917451733887547"
+    ],
+    [
+      "concord pike",
+      "0062",
+      "(302) 478-7006",
+      "2904 CONCORD PIKE, Talleyville, DE 19803",
+      39.799587,
+      -75.54839,
+      "https://www.google.com/maps?cid=8993341383206134694"
+    ]
+  ],
+  "Georgia": [
+    [
+      "dacula",
+      "1658",
+      "(770) 995-5813",
+      "571 DACULA ROAD, Dacula, GA 30019",
+      34.00063,
+      -83.90929,
+      "https://www.google.com/maps?cid=6583984631552641844"
+    ],
+    [
+      "whittlesey blvd",
+      "1573",
+      "(706) 653-1053",
+      "6437 WHITTLESEY BLVD, Columbus, GA 31909",
+      32.548496,
+      -84.937584,
+      "https://www.google.com/maps?cid=5060673668119463633"
+    ],
+    [
+      "athens",
+      "0109",
+      "(706) 549-3428",
+      "3702 ATLANTA HWY, Athens, GA 30606",
+      33.94133,
+      -83.465775,
+      "https://www.google.com/maps?cid=2151555230058724268"
+    ],
+    [
+      "holly springs",
+      "1701",
+      "(770) 592-9497",
+      "4980 HOLLY SPRINGS PKWY, Woodstock, GA 30188",
+      34.143123,
+      -84.511251,
+      "https://www.google.com/maps?cid=6760798817441281979"
+    ],
+    [
+      "newnan",
+      "1660",
+      "(770) 304-1561",
+      "85 MARKETPLACE DRIVE, Newnan, GA 30265",
+      33.409054,
+      -84.68897,
+      "https://www.google.com/maps?cid=15088672215213462116"
+    ],
+    [
+      "abercorn",
+      "0129",
+      "(912) 920-1442",
+      "8702 ABERCORN ST, Savannah, GA 31406",
+      31.997972,
+      -81.12685,
+      "https://www.google.com/maps?cid=12934704825528991529"
+    ],
+    [
+      "howell mill",
+      "1792",
+      "(404) 367-0101",
+      "1685 HOWELL MILL ROAD NW, Atlanta, GA 30318",
+      33.800053,
+      -84.41558,
+      "https://www.google.com/maps?cid=8666486752945551831"
+    ],
+    [
+      "peachtree road",
+      "1562",
+      "(404) 816-6655",
+      "3884 PEACHTREE RD NE, Atlanta, GA 30319",
+      33.858019,
+      -84.344222,
+      "https://www.google.com/maps?cid=7377938368085768767"
+    ],
+    [
+      "piedmont road",
+      "0314",
+      "(404) 231-0032",
+      "2399 PIEDMONT RD, Atlanta, GA 30324",
+      33.819893,
+      -84.366936,
+      "https://www.google.com/maps?cid=17585455922395211204"
+    ],
+    [
+      "sandy springs",
+      "0316",
+      "(404) 843-0622",
+      "6521 ROSWELL RD, Atlanta, GA 30328",
+      33.932846,
+      -84.37933,
+      "https://www.google.com/maps?cid=4514274980354185423"
+    ],
+    [
+      "buford highway",
+      "0101",
+      "(404) 728-9755",
+      "4105 BUFORD HWY NE, Atlanta, GA 30345",
+      33.86247,
+      -84.30579,
+      "https://www.google.com/maps?cid=17754084182609453461"
+    ],
+    [
+      "lilburn",
+      "0119",
+      "(770) 279-9877",
+      "3965 LAWRENCEVILLE HWY NW, Lilburn, GA 30047",
+      33.905552,
+      -84.11308,
+      "https://www.google.com/maps?cid=478505226701324805"
+    ],
+    [
+      "hwy 78 & paxton drive",
+      "1561",
+      "(770) 979-0308",
+      "4125 HIGHWAY 78, Lilburn, GA 30047",
+      33.83659,
+      -84.07269,
+      "https://www.google.com/maps?cid=2227648033945859379"
+    ],
+    [
+      "norcross",
+      "0103",
+      "(770) 448-7776",
+      "5820 JIMMY CARTER BLVD, Norcross, GA 30071",
+      33.918694,
+      -84.21084,
+      "https://www.google.com/maps?cid=1521546469813678638"
+    ],
+    [
+      "jimmy carter",
+      "1790",
+      "(770) 493-1651",
+      "4148 JIMMY CARTER BLVD, Norcross, GA 30093",
+      33.87009,
+      -84.18872,
+      "https://www.google.com/maps?cid=1721785156245489129"
+    ],
+    [
+      "jonesboro",
+      "1553",
+      "(770) 473-9930",
+      "8015 TARA BLVD, Jonesboro, GA 30236",
+      33.535496,
+      -84.36509,
+      "https://www.google.com/maps?cid=17482497935680839774"
+    ],
+    [
+      "macland crossing",
+      "1564",
+      "(770) 794-3265",
+      "2045 MACLAND CROSSING CIR, Marietta, GA 30008",
+      33.90427,
+      -84.60403,
+      "https://www.google.com/maps?cid=2612737752838347957"
+    ],
+    [
+      "marietta",
+      "0106",
+      "(770) 956-8453",
+      "1531 COBB PARKWAY, Marietta, GA 30060",
+      33.915069,
+      -84.497362,
+      "https://www.google.com/maps?cid=2862823542529993316"
+    ],
+    [
+      "whitlock",
+      "1429",
+      "(770) 428-5524",
+      "1008 WHITLOCK AVE, Marietta, GA 30064",
+      33.95193,
+      -84.58203,
+      "https://www.google.com/maps?cid=8046470970994951334"
+    ],
+    [
+      "hammond drive",
+      "1557",
+      "(404) 256-4195",
+      "224 HAMMOND DR, Sandy Springs, GA 30328",
+      33.919422,
+      -84.38063,
+      "https://www.google.com/maps?cid=7367669974701583832"
+    ],
+    [
+      "doraville",
+      "1552",
+      "(770) 455-7405",
+      "5600 BUFORD HWY, Doraville, GA 30340",
+      33.905346,
+      -84.27345,
+      "https://www.google.com/maps?cid=8288581127231415120"
+    ],
+    [
+      "mall of georgia",
+      "1064",
+      "(770) 831-5418",
+      "2908 BUFORD DRIVE NE, Buford, GA 30519",
+      34.052413,
+      -83.995117,
+      "https://www.google.com/maps?cid=14833377698854686377"
+    ],
+    [
+      "stone mountain",
+      "1796",
+      "(404) 549-5321",
+      "4805 MEMORIAL DR, Stone Mountain, GA 30083",
+      33.78606,
+      -84.23365,
+      "https://www.google.com/maps?cid=16103137172080508335"
+    ],
+    [
+      "dogwood road",
+      "1568",
+      "(770) 985-2264",
+      "883 DOGWOOD RD, Lawrenceville, GA 30044",
+      33.88852,
+      -84.059875,
+      "https://www.google.com/maps?cid=8831982070303073601"
+    ],
+    [
+      "lawrenceville",
+      "0386",
+      "(770) 513-1210",
+      "589 W PIKE ST, Lawrenceville, GA 30045",
+      33.96302,
+      -84.0084,
+      "https://www.google.com/maps?cid=7540410642178381041"
+    ],
+    [
+      "scenic highway",
+      "1702",
+      "(678) 407-6148",
+      "845 SCENIC HIGHWAY S, Lawrenceville, GA 30046",
+      33.918053,
+      -84.00034,
+      "https://www.google.com/maps?cid=8298389276800743658"
+    ],
+    [
+      "pleasant hill",
+      "1801",
+      "(678) 380-4354",
+      "1625 PLEASANT HILL RD, Duluth, GA 30096",
+      33.944695,
+      -84.12719,
+      "https://www.google.com/maps?cid=5921915453203237482"
+    ],
+    [
+      "gordon avenue",
+      "0043",
+      "(706) 736-9971",
+      "1725 GORDON HWY, Augusta, GA 30904",
+      33.44111,
+      -82.026665,
+      "https://www.google.com/maps?cid=6866532429674220423"
+    ],
+    [
+      "augusta",
+      "6461",
+      "(706) 863-2540",
+      "3127 WASHINGTON ROAD, Augusta, GA 30909",
+      33.514412,
+      -82.05659,
+      "https://www.google.com/maps?cid=343785377068721598"
+    ],
+    [
+      "peachtree city",
+      "1563",
+      "(770) 487-5923",
+      "1120 CROSSTOWN CT, Peachtree City, GA 30269",
+      33.37569,
+      -84.56249,
+      "https://www.google.com/maps?cid=7442653640948628998"
+    ],
+    [
+      "covington hwy",
+      "0228",
+      "(770) 322-0300",
+      "5380 COVINGTON HWY, Decatur, GA 30035",
+      33.732113,
+      -84.1949,
+      "https://www.google.com/maps?cid=7633077030641906889"
+    ],
+    [
+      "mableton",
+      "1428",
+      "(678) 945-9701",
+      "5029 FLOYD ROAD SW, Mableton, GA 30126",
+      33.831272,
+      -84.575485,
+      "https://www.google.com/maps?cid=16638063807145983119"
+    ],
+    [
+      "orchard square",
+      "1656",
+      "(770) 592-0811",
+      "4290 BELLS FERRY ROAD NW, Kennesaw, GA 30144",
+      34.055164,
+      -84.55505,
+      "https://www.google.com/maps?cid=6245430302106580743"
+    ],
+    [
+      "busbee @ wade green",
+      "1710",
+      "(770) 429-0509",
+      "1466 GEORG BUSBEE PKWY NW, Kennesaw, GA 30144",
+      34.055954,
+      -84.59251,
+      "https://www.google.com/maps?cid=13407801043696783182"
+    ],
+    [
+      "kennesaw",
+      "1570",
+      "(770) 423-9019",
+      "2773 COBB PKWY NW, Kennesaw, GA 30152",
+      34.02052,
+      -84.62359,
+      "https://www.google.com/maps?cid=1341309311755137240"
+    ],
+    [
+      "union city/ga",
+      "0104",
+      "(770) 964-0071",
+      "5000 HWY 138, Union City, GA 30291",
+      33.569645,
+      -84.54655,
+      "https://www.google.com/maps?cid=15625305099750257393"
+    ],
+    [
+      "stockbridge",
+      "1567",
+      "(770) 389-7318",
+      "5270 NORTH HENRY BLVD, Stockbridge, GA 30281",
+      33.548466,
+      -84.25194,
+      "https://www.google.com/maps?cid=13467081585596794219"
+    ],
+    [
+      "cumberland",
+      "1795",
+      "(770) 953-1003",
+      "2653 COBB PKWY SE, Smyrna, GA 30080",
+      33.888223,
+      -84.473015,
+      "https://www.google.com/maps?cid=6045258598156726100"
+    ],
+    [
+      "griffin",
+      "1630",
+      "(770) 233-8704",
+      "1300 N. EXPRESSWAY, Griffin, GA 30223",
+      33.269295,
+      -84.28963,
+      "https://www.google.com/maps?cid=2559919607616702820"
+    ],
+    [
+      "johns creek",
+      "1657",
+      "(770) 740-1391",
+      "10965 JONES BRIDGE ROAD, Johns Creek, GA 30022",
+      34.04831,
+      -84.22135,
+      "https://www.google.com/maps?cid=9639516703393355807"
+    ],
+    [
+      "mcdonough hwy",
+      "1554",
+      "(770) 388-9267",
+      "1717 HWY 20, Conyers, GA 30013",
+      33.644837,
+      -84.014875,
+      "https://www.google.com/maps?cid=11475795043975207836"
+    ],
+    [
+      "salem road",
+      "1565",
+      "(770) 483-1280",
+      "2500 SALEM RD, Conyers, GA 30013",
+      33.623432,
+      -83.97579,
+      "https://www.google.com/maps?cid=603022196524522770"
+    ],
+    [
+      "snellville",
+      "0108",
+      "(770) 978-0834",
+      "2207 E MAIN ST, Snellville, GA 30078",
+      33.855576,
+      -84.00495,
+      "https://www.google.com/maps?cid=16637274757485841816"
+    ],
+    [
+      "cumming",
+      "1629",
+      "(678) 455-6794",
+      "1880 BUFORD HWY, Cumming, GA 30041",
+      34.159058,
+      -84.111885,
+      "https://www.google.com/maps?cid=8354276178928498172"
+    ],
+    [
+      "monroe",
+      "1566",
+      "(770) 207-5650",
+      "2035 WEST SPRING ST, Monroe, GA 30655",
+      33.795704,
+      -83.743965,
+      "https://www.google.com/maps?cid=1800540042645510782"
+    ],
+    [
+      "douglasville",
+      "1569",
+      "(770) 852-1500",
+      "6942 DOUGLAS BLVD, Douglasville, GA 30135",
+      33.725025,
+      -84.756836,
+      "https://www.google.com/maps?cid=891504972216510365"
+    ],
+    [
+      "mcdonough",
+      "1559",
+      "(678) 432-6339",
+      "325 JONESBORO RD, Mcdonough, GA 30253",
+      33.454414,
+      -84.1695,
+      "https://www.google.com/maps?cid=7599944382431410252"
+    ],
+    [
+      "cartersville",
+      "1711",
+      "(770) 334-8977",
+      "425 GRASSDALE RD, Cartersville, GA 30121",
+      34.210896,
+      -84.81854,
+      "https://www.google.com/maps?cid=613408423726305507"
+    ],
+    [
+      "riverdale/ga",
+      "0112",
+      "(770) 991-9510",
+      "7000 B HIGHWAY 85, Riverdale, GA 30274",
+      33.564022,
+      -84.41242,
+      "https://www.google.com/maps?cid=7837804586414547592"
+    ],
+    [
+      "suwanee",
+      "1682",
+      "(770) 813-3269",
+      "7750 MCGINNIS FERRY ROAD, Suwanee, GA 30024",
+      34.055836,
+      -84.129395,
+      "https://www.google.com/maps?cid=9784195653785241737"
+    ],
+    [
+      "hiram",
+      "1558",
+      "(770) 222-5054",
+      "4569 JIMMY LEE SMITH PKWY, Hiram, GA 30141",
+      33.89116,
+      -84.75208,
+      "https://www.google.com/maps?cid=5523048104637594652"
+    ],
+    [
+      "alpharetta",
+      "1556",
+      "(770) 664-8473",
+      "11845 ALPHARETTA HWY, Roswell, GA 30076",
+      34.065884,
+      -84.31572,
+      "https://www.google.com/maps?cid=17126164698254953328"
+    ],
+    [
+      "austell",
+      "0160",
+      "(770) 739-1095",
+      "3829 AUSTELL RD, Austell, GA 30106",
+      33.85979,
+      -84.598274,
+      "https://www.google.com/maps?cid=16282626826632411589"
+    ],
+    [
+      "acworth",
+      "1059",
+      "(770) 659-6169",
+      "3638 COBB PARKWAY NORTH, Acworth, GA 30101",
+      34.045395,
+      -84.69588,
+      "https://www.google.com/maps?cid=12770935903724021315"
+    ],
+    [
+      "lagrange",
+      "6593",
+      "(706) 616-9120",
+      "1472 LAFAYETTE PARKWAY, Lagrange, GA 30241",
+      33.041305,
+      -84.982844,
+      "https://www.google.com/maps?cid=11249571388489029821"
+    ],
+    [
+      "alpharetta midway",
+      "1571",
+      "(678) 319-0271",
+      "4960 ATLANTA HWY, Alpharetta, GA 30004",
+      34.157963,
+      -84.24043,
+      "https://www.google.com/maps?q=4960 ATLANTA HWY"
+    ]
+  ],
+  "Illinois": [
+    [
+      "61st western",
+      "0990",
+      "(773) 776-9477",
+      "5959 S WESTERN AVE, Chicago, IL 60636",
+      41.785004,
+      -87.683,
+      "https://www.google.com/maps?cid=3511701966297191511"
+    ],
+    [
+      "bedford park",
+      "0822",
+      "(708) 496-9123",
+      "7030 S CICERO AVE, Chicago, IL 60638",
+      41.76665,
+      -87.74473,
+      "https://www.google.com/maps?cid=6722246853838768714"
+    ],
+    [
+      "north milwaukee",
+      "1497",
+      "(773) 685-1477",
+      "4164 NORTH MILWAUKEE AVE, Chicago, IL 60641",
+      41.95671,
+      -87.75169,
+      "https://www.google.com/maps?cid=16227468857763922533"
+    ],
+    [
+      "broadview",
+      "0837",
+      "(708) 343-9881",
+      "900 BROADVIEW VILLAGE SQ, Broadview, IL 60155",
+      41.85279,
+      -87.851364,
+      "https://www.google.com/maps?cid=11196513159385391649"
+    ],
+    [
+      "darien",
+      "1466",
+      "(630) 455-2439",
+      "6818 SOUTH KINGERY HWY, Darien, IL 60561",
+      41.763998,
+      -87.945835,
+      "https://www.google.com/maps?cid=2188577518191541075"
+    ],
+    [
+      "cicero/il",
+      "0820",
+      "(708) 656-1160",
+      "2501 S CICERO AVE, Cicero, IL 60804",
+      41.84567,
+      -87.7435,
+      "https://www.google.com/maps?cid=6640423459839552052"
+    ],
+    [
+      "elgin service center",
+      "1407",
+      "(847) 695-8640",
+      "1020 SUMMIT ST, Elgin, IL 60120",
+      42.04787,
+      -88.254715,
+      "https://www.google.com/maps?cid=7974192749235592544"
+    ],
+    [
+      "streamwood",
+      "0979",
+      "(630) 830-6442",
+      "160 N BARRINGTON RD, Streamwood, IL 60107",
+      42.03565,
+      -88.14553,
+      "https://www.google.com/maps?cid=6101066183932476370"
+    ],
+    [
+      "chicago ridge",
+      "0858",
+      "(708) 346-0776",
+      "10100 S RIDGELAND AVE, Chicago Ridge, IL 60415",
+      41.7081,
+      -87.78041,
+      "https://www.google.com/maps?cid=1225887818148329959"
+    ],
+    [
+      "waukegan",
+      "0966",
+      "(847) 662-6455",
+      "620 N GREENBAY RD, Waukegan, IL 60085",
+      42.369034,
+      -87.881744,
+      "https://www.google.com/maps?cid=9629870856171879678"
+    ],
+    [
+      "new lenox",
+      "1681",
+      "(815) 462-4380",
+      "631 E LINCOLN HWY, New Lenox, IL 60451",
+      41.512905,
+      -87.95423,
+      "https://www.google.com/maps?cid=3197661423693244682"
+    ],
+    [
+      "hodgkins",
+      "0831",
+      "(708) 352-9211",
+      "6247 LA GRANGE RD, Hodgkins, IL 60525",
+      41.77652,
+      -87.8674,
+      "https://www.google.com/maps?cid=11264255397124829842"
+    ],
+    [
+      "melrose park",
+      "0826",
+      "(708) 450-0140",
+      "2600 W NORTH AVE, Melrose Park, IL 60160",
+      41.906902,
+      -87.86802,
+      "https://www.google.com/maps?cid=15004097795418046148"
+    ],
+    [
+      "batavia",
+      "1645",
+      "(630) 406-1743",
+      "837 N RANDALL ROAD, Batavia, IL 60510",
+      41.863194,
+      -88.34243,
+      "https://www.google.com/maps?cid=17748724469603450103"
+    ],
+    [
+      "lansing",
+      "0889",
+      "(708) 895-5859",
+      "17015 TORRENCE AVE, Lansing, IL 60438",
+      41.5857,
+      -87.55774,
+      "https://www.google.com/maps?cid=3596885977305830410"
+    ],
+    [
+      "orland park",
+      "0817",
+      "(708) 349-0130",
+      "15911 S. LAGRANGE RD, Orland Pk, IL 60467",
+      41.600677,
+      -87.85206,
+      "https://www.google.com/maps?cid=6144482509586440583"
+    ],
+    [
+      "matteson",
+      "0835",
+      "(708) 503-6580",
+      "21610 CICERO AVE, Matteson, IL 60443",
+      41.49742,
+      -87.7355,
+      "https://www.google.com/maps?cid=18103118457958231768"
+    ],
+    [
+      "round lake",
+      "0987",
+      "(847) 548-8711",
+      "818 E ROLLINS RD, Round Lake Beach, IL 60073",
+      42.381954,
+      -88.06244,
+      "https://www.google.com/maps?cid=14550512668084297208"
+    ],
+    [
+      "palatine",
+      "1498",
+      "(847) 359-3007",
+      "315 WEST NORTHWEST HWY, Palatine, IL 60067",
+      42.12289,
+      -88.051636,
+      "https://www.google.com/maps?cid=2498427524949199068"
+    ],
+    [
+      "crestwood",
+      "0853",
+      "(708) 489-2693",
+      "13401 S CICERO AVE, Crestwood, IL 60445",
+      41.648968,
+      -87.73742,
+      "https://www.google.com/maps?cid=554532784436041201"
+    ],
+    [
+      "naperville",
+      "0818",
+      "(630) 637-1350",
+      "2936 W OGDEN AVE, Naperville, IL 60540",
+      41.753273,
+      -88.204346,
+      "https://www.google.com/maps?cid=11725102715692533177"
+    ],
+    [
+      "forest park",
+      "1411",
+      "(708) 771-5365",
+      "25 SOUTH HARLEM AVE, Forest Park, IL 60130",
+      41.886087,
+      -87.805221,
+      "https://www.google.com/maps?cid=11375803026198677434"
+    ],
+    [
+      "niles",
+      "1465",
+      "(847) 583-0287",
+      "9643 1/2 NORTH MILWAUKEE, Niles, IL 60714",
+      42.05645,
+      -87.83915,
+      "https://www.google.com/maps?cid=6957699306040694432"
+    ],
+    [
+      "lombard",
+      "0843",
+      "(630) 792-1601",
+      "865 E ROOSEVELT RD, Lombard, IL 60148",
+      41.859962,
+      -87.99617,
+      "https://www.google.com/maps?cid=14627790595283361480"
+    ],
+    [
+      "joliet",
+      "0846",
+      "(815) 744-0150",
+      "1824 W JEFFERSON ST, Joliet, IL 60435",
+      41.521282,
+      -88.12709,
+      "https://www.google.com/maps?cid=14176936135908787057"
+    ],
+    [
+      "homewood",
+      "0514",
+      "(708) 647-0774",
+      "18024 HALSTED ST, Homewood, IL 60430",
+      41.561543,
+      -87.63699,
+      "https://www.google.com/maps?cid=13634158688051904264"
+    ],
+    [
+      "aurora kirk road",
+      "1618",
+      "(630) 820-2314",
+      "2945 KIRK ROAD, Aurora, IL 60502",
+      41.81606,
+      -88.27885,
+      "https://www.google.com/maps?cid=18068491884349645243"
+    ],
+    [
+      "skokie",
+      "0479",
+      "(847) 675-5300",
+      "5220 TOUHY AVE, Skokie, IL 60077",
+      42.012554,
+      -87.75859,
+      "https://www.google.com/maps?cid=10173633093185127087"
+    ],
+    [
+      "des plaines",
+      "6590",
+      "(847) 758-1880",
+      "1267 S ELMHURST ROAD, Des Plaines, IL 60018",
+      42.028541,
+      -87.940009,
+      "https://www.google.com/maps?cid=6559401907964670176"
+    ],
+    [
+      "river west",
+      "6667",
+      "(312) 761-6484",
+      "1314 W GRAND AVENUE, Chicago, IL 60642",
+      41.89131,
+      -87.65971,
+      "https://www.google.com/maps?q=1314 W GRAND AVENUE"
+    ],
+    [
+      "elston",
+      "0856",
+      "(773) 395-4444",
+      "2604 N ELSTON AVE, Chicago, IL 60647",
+      41.928085,
+      -87.68376,
+      "https://www.google.com/maps?cid=2252462689379787983"
+    ],
+    [
+      "brickyard mall",
+      "0823",
+      "(773) 889-6395",
+      "6811 W GRAND AVE, Chicago, IL 60707",
+      41.923145,
+      -87.796394,
+      "https://www.google.com/maps?cid=3070146258162408230"
+    ]
+  ],
+  "Indiana": [
+    [
+      "bloomington/in",
+      "1011",
+      "(812) 334-0204",
+      "3160 W. SUSAN DR, Bloomington, IN 47404",
+      39.17149,
+      -86.573654,
+      "https://www.google.com/maps?cid=6188238952123045230"
+    ],
+    [
+      "brownsburg",
+      "6682",
+      "(463) 348-7300",
+      "2697 IN 267, Brownsburg, IN 46112",
+      39.80275,
+      -86.39969,
+      "https://www.google.com/maps?cid=4896832737808545443"
+    ],
+    [
+      "evansville",
+      "0233",
+      "(812) 474-9988",
+      "101 METRO AVE, Evansville, IN 47715",
+      37.97761,
+      -87.4792,
+      "https://www.google.com/maps?cid=10824659376629304782"
+    ],
+    [
+      "96th street",
+      "0215",
+      "(317) 595-0677",
+      "8588 EAST 96TH ST, Fishers, IN 46037",
+      39.928783,
+      -86.01859,
+      "https://www.google.com/maps?cid=7458887558258769471"
+    ],
+    [
+      "franklin",
+      "6566",
+      "(317) 346-7788",
+      "320 N MORTON ST, Franklin, IN 46131",
+      39.483604,
+      -86.06467,
+      "https://www.google.com/maps?cid=13878986987433432975"
+    ],
+    [
+      "greenwood",
+      "6675",
+      "(317) 885-7788",
+      "326 WESTERN BLVD, Greenwood, IN 46142",
+      39.61846,
+      -86.21193,
+      "https://www.google.com/maps?cid=15953029069525549533"
+    ],
+    [
+      "washington street",
+      "0337",
+      "(317) 353-0020",
+      "7201 E WASHINGTON ST, Indianapolis, IN 46219",
+      39.771385,
+      -86.04001,
+      "https://www.google.com/maps?cid=14619265214088434922"
+    ],
+    [
+      "lafayette road",
+      "0338",
+      "(317) 297-0090",
+      "4500 LAFAYETTE RD, Indianapolis, IN 46254",
+      39.83674,
+      -86.2489,
+      "https://www.google.com/maps?cid=4121700314973084048"
+    ],
+    [
+      "lafayette/ in",
+      "0301",
+      "(765) 446-9499",
+      "2121 SAGAMORE PARKWAY S, Lafayette, IN 47905",
+      40.39608,
+      -86.853874,
+      "https://www.google.com/maps?cid=8472818615989821680"
+    ],
+    [
+      "merrillville",
+      "6462",
+      "(219) 769-2376",
+      "680 W LINCOLN HWY, Merrillville, IN 46410",
+      41.471565,
+      -87.34505,
+      "https://www.google.com/maps?cid=11775902023134859227"
+    ],
+    [
+      "westfield road",
+      "6681",
+      "(317) 764-5468",
+      "6077 PROMENADE SHOPS BLVD, Noblesville, IN 46062",
+      40.04311,
+      -86.06616,
+      "https://www.google.com/maps?cid=2917389058975326542"
+    ],
+    [
+      "plainfield",
+      "6541",
+      "(317) 839-3300",
+      "1155 EAST MAIN STREET, Plainfield, IN 46168",
+      39.70775,
+      -86.38506,
+      "https://www.google.com/maps?cid=17625100020418609697"
+    ]
+  ],
+  "Kentucky": [
+    [
+      "breckenridge",
+      "0336",
+      "(502) 899-5090",
+      "1001 BRECKENRIDGE LN, Louisville, KY 40207",
+      38.233433,
+      -85.63806,
+      "https://www.google.com/maps?cid=2236728172119233604"
+    ],
+    [
+      "dixie highway",
+      "0221",
+      "(502) 447-9665",
+      "4841 DIXIE HWY, Louisville, KY 40216",
+      38.170994,
+      -85.82519,
+      "https://www.google.com/maps?cid=16075024628053848126"
+    ],
+    [
+      "florence mall",
+      "0259",
+      "(859) 647-9977",
+      "832 HEIGHTS BLVD, Florence, KY 41042",
+      38.988884,
+      -84.64973,
+      "https://www.google.com/maps?cid=1990326837885868086"
+    ]
+  ],
+  "Louisiana": [
+    [
+      "east new orleans",
+      "0174",
+      "(504) 241-4006",
+      "12200 I-10 SERVICE RD, New Orleans, LA 70128",
+      30.047457,
+      -89.9578,
+      "https://www.google.com/maps?cid=10473723109948070375"
+    ],
+    [
+      "metairie",
+      "0161",
+      "(504) 455-0281",
+      "6638 VETERANS MEMORIAL BL, Metairie, LA 70003",
+      30.004104,
+      -90.215363,
+      "https://www.google.com/maps?cid=2912081315962026905"
+    ],
+    [
+      "slidell",
+      "0147",
+      "(985) 646-0600",
+      "1421 GAUSE BLVD, Slidell, LA 70458",
+      30.283945,
+      -89.76008,
+      "https://www.google.com/maps?cid=15793722136056591181"
+    ],
+    [
+      "gretna",
+      "0117",
+      "(504) 391-0200",
+      "1100 BEHRMAN HWY, Gretna, LA 70056",
+      29.883492,
+      -90.02124,
+      "https://www.google.com/maps?cid=16742430970000282792"
+    ],
+    [
+      "baton rouge",
+      "0208",
+      "(225) 927-6233",
+      "9704 AIRLINE HWY, Baton Rouge, LA 70816",
+      30.430689,
+      -91.08146,
+      "https://www.google.com/maps?cid=6205461400206328178"
+    ],
+    [
+      "lafayette/la",
+      "0212",
+      "(337) 988-1022",
+      "5639 JOHNSTON ST, Lafayette, LA 70503",
+      30.175512,
+      -92.075485,
+      "https://www.google.com/maps?cid=14687368997567277000"
+    ],
+    [
+      "bossier city",
+      "0141",
+      "(318) 742-0012",
+      "2941 E TEXAS AVE, Bossier City, LA 71111",
+      32.5297,
+      -93.70623,
+      "https://www.google.com/maps?cid=2514103201907584692"
+    ],
+    [
+      "chalmette",
+      "6685",
+      "(504) 354-5955",
+      "3370 PARIS ROAD, Chalmette, LA 70043",
+      29.95036,
+      -89.96075,
+      "https://www.google.com/maps?cid=11711408242829106869"
+    ]
+  ],
+  "Maine": [
+    [
+      "auburn",
+      "0480",
+      "(207) 784-1923",
+      "305 CENTER ST, Auburn, ME 04210",
+      44.113075,
+      -70.22371,
+      "https://www.google.com/maps?cid=16445599262570715320"
+    ]
+  ],
+  "Maryland": [
+    [
+      "district heights",
+      "0099",
+      "(301) 967-9140",
+      "6333 MARLBORO PIKE, Forestville, MD 20747",
+      38.85319,
+      -76.898125,
+      "https://www.google.com/maps?cid=13020664317510530157"
+    ],
+    [
+      "marlow heights",
+      "0073",
+      "(301) 423-2522",
+      "4500 SAINT BARNABAS RD, Marlow Heights, MD 20748",
+      38.82783,
+      -76.94316,
+      "https://www.google.com/maps?cid=17504204720661603628"
+    ],
+    [
+      "annapolis",
+      "0343",
+      "(410) 573-9880",
+      "1911 WEST ST, Annapolis, MD 21401",
+      38.979424,
+      -76.52533,
+      "https://www.google.com/maps?cid=10646017596944356737"
+    ],
+    [
+      "glen burnie",
+      "0077",
+      "(410) 760-9430",
+      "7311 RITCHIE HWY, Glen Burnie, MD 21061",
+      39.170315,
+      -76.61761,
+      "https://www.google.com/maps?cid=6703193748159194498"
+    ],
+    [
+      "randallstown",
+      "0074",
+      "(410) 922-0800",
+      "8635 LIBERTY RD, Randallstown, MD 21133",
+      39.362396,
+      -76.78248,
+      "https://www.google.com/maps?cid=15724492348414618364"
+    ],
+    [
+      "germantown",
+      "0566",
+      "(301) 540-4686",
+      "20900-A FREDERICK RD, Germantown, MD 20876",
+      39.19925,
+      -77.245995,
+      "https://www.google.com/maps?cid=15112736904695608196"
+    ],
+    [
+      "bel air",
+      "0198",
+      "(410) 838-1000",
+      "403A BALTIMORE PIKE, Bel Air, MD 21014",
+      39.528378,
+      -76.350975,
+      "https://www.google.com/maps?cid=18059238334542529668"
+    ],
+    [
+      "harford road",
+      "0385",
+      "(410) 426-0800",
+      "4621 HARFORD RD, Baltimore, MD 21214",
+      39.34178,
+      -76.56896,
+      "https://www.google.com/maps?cid=15937372989312831710"
+    ],
+    [
+      "merritt",
+      "0070",
+      "(410) 285-4820",
+      "1503 MERRITT BLVD, Baltimore, MD 21222",
+      39.27518,
+      -76.50208,
+      "https://www.google.com/maps?cid=15049176790088037515"
+    ],
+    [
+      "route 40",
+      "0075",
+      "(410) 788-2525",
+      "6515 BALTIMORE NATIONAL P, Baltimore, MD 21228",
+      39.28539,
+      -76.76366,
+      "https://www.google.com/maps?cid=9225263317416977908"
+    ],
+    [
+      "towson",
+      "0079",
+      "(410) 668-4747",
+      "1739-41 E JOPPA RD, Baltimore, MD 21234",
+      39.39818,
+      -76.55938,
+      "https://www.google.com/maps?cid=11770624297797543759"
+    ],
+    [
+      "landover hills",
+      "0378",
+      "(301) 341-2100",
+      "6825 ANNAPOLIS RD, Landover Hills, MD 20784",
+      38.943863,
+      -76.89957,
+      "https://www.google.com/maps?cid=7801592087980062537"
+    ],
+    [
+      "laurel",
+      "0072",
+      "(301) 498-1333",
+      "13344 LAUREL BOWIE RD, Laurel, MD 20708",
+      39.075375,
+      -76.85,
+      "https://www.google.com/maps?cid=13711051293863814265"
+    ],
+    [
+      "waldorf",
+      "0068",
+      "(301) 932-8800",
+      "3390 CRAIN HWY, Waldorf, MD 20603",
+      38.61871,
+      -76.91722,
+      "https://www.google.com/maps?cid=12650250148308568788"
+    ],
+    [
+      "frederick",
+      "0065",
+      "(301) 695-7666",
+      "1120 W PATRICK ST, Frederick, MD 21703",
+      39.41733,
+      -77.447876,
+      "https://www.google.com/maps?cid=2814871764413779503"
+    ],
+    [
+      "langley park",
+      "0071",
+      "(301) 434-9480",
+      "1804 UNIVERSITY BLVD E, Hyattsville, MD 20783",
+      38.985058,
+      -76.98006,
+      "https://www.google.com/maps?cid=3263558979675624852"
+    ],
+    [
+      "salisbury",
+      "0551",
+      "(410) 548-9291",
+      "1628 N SALISBURY BLVD, Salisbury, MD 21801",
+      38.38377,
+      -75.584526,
+      "https://www.google.com/maps?cid=14400523320949812804"
+    ],
+    [
+      "white marsh",
+      "0089",
+      "(410) 686-3610",
+      "9909 PULASKI HWY, Middle River, MD 21220",
+      39.358337,
+      -76.44718,
+      "https://www.google.com/maps?cid=15091005614853781698"
+    ]
+  ],
+  "Massachusetts": [
+    [
+      "salem",
+      "0414",
+      "(978) 744-3131",
+      "232 HIGHLAND AVE, Salem, MA 01970",
+      42.505447,
+      -70.92133,
+      "https://www.google.com/maps?cid=5859881070482763146"
+    ],
+    [
+      "dedham",
+      "0219",
+      "(781) 461-8880",
+      "570-580 PROVIDENCE HWY, Dedham, MA 02026",
+      42.243732,
+      -71.17354,
+      "https://www.google.com/maps?cid=7061868454237591138"
+    ],
+    [
+      "springfield/ma",
+      "0257",
+      "(413) 783-1500",
+      "1177 BOSTON RD, Springfield, MA 01119",
+      42.139107,
+      -72.5043,
+      "https://www.google.com/maps?cid=18065156590550345094"
+    ],
+    [
+      "seekonk",
+      "0190",
+      "(508) 336-9990",
+      "216 HIGHLAND AVE, Seekonk, MA 02771",
+      41.799034,
+      -71.332954,
+      "https://www.google.com/maps?cid=14310437915210389261"
+    ],
+    [
+      "dracut",
+      "6540",
+      "(978) 957-6397",
+      "1337 LAKEVIEW AVE, Dracut, MA 01826",
+      42.671474,
+      -71.32811,
+      "https://www.google.com/maps?cid=9656124931484176833"
+    ],
+    [
+      "raynham",
+      "0469",
+      "(508) 884-9577",
+      "85 RT. 44, Raynham, MA 02767",
+      41.90406,
+      -71.06191,
+      "https://www.google.com/maps?cid=16171101753496621651"
+    ],
+    [
+      "everett",
+      "0419",
+      "(617) 545-1000",
+      "1848-50 REVERE BEACH PKWY, Everett, MA 02149",
+      42.402122,
+      -71.04936,
+      "https://www.google.com/maps?cid=7243956400567220037"
+    ]
+  ],
+  "Michigan": [
+    [
+      "eastpointe",
+      "0281",
+      "(586) 774-0200",
+      "24600 GRATIOT AVE, Eastpointe, MI 48021",
+      42.476032,
+      -82.9494,
+      "https://www.google.com/maps?cid=6327061731840489713"
+    ],
+    [
+      "sterling heights",
+      "0426",
+      "(586) 795-8700",
+      "39755 VAN DYKE AVE, Sterling Heights, MI 48313",
+      42.58605,
+      -83.031395,
+      "https://www.google.com/maps?cid=9913975472362713637"
+    ],
+    [
+      "farmington",
+      "0286",
+      "(248) 476-5210",
+      "28210 W 8 MILE RD, Farmington Hills, MI 48336",
+      42.44231,
+      -83.324745,
+      "https://www.google.com/maps?cid=13630744143463480726"
+    ],
+    [
+      "westland",
+      "6561",
+      "(734) 721-1810",
+      "35235 WARREN RD, Westland, MI 48185",
+      42.338547,
+      -83.38787,
+      "https://www.google.com/maps?cid=13609926661870197186"
+    ],
+    [
+      "alpine",
+      "0276",
+      "(616) 785-3122",
+      "3737 ALPINE AVE NW, Comstock Park, MI 49321",
+      43.031174,
+      -85.69076,
+      "https://www.google.com/maps?cid=855624837653600193"
+    ],
+    [
+      "clawson",
+      "6464",
+      "(248) 435-7070",
+      "1200 W 14 MILES RD, Clawson, MI 48017",
+      42.533623,
+      -83.16344,
+      "https://www.google.com/maps?cid=7843933240579024139"
+    ],
+    [
+      "troy",
+      "6563",
+      "(248) 740-7878",
+      "2245 STEPHENSON HWY, Troy, MI 48083",
+      42.555218,
+      -83.127914,
+      "https://www.google.com/maps?cid=4739973146597330476"
+    ],
+    [
+      "novi",
+      "6564",
+      "(248) 349-0290",
+      "21530 NOVI RD, Novi, MI 48375",
+      42.446426,
+      -83.47311,
+      "https://www.google.com/maps?cid=1794107527579495241"
+    ],
+    [
+      "portage",
+      "0289",
+      "(269) 388-2240",
+      "5630 S WESTNEDGE AVE, Portage, MI 49002",
+      42.23495,
+      -85.59037,
+      "https://www.google.com/maps?cid=13801780437728581688"
+    ]
+  ],
+  "Minnesota": [
+    [
+      "coon rapids",
+      "0504",
+      "(763) 367-1020",
+      "3325 124TH AVE NW, Coon Rapids, MN 55433",
+      45.19664,
+      -93.35115,
+      "https://www.google.com/maps?cid=12786908056547678702"
+    ],
+    [
+      "lakeville",
+      "6610",
+      "(952) 891-4155",
+      "17567 CEDAR AVE S, Lakeville, MN 55044",
+      44.693958,
+      -93.216729,
+      "https://www.google.com/maps?cid=339085948125961582"
+    ],
+    [
+      "eagan",
+      "6608",
+      "(651) 454-7100",
+      "1340 DUCKSWOOD DRIVE, Eagan, MN 55123",
+      44.826846,
+      -93.162453,
+      "https://www.google.com/maps?cid=1760223145513877617"
+    ]
+  ],
+  "Mississippi": [
+    [
+      "southaven",
+      "6398",
+      "(662) 536-1727",
+      "1394 E. GOODMAN ROAD, Southaven, MS 38671",
+      34.963017,
+      -89.96518,
+      "https://www.google.com/maps?cid=6362412603172371433"
+    ],
+    [
+      "e. stateline",
+      "6394",
+      "(662) 342-6021",
+      "301 STATLINE RD W, Southaven, MS 38671",
+      34.991351,
+      -89.994218,
+      "https://www.google.com/maps?cid=15588683073929737531"
+    ],
+    [
+      "olive branch",
+      "6397",
+      "(662) 890-3444",
+      "7071 COMMERCE DRIVE, Olive Branch, MS 38654",
+      34.963882,
+      -89.85558,
+      "https://www.google.com/maps?cid=4612532055475143160"
+    ],
+    [
+      "biloxi",
+      "6648",
+      "(228) 271-6838",
+      "2580 BEACH BLVD, Biloxi, MS 39531",
+      30.390064,
+      -88.987606,
+      "https://www.google.com/maps?cid=2046085095243666849"
+    ]
+  ],
+  "Missouri": [
+    [
+      "springfield/mo",
+      "0202",
+      "(417) 889-0030",
+      "1265 E BATTLEFIELD RD, Springfield, MO 65804",
+      37.160282,
+      -93.27502,
+      "https://www.google.com/maps?cid=4241884343466789379"
+    ]
+  ],
+  "Nevada": [
+    [
+      "sparks",
+      "0709",
+      "(775) 358-7200",
+      "300 E PRATER WAY, Sparks, NV 89431",
+      39.542255,
+      -119.73853,
+      "https://www.google.com/maps?cid=1241370731026617215"
+    ],
+    [
+      "stephanie",
+      "1835",
+      "(702) 382-9988",
+      "140 S STEPHANIE ST, Henderson, NV 89012",
+      36.02405,
+      -115.04681,
+      "https://www.google.com/maps?cid=11576328829259402412"
+    ],
+    [
+      "horizon",
+      "1832",
+      "(702) 531-6882",
+      "750 E. HORIZON DRIVE, Henderson, NV 89015",
+      36.01241,
+      -114.961395,
+      "https://www.google.com/maps?cid=9682972652064075319"
+    ],
+    [
+      "henderson",
+      "0869",
+      "(702) 564-5566",
+      "408 S BOULDER HWY, Henderson, NV 89015",
+      36.03482,
+      -114.97552,
+      "https://www.google.com/maps?cid=11276478524750177087"
+    ],
+    [
+      "simmons",
+      "1836",
+      "(702) 227-0557",
+      "5690 SIMMONS RD, Las Vegas, NV 89031",
+      36.263355,
+      -115.179855,
+      "https://www.google.com/maps?cid=15873396005431207982"
+    ],
+    [
+      "flamingo",
+      "0776",
+      "(702) 362-3833",
+      "4155 S JONES BLVD, Las Vegas, NV 89103",
+      36.11339,
+      -115.22569,
+      "https://www.google.com/maps?cid=2429029553289161435"
+    ],
+    [
+      "sahara",
+      "0688",
+      "(702) 796-0600",
+      "637 E SAHARA AVE, Las Vegas, NV 89104",
+      36.143326,
+      -115.14603,
+      "https://www.google.com/maps?cid=11952216249459886428"
+    ],
+    [
+      "decatur",
+      "0670",
+      "(702) 877-0791",
+      "506 S DECATUR BLVD, Las Vegas, NV 89107",
+      36.165188,
+      -115.20775,
+      "https://www.google.com/maps?cid=7724561907880232937"
+    ],
+    [
+      "nellis",
+      "1833",
+      "(702) 838-4335",
+      "774 N. NELLIS BLVD, Las Vegas, NV 89110",
+      36.173615,
+      -115.06173,
+      "https://www.google.com/maps?cid=879856010495281411"
+    ],
+    [
+      "tropicana",
+      "0702",
+      "(702) 435-8266",
+      "4670 E TROPICANA AVE, Las Vegas, NV 89121",
+      36.100742,
+      -115.071526,
+      "https://www.google.com/maps?cid=8666395957789936504"
+    ],
+    [
+      "warm springs",
+      "1837",
+      "(702) 614-8381",
+      "7465 S. EASTERN AVE, Las Vegas, NV 89123",
+      36.05428,
+      -115.11913,
+      "https://www.google.com/maps?cid=4679716449854607097"
+    ],
+    [
+      "summerlin",
+      "0819",
+      "(702) 838-4646",
+      "7399 W LAKE MEAD BLVD, Las Vegas, NV 89128",
+      36.195507,
+      -115.25366,
+      "https://www.google.com/maps?cid=11421904233826946321"
+    ],
+    [
+      "rancho",
+      "1830",
+      "(702) 395-4219",
+      "3510 N RANCHO DR, Las Vegas, NV 89130",
+      36.223022,
+      -115.216934,
+      "https://www.google.com/maps?cid=6458257159570035573"
+    ],
+    [
+      "rancho drive",
+      "0868",
+      "(702) 645-1811",
+      "4141 RANCHO DR, Las Vegas, NV 89130",
+      36.235267,
+      -115.22958,
+      "https://www.google.com/maps?cid=15037718257400369636"
+    ],
+    [
+      "reno",
+      "0708",
+      "(775) 827-1700",
+      "5000 SMITHRIDGE DR, Reno, NV 89502",
+      39.478107,
+      -119.787926,
+      "https://www.google.com/maps?cid=17339933888594431066"
+    ],
+    [
+      "north las vegas",
+      "0683",
+      "(702) 399-0052",
+      "2030 N LAS VEGAS BLVD, North Las Vegas, NV 89030",
+      36.196434,
+      -115.12736,
+      "https://www.google.com/maps?cid=11957790885437994310"
+    ]
+  ],
+  "Hampshire": [
+    [
+      "portsmouth /nh",
+      "0830",
+      "(603) 430-6223",
+      "50 DURGIN LN, Portsmouth, NH 03801",
+      43.08967,
+      -70.79481,
+      "https://www.google.com/maps?cid=5128435128392352637"
+    ],
+    [
+      "salem/nh",
+      "0848",
+      "(603) 890-0555",
+      "524 S BROADWAY, Salem, NH 03079",
+      42.741905,
+      -71.20005,
+      "https://www.google.com/maps?cid=2739195593817010318"
+    ],
+    [
+      "nashua",
+      "0850",
+      "(603) 598-6600",
+      "274 AMHERST ST, Nashua, NH 03063",
+      42.778477,
+      -71.49904,
+      "https://www.google.com/maps?cid=12923628557641320307"
+    ],
+    [
+      "manchester/nh",
+      "0849",
+      "(603) 624-6277",
+      "875 S WILLOW ST, Manchester, NH 03103",
+      42.96296,
+      -71.4434,
+      "https://www.google.com/maps?cid=530587260547253095"
+    ]
+  ],
+  "Jersey": [
+    [
+      "absecon",
+      "1654",
+      "(609) 484-8931",
+      "609 WHITE HORSE PIKE, Absecon, NJ 08201",
+      39.43301,
+      -74.513504,
+      "https://www.google.com/maps?cid=14020420431414090722"
+    ],
+    [
+      "audubon",
+      "0262",
+      "(856) 547-1320",
+      "114 BLACK HORSE PIKE, Audubon, NJ 08106",
+      39.890312,
+      -75.08877,
+      "https://www.google.com/maps?cid=3283821706415788701"
+    ],
+    [
+      "berlin",
+      "0430",
+      "(856) 719-0770",
+      "260-310 RTE-73 NORTH, Berlin, NJ 08009",
+      39.809097,
+      -74.93175,
+      "https://www.google.com/maps?cid=3612498269791254048"
+    ],
+    [
+      "edgewater park",
+      "0040",
+      "(609) 877-9345",
+      "2176 RTE 130, Beverly, NJ 08010",
+      40.049538,
+      -74.900428,
+      "https://www.google.com/maps?cid=7062501258327323340"
+    ],
+    [
+      "blackwood",
+      "1499",
+      "(856) 228-2786",
+      "1501 BLACKWOOD-CLEMENTON, Blackwood, NJ 08012",
+      39.803684,
+      -75.04325,
+      "https://www.google.com/maps?cid=11245738426333305847"
+    ],
+    [
+      "brick",
+      "1405",
+      "(732) 262-5293",
+      "274 BRICK BLVD, Brick, NJ 08723",
+      40.038094,
+      -74.14324,
+      "https://www.google.com/maps?cid=4320690806282934859"
+    ],
+    [
+      "bridgewater",
+      "1014",
+      "(732) 560-9559",
+      "735 PROMENADE BLVD, Bridgewater, NJ 08807",
+      40.567627,
+      -74.561874,
+      "https://www.google.com/maps?cid=17778431874763987675"
+    ],
+    [
+      "caldwell",
+      "1612",
+      "(973) 228-1493",
+      "523 BLOOMFIELD AVENUE, Caldwell, NJ 07006",
+      40.84572,
+      -74.28482,
+      "https://www.google.com/maps?cid=18073401185369128731"
+    ],
+    [
+      "carteret",
+      "1053",
+      "(732) 969-0921",
+      "773 ROOSEVELT AVE, Carteret, NJ 07008",
+      40.587463,
+      -74.22652,
+      "https://www.google.com/maps?cid=5719326032046241389"
+    ],
+    [
+      "cherry hill",
+      "0059",
+      "(856) 662-0301",
+      "314 HADDONFIELD RD, Cherry Hill, NJ 08002",
+      39.942867,
+      -75.029625,
+      "https://www.google.com/maps?cid=8398691584283442856"
+    ],
+    [
+      "cinnaminson",
+      "0422",
+      "(856) 303-0300",
+      "202 ROUTE 130 NORTH, Cinnaminson, NJ 08077",
+      39.986276,
+      -75.010346,
+      "https://www.google.com/maps?cid=12710889830659669858"
+    ],
+    [
+      "east brunswick",
+      "0171",
+      "(732) 651-1500",
+      "575 STATE ROUTE 18, East Brunswick, NJ 08816",
+      40.436687,
+      -74.39238,
+      "https://www.google.com/maps?cid=14048227437382079194"
+    ],
+    [
+      "eatontown",
+      "1414",
+      "(732) 389-2821",
+      "79 S. HIGHWAY 35, Eatontown, NJ 07724",
+      40.300034,
+      -74.05638,
+      "https://www.google.com/maps?cid=3138304432679653561"
+    ],
+    [
+      "edison",
+      "0188",
+      "(732) 248-4404",
+      "518 OLD POST RD, Edison, NJ 08817",
+      40.516228,
+      -74.3768,
+      "https://www.google.com/maps?cid=8477048439485071060"
+    ],
+    [
+      "pleasantville",
+      "0041",
+      "(609) 645-0404",
+      "6814 TILTON RD, Egg Harbor Township, NJ 08234",
+      39.392326,
+      -74.55792,
+      "https://www.google.com/maps?cid=14994558758576835084"
+    ],
+    [
+      "glassboro",
+      "0401",
+      "(856) 256-8000",
+      "711 N DELSEA DR, Glassboro, NJ 08028",
+      39.719868,
+      -75.1162,
+      "https://www.google.com/maps?cid=132509648682662516"
+    ],
+    [
+      "hackensack",
+      "0300",
+      "(201) 343-4100",
+      "65 COURT ST, Hackensack, NJ 07601",
+      40.878693,
+      -74.04057,
+      "https://www.google.com/maps?cid=1006896636254809208"
+    ],
+    [
+      "hainesport",
+      "1697",
+      "(609) 288-9160",
+      "1386 ROUTE 38, Hainesport, NJ 08036",
+      39.976803,
+      -74.83106,
+      "https://www.google.com/maps?cid=1041433162831269329"
+    ],
+    [
+      "hasbrouck heights",
+      "1057",
+      "(201) 270-2721",
+      "5 NJ-17, Hasbrouck Heights, NJ 07604",
+      40.849537,
+      -74.07637,
+      "https://www.google.com/maps?cid=2718517965076929020"
+    ],
+    [
+      "haskell",
+      "6459",
+      "(973) 835-2761",
+      "1223 RINGWOOD AVE, Haskell, NJ 07420",
+      41.023693,
+      -74.29684,
+      "https://www.google.com/maps?cid=14746353923203345781"
+    ],
+    [
+      "hazlet",
+      "0055",
+      "(732) 888-8102",
+      "72 HAZLET AVE, Hazlet, NJ 07730",
+      40.420162,
+      -74.186104,
+      "https://www.google.com/maps?cid=17755300212311133602"
+    ],
+    [
+      "howell",
+      "0054",
+      "(732) 905-1900",
+      "4204 RTE 9 S, Howell, NJ 07731",
+      40.150036,
+      -74.227745,
+      "https://www.google.com/maps?cid=5876596695451804083"
+    ],
+    [
+      "jersey city  hudson mall",
+      "0496",
+      "(201) 435-7677",
+      "701 STATE RT 440 SOUTH, Jersey City, NJ 07304",
+      40.719374,
+      -74.094586,
+      "https://www.google.com/maps?cid=16394224295663583759"
+    ],
+    [
+      "lodi",
+      "1468",
+      "(973) 773-1618",
+      "145 US 46 WEST, Lodi, NJ 07644",
+      40.877256,
+      -74.073481,
+      "https://www.google.com/maps?cid=3423309130927277740"
+    ],
+    [
+      "maple shade",
+      "1637",
+      "(856) 235-0652",
+      "598 ROUTE 38 EAST, Maple Shade, NJ 08052",
+      39.9433,
+      -74.9699,
+      "https://www.google.com/maps?cid=3833149794835775479"
+    ],
+    [
+      "marlton",
+      "0048",
+      "(856) 983-0902",
+      "775 WEST RT 70, Marlton, NJ 08053",
+      39.896484,
+      -74.939964,
+      "https://www.google.com/maps?cid=4817670535687955724"
+    ],
+    [
+      "n. brunswick",
+      "0454",
+      "(732) 745-1807",
+      "1335 RTE-1 SOUTH, North Brunswick, NJ 08902",
+      40.4593,
+      -74.470659,
+      "https://www.google.com/maps?cid=18364303719320766820"
+    ],
+    [
+      "ocean township",
+      "0056",
+      "(732) 531-7800",
+      "1608 HIGHWAY 35, Oakhurst, NJ 07755",
+      40.255173,
+      -74.04114,
+      "https://www.google.com/maps?cid=5670210637276804193"
+    ],
+    [
+      "orange",
+      "6460",
+      "(973) 678-3924",
+      "234 SCOTLAND ROAD, Orange, NJ 07050",
+      40.768845,
+      -74.23944,
+      "https://www.google.com/maps?cid=11219790815454332720"
+    ],
+    [
+      "parlin",
+      "1636",
+      "(732) 727-2057",
+      "1072 US HIGHWAY 9 SOUTH, Parlin, NJ 08859",
+      40.451668,
+      -74.299194,
+      "https://www.google.com/maps?cid=11463759209673005644"
+    ],
+    [
+      "parsippany",
+      "0446",
+      "(973) 541-1030",
+      "1449 ROUTE 46 EAST, Parsippany, NJ 07054",
+      40.863415,
+      -74.39879,
+      "https://www.google.com/maps?cid=8028642950615900011"
+    ],
+    [
+      "paterson",
+      "1048",
+      "(973) 341-8140",
+      "261 MCLEAN BLVD, Paterson, NJ 07504",
+      40.907204,
+      -74.133446,
+      "https://www.google.com/maps?cid=13058571672235611005"
+    ],
+    [
+      "pinebrook",
+      "1616",
+      "(973) 227-4847",
+      "13 US-46, Pine Brook, NJ 07058",
+      40.858013,
+      -74.34313,
+      "https://www.google.com/maps?cid=5610809861703533692"
+    ],
+    [
+      "piscataway",
+      "0462",
+      "(732) 562-0087",
+      "1052 STELTON RD, Piscataway, NJ 08854",
+      40.54969,
+      -74.432686,
+      "https://www.google.com/maps?cid=14475127152230773210"
+    ],
+    [
+      "pompton plains",
+      "1479",
+      "(973) 839-1218",
+      "711 ROUTE 23, Pompton Plains, NJ 07444",
+      40.97297,
+      -74.288315,
+      "https://www.google.com/maps?cid=6038469600405053855"
+    ],
+    [
+      "west windsor",
+      "0192",
+      "(609) 520-0031",
+      "3505 BRUNSWICK PIKE, Princeton, NJ 08540",
+      40.310604,
+      -74.66465,
+      "https://www.google.com/maps?cid=14269191812234599167"
+    ],
+    [
+      "ramsey",
+      "6636",
+      "(201) 316-8128",
+      "755 NJ 17, Ramsey, NJ 07446",
+      41.06201,
+      -74.125208,
+      "https://www.google.com/maps?cid=11408917433685853991"
+    ],
+    [
+      "roselle",
+      "1071",
+      "(908) 245-2041",
+      "711 EAST 1ST AVENUE, Roselle, NJ 07203",
+      40.66298,
+      -74.246086,
+      "https://www.google.com/maps?cid=7343947247634984423"
+    ],
+    [
+      "stratford/nj",
+      "0061",
+      "(856) 783-3511",
+      "10 N WHITEHORSE PIKE, Stratford, NJ 08084",
+      39.83406,
+      -75.00644,
+      "https://www.google.com/maps?cid=7387392706716292895"
+    ],
+    [
+      "toms river",
+      "0050",
+      "(732) 286-1040",
+      "301 RTE 37 E, Toms River, NJ 08753",
+      39.959316,
+      -74.1761,
+      "https://www.google.com/maps?cid=10515507121452312150"
+    ],
+    [
+      "bordentown",
+      "1695",
+      "(609) 298-2497",
+      "45 US 130 N, Trenton, NJ 08620",
+      40.16884,
+      -74.685715,
+      "https://www.google.com/maps?cid=15697363800400149498"
+    ],
+    [
+      "union",
+      "0267",
+      "(908) 688-3633",
+      "2525 RT 22 WEST, Union, NJ 07083",
+      40.69045,
+      -74.30166,
+      "https://www.google.com/maps?cid=326405797103459523"
+    ],
+    [
+      "verona",
+      "1634",
+      "(973) 571-2102",
+      "15 POMPTON AVENUE, Verona, NJ 07044",
+      40.825529,
+      -74.229931,
+      "https://www.google.com/maps?cid=11018038036158976403"
+    ],
+    [
+      "vineland",
+      "0052",
+      "(856) 691-0355",
+      "323 W LANDIS AVE, Vineland, NJ 08360",
+      39.485996,
+      -75.02944,
+      "https://www.google.com/maps?cid=8870814437717030172"
+    ],
+    [
+      "williamstown",
+      "1463",
+      "(856) 740-0965",
+      "1074 N. BLACK HORSE PIKE, Williamstown, NJ 08094",
+      39.701115,
+      -75.00384,
+      "https://www.google.com/maps?cid=11815943696722500412"
+    ],
+    [
+      "woodbury",
+      "0053",
+      "(856) 845-0922",
+      "137 S BROAD ST, Woodbury, NJ 08096",
+      39.83615,
+      -75.15531,
+      "https://www.google.com/maps?cid=12256391608558535988"
+    ],
+    [
+      "hackettstown",
+      "6676",
+      "(908) 452-9011",
+      "34 US 46, Hackettstown, NJ 07840",
+      40.84652,
+      -74.81405,
+      "https://www.google.com/maps?q=34 US 46"
+    ]
+  ],
+  "Mexico": [
+    [
+      "west central",
+      "0697",
+      "(505) 836-0163",
+      "4523 CENTRAL AVE NW, Albuquerque, NM 87105",
+      35.085114,
+      -106.689644,
+      "https://www.google.com/maps?cid=10281807577196726189"
+    ],
+    [
+      "east central avenue",
+      "0796",
+      "(505) 266-0036",
+      "5600 CENTRAL AVE SE, Albuquerque, NM 87108",
+      35.07701,
+      -106.58355,
+      "https://www.google.com/maps?cid=12792868411953272881"
+    ],
+    [
+      "san mateo",
+      "0696",
+      "(505) 881-8101",
+      "5651 SAN MATEO BLVD NE, Albuquerque, NM 87109",
+      35.14349,
+      -106.58723,
+      "https://www.google.com/maps?cid=13393876120924249225"
+    ],
+    [
+      "juan tabo",
+      "0695",
+      "(505) 292-7111",
+      "1308 JUAN TABO NE, Albuquerque, NM 87112",
+      35.09445,
+      -106.51488,
+      "https://www.google.com/maps?cid=3441760227005650803"
+    ],
+    [
+      "las cruces",
+      "0700",
+      "(575) 524-7734",
+      "1203 E LOHMAN AVE, Las Cruces, NM 88001",
+      32.309174,
+      -106.76576,
+      "https://www.google.com/maps?cid=3611131715167230374"
+    ],
+    [
+      "montano",
+      "1722",
+      "(505) 792-8323",
+      "4311 MONTANO RD NW, Albuquerque, NM 87120",
+      35.150818,
+      -106.687485,
+      "https://www.google.com/maps?q=4311 MONTANO RD NW"
+    ]
+  ],
+  "York": [
+    [
+      "cicero/ny",
+      "0156",
+      "(315) 458-6936",
+      "7885 BREWERTON ROAD, Cicero, NY 13039",
+      43.15143,
+      -76.12611,
+      "https://www.google.com/maps?cid=11624576603905169763"
+    ],
+    [
+      "eggert plaza",
+      "1651",
+      "(716) 862-8213",
+      "3195 EGGERT ROAD, Tonawanda, NY 14150",
+      42.999023,
+      -78.851845,
+      "https://www.google.com/maps?cid=16944219372495116269"
+    ],
+    [
+      "liberty & merrick",
+      "0438",
+      "(718) 206-3131",
+      "94-47 MERRICK BLVD, Jamaica, NY 11433",
+      40.703053,
+      -73.79131,
+      "https://www.google.com/maps?cid=5628688208989747630"
+    ],
+    [
+      "queens-hillside ave",
+      "1626",
+      "(718) 526-1837",
+      "13929 HILLSIDE AVE., Jamaica, NY 11435",
+      40.704998,
+      -73.81346,
+      "https://www.google.com/maps?cid=7432123749152474204"
+    ],
+    [
+      "elmont",
+      "0180",
+      "(516) 354-8800",
+      "1802 HEMPSTEAD TURNPIKE, Elmont, NY 11003",
+      40.708416,
+      -73.70613,
+      "https://www.google.com/maps?cid=13046193874215382667"
+    ],
+    [
+      "greece",
+      "0183",
+      "(585) 225-8020",
+      "1181 N GREECE RD, Greece, NY 14626",
+      43.215805,
+      -77.7326,
+      "https://www.google.com/maps?cid=13613585726387736176"
+    ],
+    [
+      "bayshore",
+      "0348",
+      "(631) 969-1717",
+      "1321 SUNRISE HWY, Bay Shore, NY 11706",
+      40.734375,
+      -73.25949,
+      "https://www.google.com/maps?cid=18127029319976827743"
+    ],
+    [
+      "brentwood",
+      "1480",
+      "(631) 952-8724",
+      "1846 5TH AVENUE, Bay Shore, NY 11717",
+      40.77604,
+      -73.26027,
+      "https://www.google.com/maps?cid=3983251557448731541"
+    ],
+    [
+      "hamburg",
+      "0145",
+      "(716) 826-1606",
+      "3766 MCKINLEY PARKWAY, Blasdell, NY 14219",
+      42.78133,
+      -78.81234,
+      "https://www.google.com/maps?cid=9160096729969180587"
+    ],
+    [
+      "port jefferson",
+      "0457",
+      "(631) 476-6614",
+      "5170 NESCONSET HWY, Port Jefferson Station, NY 11776",
+      40.923172,
+      -73.05095,
+      "https://www.google.com/maps?cid=7174237940855965506"
+    ],
+    [
+      "amherst",
+      "0193",
+      "(716) 831-0370",
+      "1025 NIAGARA FALLS BLVD, Amherst, NY 14226",
+      42.982014,
+      -78.82207,
+      "https://www.google.com/maps?cid=8560354200465510295"
+    ],
+    [
+      "colonie",
+      "0200",
+      "(518) 452-5095",
+      "1795 CENTRAL AVE, Albany, NY 12205",
+      42.729675,
+      -73.8451,
+      "https://www.google.com/maps?cid=637557336388410870"
+    ],
+    [
+      "central ave.",
+      "0363",
+      "(518) 446-1660",
+      "1008 CENTRAL AVE, Albany, NY 12205",
+      42.683487,
+      -73.79569,
+      "https://www.google.com/maps?cid=15815730223016496584"
+    ],
+    [
+      "queens village",
+      "0436",
+      "(718) 465-6700",
+      "208-22 JAMAICA AVE, Queens Village, NY 11428",
+      40.714172,
+      -73.75137,
+      "https://www.google.com/maps?cid=1089160240507838434"
+    ],
+    [
+      "east tremont",
+      "0258",
+      "(718) 822-4949",
+      "2633 EAST TREMONT AVE, Bronx, NY 10461",
+      40.843357,
+      -73.84627,
+      "https://www.google.com/maps?cid=654809664452209013"
+    ],
+    [
+      "budget muffler-brake cntr",
+      "6631",
+      "(718) 828-4113",
+      "1870 EASTCHESTER ROAD, Bronx, NY 10461",
+      40.850786,
+      -73.844182,
+      "https://www.google.com/maps?cid=18062141399785165826"
+    ],
+    [
+      "irondequoit",
+      "0444",
+      "(585) 323-2000",
+      "711 E RIDGE RD, Rochester, NY 14621",
+      43.19591,
+      -77.59818,
+      "https://www.google.com/maps?cid=9676330366480803352"
+    ],
+    [
+      "henrietta",
+      "0166",
+      "(585) 272-7080",
+      "1375 MARKETPLACE DR, Rochester, NY 14623",
+      43.07973,
+      -77.62619,
+      "https://www.google.com/maps?cid=2762646382301187796"
+    ],
+    [
+      "patchogue",
+      "0564",
+      "(631) 758-0045",
+      "425 SUNRISE HWY, Patchogue, NY 11772",
+      40.778057,
+      -73.034164,
+      "https://www.google.com/maps?cid=1664467393556147521"
+    ],
+    [
+      "lindenhurst",
+      "0168",
+      "(631) 888-1122",
+      "231 SUNRISE HWY, Lindenhurst, NY 11757",
+      40.70578,
+      -73.370895,
+      "https://www.google.com/maps?cid=14777718830737680574"
+    ],
+    [
+      "montauk",
+      "6406",
+      "(631) 225-2932",
+      "222 MONTAUK HIGHWAY, Lindenhurst, NY 11757",
+      40.682128,
+      -73.357986,
+      "https://www.google.com/maps?cid=8164603677393019244"
+    ],
+    [
+      "centereach",
+      "1457",
+      "(631) 588-3128",
+      "2196 MIDDLE COUNTRY RD, Centereach, NY 11720",
+      40.858,
+      -73.089,
+      "https://www.google.com/maps?cid=2426062061149334157"
+    ],
+    [
+      "dewitt",
+      "0154",
+      "(315) 449-3445",
+      "3033 ERIE BLVD E, Syracuse, NY 13224",
+      43.056377,
+      -76.08515,
+      "https://www.google.com/maps?cid=18197689768568542307"
+    ],
+    [
+      "southwestern blvd",
+      "6560",
+      "(716) 649-5719",
+      "5071 SOUTHWESTERN BLVD, Hamburg, NY 14075",
+      42.749126,
+      -78.854938,
+      "https://www.google.com/maps?cid=7201763160937519829"
+    ],
+    [
+      "ridgewood",
+      "0453",
+      "(718) 497-7999",
+      "61-01 METROPOLITAN AVE, Ridgewood, NY 11385",
+      40.71311,
+      -73.90227,
+      "https://www.google.com/maps?cid=11164190794291738978"
+    ],
+    [
+      "baldwin",
+      "0283",
+      "(516) 223-0600",
+      "850 SUNRISE HWY, Baldwin, NY 11510",
+      40.655502,
+      -73.604225,
+      "https://www.google.com/maps?cid=6306572049302716307"
+    ],
+    [
+      "4th avenue",
+      "0247",
+      "(718) 596-2833",
+      "354 4TH AVE, Brooklyn, NY 11215",
+      40.67386,
+      -73.98711,
+      "https://www.google.com/maps?cid=15240473059844827412"
+    ],
+    [
+      "utica ave",
+      "1693",
+      "(718) 444-3549",
+      "2015 UTICA AVENUE, Brooklyn, NY 11234",
+      40.622547,
+      -73.92691,
+      "https://www.google.com/maps?cid=8287045992175458248"
+    ],
+    [
+      "elmwood ave.",
+      "0373",
+      "(716) 873-3404",
+      "1996 ELMWOOD AVE, Buffalo, NY 14207",
+      42.952168,
+      -78.878914,
+      "https://www.google.com/maps?cid=8951585544314083345"
+    ],
+    [
+      "elmhurst",
+      "1628",
+      "(718) 651-5950",
+      "4802 QUEENS BLVD, Woodside, NY 11377",
+      40.74246,
+      -73.91642,
+      "https://www.google.com/maps?cid=14105132323786518515"
+    ],
+    [
+      "smithtown",
+      "0172",
+      "(631) 360-7386",
+      "993 MIDDLE COUNTRY RD, Lake Grove, NY 11755",
+      40.86267,
+      -73.13671,
+      "https://www.google.com/maps?cid=7196054111862383812"
+    ],
+    [
+      "clay",
+      "0545",
+      "(315) 652-5200",
+      "8091 OSWEGO RD, Liverpool, NY 13090",
+      43.162605,
+      -76.23533,
+      "https://www.google.com/maps?cid=12144331138979789"
+    ],
+    [
+      "new hartford",
+      "0155",
+      "(315) 768-1015",
+      "4475 COMMERCIAL DR, New Hartford, NY 13413",
+      43.084225,
+      -75.32291,
+      "https://www.google.com/maps?cid=3143235872599658580"
+    ],
+    [
+      "forest ave",
+      "0354",
+      "(718) 273-8477",
+      "1941 FOREST AVE, Staten Island, NY 10303",
+      40.626083,
+      -74.15382,
+      "https://www.google.com/maps?cid=16808912938747035815"
+    ],
+    [
+      "veterans road",
+      "1621",
+      "(718) 356-5923",
+      "575 VETERANS ROAD WEST, Staten Island, NY 10309",
+      40.549484,
+      -74.22055,
+      "https://www.google.com/maps?cid=12466951876650642865"
+    ],
+    [
+      "franklin square",
+      "6401",
+      "(516) 354-9411",
+      "195 NEW HYDE PARK ROAD, Franklin Square, NY 11010",
+      40.71275,
+      -73.677284,
+      "https://www.google.com/maps?cid=10572538941914516482"
+    ],
+    [
+      "queens bayside",
+      "1067",
+      "(718) 717-0002",
+      "20411 NORTHERN BLVD, Bayside, NY 11361",
+      40.758064,
+      -73.7789,
+      "https://www.google.com/maps?cid=11200589678969337424"
+    ],
+    [
+      "lockport",
+      "1462",
+      "(716) 433-6905",
+      "5658 S. TRANSIT RD, Lockport, NY 14094",
+      43.150917,
+      -78.69726,
+      "https://www.google.com/maps?cid=3080838205962021376"
+    ],
+    [
+      "west seneca",
+      "1469",
+      "(716) 674-0490",
+      "1881 RIDGE RD, West Seneca, NY 14224",
+      42.828247,
+      -78.7818,
+      "https://www.google.com/maps?cid=2052839411677266795"
+    ],
+    [
+      "long island city",
+      "1072",
+      "(718) 706-7830",
+      "38-19 21ST STEET, Long Island City, NY 11101",
+      40.756893,
+      -73.939064,
+      "https://www.google.com/maps?cid=5495926183871758793"
+    ],
+    [
+      "hicksville",
+      "0345",
+      "(516) 822-7878",
+      "15 E OLD COUNTRY RD, Hicksville, NY 11801",
+      40.76407,
+      -73.51782,
+      "https://www.google.com/maps?cid=11009221464985051952"
+    ],
+    [
+      "astoria",
+      "6635",
+      "(718) 545-5200",
+      "41-15 19TH AVENUE, Astoria, NY 11105",
+      40.777547,
+      -73.897955,
+      "https://www.google.com/maps?cid=2853643072524935248"
+    ]
+  ],
+  "Carolina": [
+    [
+      "savannah highway",
+      "0038",
+      "(843) 766-7415",
+      "1550 SAVANNAH HWY, Charleston, SC 29407",
+      32.787212,
+      -80.010956,
+      "https://www.google.com/maps?cid=4517821983197368358"
+    ],
+    [
+      "decker",
+      "0152",
+      "(803) 699-0687",
+      "2455 DECKER BLVD, Columbia, SC 29206",
+      34.05673,
+      -80.95075,
+      "https://www.google.com/maps?cid=5564609802320039365"
+    ],
+    [
+      "broad river road",
+      "0134",
+      "(803) 750-0161",
+      "1804 BROAD RIVER RD, Columbia, SC 29210",
+      34.03557,
+      -81.08832,
+      "https://www.google.com/maps?cid=3359244591217340427"
+    ],
+    [
+      "greenville",
+      "0184",
+      "(864) 676-1365",
+      "2418 LAURENS RD, Greenville, SC 29607",
+      34.82984,
+      -82.34951,
+      "https://www.google.com/maps?cid=10615420752356570024"
+    ],
+    [
+      "north rivers avenue",
+      "0037",
+      "(843) 744-7831",
+      "6240 RIVERS AVE, North Charleston, SC 29406",
+      32.909576,
+      -80.02242,
+      "https://www.google.com/maps?cid=13371291292074968470"
+    ],
+    [
+      "rock hill",
+      "0098",
+      "(803) 324-1980",
+      "2514 N CHERRY RD, Rock Hill, SC 29732",
+      34.969738,
+      -80.99083,
+      "https://www.google.com/maps?cid=17428017929105127880"
+    ],
+    [
+      "lexington",
+      "6711",
+      "(803) 821-7567",
+      "2460 AUGUSTA HWY, Lexington, SC 29072",
+      33.979722,
+      -81.3075,
+      "https://www.google.com/maps?cid=14746093505363241616"
+    ],
+    [
+      "fort mill",
+      "6668",
+      "(803) 650-4276",
+      "3073 HWY 160W, Fort Mill, SC 29708",
+      35.06691,
+      -80.99099,
+      "https://www.google.com/maps?q=3073 HWY 160W"
+    ],
+    [
+      "lake wylie",
+      "06673",
+      "(803) 701-1036",
+      "213 SC 274, Clover, SC 29710",
+      35.12253,
+      -81.08278,
+      "https://www.google.com/maps?q=213 SC 274, Clover"
+    ]
+  ],
+  "Ohio": [
+    [
+      "boardman",
+      "0263",
+      "(330) 629-2322",
+      "215 BOARDMAN POLAND RD, Boardman, OH 44512",
+      41.02386,
+      -80.65446,
+      "https://www.google.com/maps?cid=9315003413640716409"
+    ],
+    [
+      "morse road",
+      "0237",
+      "(614) 784-1266",
+      "1321 MORSE RD, Columbus, OH 43229",
+      40.060093,
+      -82.9844,
+      "https://www.google.com/maps?cid=15903614240620340654"
+    ],
+    [
+      "hamilton road",
+      "0236",
+      "(614) 864-2092",
+      "2830 S HAMILTON RD, Columbus, OH 43232",
+      39.919353,
+      -82.87929,
+      "https://www.google.com/maps?cid=17015868159945212710"
+    ],
+    [
+      "miami township",
+      "0240",
+      "(937) 435-7755",
+      "8499 SPRINGBORO PIKE, Miamisburg, OH 45342",
+      39.625874,
+      -84.22756,
+      "https://www.google.com/maps?cid=8253514463922404361"
+    ],
+    [
+      "niles/oh",
+      "0264",
+      "(330) 652-3313",
+      "5555 YOUNGSTOWN WARREN RD, Niles, OH 44446",
+      41.21164,
+      -80.75034,
+      "https://www.google.com/maps?cid=5980970496455296373"
+    ],
+    [
+      "trotwood",
+      "0269",
+      "(937) 854-7007",
+      "5221 SALEM AVE, Trotwood, OH 45426",
+      39.820824,
+      -84.283,
+      "https://www.google.com/maps?cid=14090368762007516451"
+    ],
+    [
+      "western hills",
+      "0288",
+      "(513) 347-0400",
+      "5495 GLENWAY AVE, Cincinnati, OH 45238",
+      39.129917,
+      -84.6081,
+      "https://www.google.com/maps?cid=10977782764516739465"
+    ],
+    [
+      "eastgate mall",
+      "0260",
+      "(513) 943-1100",
+      "4436 GLEN ESTE WITHAMSVIL, Cincinnati, OH 45245",
+      39.0955,
+      -84.26231,
+      "https://www.google.com/maps?cid=8126549069659316049"
+    ],
+    [
+      "mansfield",
+      "0404",
+      "(419) 529-9455",
+      "490 N. LEXINGTON-SPRINGMI, Mansfield, OH 44906",
+      40.765587,
+      -82.58949,
+      "https://www.google.com/maps?cid=375639748334591436"
+    ]
+  ],
+  "Oklahoma": [
+    [
+      "northwest highway",
+      "0756",
+      "(405) 722-5081",
+      "7401 NW EXPRESSWAY, Oklahoma City, OK 73132",
+      35.56133,
+      -97.64377,
+      "https://www.google.com/maps?cid=1381315460702385039"
+    ],
+    [
+      "quail springs",
+      "0764",
+      "(405) 749-0260",
+      "2317 W MEMORIAL RD, Oklahoma City, OK 73134",
+      35.610386,
+      -97.554596,
+      "https://www.google.com/maps?cid=15499221592004847370"
+    ],
+    [
+      "south walker",
+      "0754",
+      "(405) 631-0070",
+      "7600 S WALKER ST, Oklahoma City, OK 73139",
+      35.390625,
+      -97.520744,
+      "https://www.google.com/maps?cid=373431332037220118"
+    ],
+    [
+      "admiral",
+      "0789",
+      "(918) 835-4747",
+      "7820 E ADMIRAL PLACE, Tulsa, OK 74115",
+      36.159836,
+      -95.88963,
+      "https://www.google.com/maps?cid=12607274507846588106"
+    ],
+    [
+      "memorial",
+      "0791",
+      "(918) 250-0049",
+      "6714 S MEMORIAL DR, Tulsa, OK 74133",
+      36.065426,
+      -95.88774,
+      "https://www.google.com/maps?cid=13464514443047559996"
+    ]
+  ],
+  "Pennsylvania": [
+  	[
+      "cranberry",
+      "0372",
+      "(724) 779-4400",
+      "20229 RT 19, Cranberry  Township, PA 16066",
+      40.687023,
+      -80.102845,
+      "https://www.google.com/maps?cid=1647805705633217934"
+    ],
+    [
+      "phoenixville",
+      "6712",
+      "(610) 422-0012",
+      "700 NUTT ROAD SUITE 540, Phoenixville, PA 19460",
+      40.13212,
+      -75.53499,
+      "https://www.google.com/maps?cid=4660277626740219569"
+    ],
+    [
+      "willow grove",
+      "0175",
+      "(215) 830-0633",
+      "1509 EASTON RD, Willow Grove, PA 19090",
+      40.160324,
+      -75.12197,
+      "https://www.google.com/maps?cid=9348425084282121676"
+    ],
+    [
+      "colonial park",
+      "0017",
+      "(717) 657-4941",
+      "4949 JONESTOWN RD, Harrisburg, PA 17109",
+      40.305527,
+      -76.805504,
+      "https://www.google.com/maps?cid=4674355235353658315"
+    ],
+    [
+      "macdade blvd.",
+      "0013",
+      "(610) 522-0455",
+      "20 N MACDADE BLVD, Glenolden, PA 19036",
+      39.90589,
+      -75.29179,
+      "https://www.google.com/maps?cid=14209525788579381790"
+    ],
+    [
+      "red lion",
+      "0020",
+      "(215) 677-1810",
+      "9880 E ROOSEVELT BLVD, Philadelphia, PA 19115",
+      40.09309,
+      -75.01948,
+      "https://www.google.com/maps?cid=4636064564463018157"
+    ],
+    [
+      "north broad street",
+      "1052",
+      "(215) 796-6699",
+      "827 NORTH BROAD ST, Philadelphia, PA 19123",
+      39.96919,
+      -75.15935,
+      "https://www.google.com/maps?cid=15244717276986511157"
+    ],
+    [
+      "roosevelt blvd.",
+      "0280",
+      "(215) 533-6767",
+      "4640 ROOSEVELT BLVD, Philadelphia, PA 19124",
+      40.03057,
+      -75.10022,
+      "https://www.google.com/maps?cid=6385443023900155883"
+    ],
+    [
+      "hunting park",
+      "0009",
+      "(215) 533-3700",
+      "1050 E HUNTING PARK AVE, Philadelphia, PA 19124",
+      40.010906,
+      -75.10714,
+      "https://www.google.com/maps?cid=11883859654830791969"
+    ],
+    [
+      "aramingo",
+      "0012",
+      "(215) 739-5510",
+      "2491 ARAMINGO AVE, Philadelphia, PA 19125",
+      39.974697,
+      -75.11924,
+      "https://www.google.com/maps?cid=14314688715851474614"
+    ],
+    [
+      "andorra",
+      "0144",
+      "(215) 482-9680",
+      "9101-15 RIDGE AVE, Philadelphia, PA 19128",
+      40.073277,
+      -75.242065,
+      "https://www.google.com/maps?cid=9612564538351576889"
+    ],
+    [
+      "allegheny ave",
+      "1446",
+      "(215) 221-6305",
+      "3118 WEST ALLEGHENY AVE, Philadelphia, PA 19132",
+      40.00485,
+      -75.180214,
+      "https://www.google.com/maps?cid=4023539660881059142"
+    ],
+    [
+      "stenton avenue",
+      "0014",
+      "(215) 549-6570",
+      "6200 STENTON AVE, Philadelphia, PA 19138",
+      40.057762,
+      -75.164116,
+      "https://www.google.com/maps?cid=335839323761574120"
+    ],
+    [
+      "23rd street",
+      "0029",
+      "(215) 336-7180",
+      "2298 RITNER ST, Philadelphia, PA 19145",
+      39.921654,
+      -75.18523,
+      "https://www.google.com/maps?cid=10815089964077583071"
+    ],
+    [
+      "delaware avenue",
+      "0234",
+      "(215) 463-9830",
+      "1000 S COLUMBUS BLVD, Philadelphia, PA 19147",
+      39.931484,
+      -75.14495,
+      "https://www.google.com/maps?cid=3619013359191784766"
+    ],
+    [
+      "south broad street",
+      "1408",
+      "(215) 271-6813",
+      "1201 SOUTH BROAD ST, Philadelphia, PA 19147",
+      39.935345,
+      -75.16671,
+      "https://www.google.com/maps?cid=3886715694625892347"
+    ],
+    [
+      "bustleton",
+      "0007",
+      "(215) 342-4700",
+      "7422 BUSTLETON AVE, Philadelphia, PA 19152",
+      40.052258,
+      -75.05865,
+      "https://www.google.com/maps?cid=2434709698213888871"
+    ],
+    [
+      "lindbergh",
+      "1051",
+      "(215) 921-7912",
+      "7720 LINDBERGH BLVD, Philadelphia, PA 19153",
+      39.90365,
+      -75.23897,
+      "https://www.google.com/maps?cid=10519283269988472004"
+    ],
+    [
+      "york",
+      "0016",
+      "(717) 843-0908",
+      "470 LOUCKS RD, York, PA 17404",
+      39.981853,
+      -76.74258,
+      "https://www.google.com/maps?cid=11316841220783816438"
+    ],
+    [
+      "shadyside",
+      "0199",
+      "(412) 578-0478",
+      "936 SOUTH MILLVALE AVE, Pittsburgh, PA 15213",
+      40.45343,
+      -79.94821,
+      "https://www.google.com/maps?cid=1837399796669828841"
+    ],
+    [
+      "monroeville",
+      "0225",
+      "(412) 829-5119",
+      "3475 WILLIAM PENN HWY, Pittsburgh, PA 15235",
+      40.430996,
+      -79.80633,
+      "https://www.google.com/maps?cid=13242311209445695232"
+    ],
+    [
+      "pleasant hills",
+      "0213",
+      "(412) 655-5636",
+      "390 CLAIRTON BLVD, Pittsburgh, PA 15236",
+      40.336952,
+      -79.95101,
+      "https://www.google.com/maps?cid=7213763505013981948"
+    ],
+    [
+      "north hills",
+      "0210",
+      "(412) 369-7650",
+      "4751 MCKNIGHT RD, Pittsburgh, PA 15237",
+      40.519714,
+      -80.005714,
+      "https://www.google.com/maps?cid=16320164984668725813"
+    ],
+    [
+      "west chester",
+      "0026",
+      "(610) 696-5339",
+      "711 E GAY ST, West Chester, PA 19380",
+      39.96601,
+      -75.594025,
+      "https://www.google.com/maps?cid=484055031914102382"
+    ],
+    [
+      "allentown",
+      "0015",
+      "(610) 432-2515",
+      "1901 MACARTHUR RD, Whitehall, PA 18052",
+      40.633013,
+      -75.485722,
+      "https://www.google.com/maps?cid=7624785221453089369"
+    ],
+    [
+      "havertown",
+      "1432",
+      "(610) 446-2340",
+      "510 WEST CHESTER PIKE, Havertown, PA 19083",
+      39.970146,
+      -75.30482,
+      "https://www.google.com/maps?cid=17828454286793059738"
+    ],
+    [
+      "east norriton",
+      "1073",
+      "(610) 279-6720",
+      "69 W GERMANTOWN PIKE, Norristown, PA 19401",
+      40.145542,
+      -75.31714,
+      "https://www.google.com/maps?cid=12502219499892889095"
+    ],
+    [
+      "trooper",
+      "1646",
+      "(610) 630-1604",
+      "2647 RIDGE PIKE, Norristown, PA 19403",
+      40.145344,
+      -75.39289,
+      "https://www.google.com/maps?cid=5423506395458519164"
+    ],
+    [
+      "pottstown",
+      "0519",
+      "(610) 705-0202",
+      "145 SHOEMAKER ROAD, Pottstown, PA 19464",
+      40.25171,
+      -75.66017,
+      "https://www.google.com/maps?cid=10629148425540216108"
+    ],
+    [
+      "bridgeville",
+      "1460",
+      "(412) 257-2817",
+      "1193 WASHINGTON PIKE, Bridgeville, PA 15017",
+      40.36969,
+      -80.10157,
+      "https://www.google.com/maps?cid=18127179754986001541"
+    ],
+    [
+      "irwin",
+      "1692",
+      "(724) 863-1793",
+      "12043 LINCOLN WAY, North Huntingdon, PA 15642",
+      40.331173,
+      -79.74166,
+      "https://www.google.com/maps?cid=14104952073879348540"
+    ],
+    [
+      "wilkes-barre",
+      "0390",
+      "(570) 819-1100",
+      "450 WILKES BARRE TOWNSHIP, Wilkes Barre, PA 18702",
+      41.23467,
+      -75.866196,
+      "https://www.google.com/maps?cid=16208199991357013695"
+    ],
+    [
+      "bethlehem",
+      "1450",
+      "(610) 868-2108",
+      "1610 STEFKO BLVD, Bethlehem, PA 18017",
+      40.634968,
+      -75.35053,
+      "https://www.google.com/maps?cid=12195102479926561270"
+    ],
+    [
+      "malvern",
+      "1617",
+      "(610) 889-3727",
+      "309 LANCASTER AVE, Malvern, PA 19355",
+      40.03989,
+      -75.54876,
+      "https://www.google.com/maps?cid=14937762540281565348"
+    ],
+    [
+      "broomall",
+      "0253",
+      "(610) 353-3384",
+      "2916 SPRINGFIELD RD, Broomall, PA 19008",
+      39.982845,
+      -75.374466,
+      "https://www.google.com/maps?cid=9270621673453495506"
+    ],
+    [
+      "king of prussia",
+      "1069",
+      "(610) 382-4002",
+      "214 E. DEKALB PIKE, King Of Prussia, PA 19406",
+      40.09627,
+      -75.35844,
+      "https://www.google.com/maps?cid=14851052535994539095"
+    ],
+    [
+      "street road",
+      "0033",
+      "(215) 638-3788",
+      "1748 STREET RD, Bensalem, PA 19020",
+      40.09399,
+      -74.943985,
+      "https://www.google.com/maps?cid=16493753733006396014"
+    ],
+    [
+      "carlisle pike",
+      "0021",
+      "(717) 691-0860",
+      "6100 CARLISLE PIKE, Mechanicsburg, PA 17050",
+      40.243156,
+      -76.99374,
+      "https://www.google.com/maps?cid=8199623225059958282"
+    ],
+    [
+      "murtland avenue",
+      "1648",
+      "(724) 222-4076",
+      "190 MURTLAND AVENUE, Washington, PA 15301",
+      40.181293,
+      -80.23303,
+      "https://www.google.com/maps?cid=16257010174189621210"
+    ],
+    [
+      "warminster",
+      "0380",
+      "(215) 328-9520",
+      "982 W STREET RD, Warminster, PA 18974",
+      40.211952,
+      -75.110115,
+      "https://www.google.com/maps?cid=1002439859373150142"
+    ],
+    [
+      "reading",
+      "0025",
+      "(610) 929-1504",
+      "3401 PLAZA DR, Reading, PA 19605",
+      40.3852,
+      -75.92899,
+      "https://www.google.com/maps?cid=15868961557439511649"
+    ],
+    [
+      "robinson twp",
+      "0549",
+      "(412) 788-4455",
+      "6581 STEUBENVILLE PIKE, Crafton, PA 15205",
+      40.44679,
+      -80.159164,
+      "https://www.google.com/maps?cid=2388184353996427842"
+    ],
+    [
+      "allison park",
+      "1614",
+      "(724) 443-2600",
+      "4966 WILLIAM FLYNN HWY, Allison Park, PA 15101",
+      40.60372,
+      -79.94685,
+      "https://www.google.com/maps?cid=7821801902459256932"
+    ],
+    [
+      "red rose commons",
+      "0364",
+      "(717) 291-0450",
+      "1700 FRUITVILLE PIKE, Lancaster, PA 17601",
+      40.068005,
+      -76.31696,
+      "https://www.google.com/maps?cid=4993578445852066994"
+    ],
+    [
+      "lancaster/pa",
+      "0023",
+      "(717) 299-3335",
+      "2080 LINCOLN HWY, Lancaster, PA 17602",
+      40.031167,
+      -76.23799,
+      "https://www.google.com/maps?cid=997403409431730635"
+    ],
+    [
+      "oxford valley",
+      "0034",
+      "(215) 547-3550",
+      "101 LINCOLN HWY, Fairless Hills, PA 19030",
+      40.18123,
+      -74.86942,
+      "https://www.google.com/maps?cid=6954627689205181855"
+    ],
+    [
+      "state college",
+      "0523",
+      "(814) 861-1680",
+      "2268 E COLLEGE AVE, State College, PA 16801",
+      40.822323,
+      -77.812096,
+      "https://www.google.com/maps?cid=17354538623346962728"
+    ],
+    [
+      "brookhaven",
+      "0003",
+      "(610) 872-9075",
+      "3700 EDGMONT AVE, Brookhaven, PA 19015",
+      39.870426,
+      -75.386,
+      "https://www.google.com/maps?cid=4024548880099794716"
+    ],
+    [
+      "bethel park",
+      "0371",
+      "(412) 851-0700",
+      "5055 LIBRARY RD, Bethel Park, PA 15102",
+      40.33883,
+      -80.024574,
+      "https://www.google.com/maps?cid=514575601952274946"
+    ],
+    [
+      "quakertown",
+      "0018",
+      "(215) 538-3220",
+      "222 S WESTEND BLVD, Quakertown, PA 18951",
+      40.437435,
+      -75.35552,
+      "https://www.google.com/maps?cid=3297622814243608385"
+    ],
+    [
+      "collegeville",
+      "1058",
+      "(610) 454-3000",
+      "222 EAST MAIN STREET, Collegeville, PA 19426",
+      40.184427,
+      -75.451296,
+      "https://www.google.com/maps?cid=14027392836401926530"
+    ],
+    [
+      "scranton",
+      "0010",
+      "(570) 383-3600",
+      "1113 SCRANTON-CARBONDALE, Scranton, PA 18508",
+      41.469386,
+      -75.642175,
+      "https://www.google.com/maps?cid=10401650887831074327"
+    ],
+    [
+      "glenside",
+      "1650",
+      "(215) 884-3138",
+      "245 S EASTON ROAD, Glenside, PA 19038",
+      40.096928,
+      -75.1565,
+      "https://www.google.com/maps?cid=7149274904974220522"
+    ],
+    [
+      "murrysville",
+      "1685",
+      "(724) 387-2839",
+      "4360 WILLIAM PENN HWY, Murrysville, PA 15668",
+      40.427197,
+      -79.682304,
+      "https://www.google.com/maps?cid=6949545064553643271"
+    ],
+    [
+      "exton",
+      "0158",
+      "(610) 524-9800",
+      "220 N POTTSTOWN PIKE, Exton, PA 19341",
+      40.03134,
+      -75.631996,
+      "https://www.google.com/maps?cid=4695205814240465554"
+    ]
+  ],
+  "Rico": [
+    [
+      "aguadilla",
+      "0925",
+      "(787) 882-0700",
+      "15068 CARR 2 AGUADILLA, Aguadilla, PR 00603",
+      18.441814,
+      -67.14062,
+      "https://www.google.com/maps?cid=16517721747702599739"
+    ],
+    [
+      "bayamon university",
+      "0919",
+      "(787) 269-2700",
+      "1000 AVE RAMON LUIS RIVER, Bayamon, PR 00959",
+      18.38137,
+      -66.16906,
+      "https://www.google.com/maps?cid=17509569811594554728"
+    ],
+    [
+      "n.bayamon",
+      "0918",
+      "(787) 798-2700",
+      "715 AVE WEST MAIN, Bayamon, PR 00961",
+      18.40525,
+      -66.16504,
+      "https://www.google.com/maps?cid=17201900428707130154"
+    ],
+    [
+      "caguas",
+      "6653",
+      "(787) 743-6825",
+      "16 CALLE AQUAMARINA, Caguas, PR 00725",
+      18.24384,
+      -66.035315,
+      "https://www.google.com/maps?cid=693682650129807846"
+    ],
+    [
+      "campo rico",
+      "0930",
+      "(787) 762-2700",
+      "1700 AVE ROBERTO SANCHEZ, Carolina, PR 00982",
+      18.41568,
+      -65.99082,
+      "https://www.google.com/maps?cid=5287459384144619859"
+    ],
+    [
+      "carolina",
+      "0914",
+      "(787) 276-2700",
+      "14100 AVE 65 INFANTERIA, Carolina, PR 00987",
+      18.37626,
+      -65.92927,
+      "https://www.google.com/maps?cid=8771425713002265790"
+    ],
+    [
+      "caguas",
+      "0912",
+      "(787) 286-2700",
+      "200 AVE RAFELCORDRO, Cauguas, PR 00725",
+      18.24625,
+      -66.01943,
+      "https://www.google.com/maps?cid=18380914394722798353"
+    ],
+    [
+      "cayey",
+      "0909",
+      "(787) 263-2700",
+      "6000 AVE JESUS T PINIERO, Cayey, PR 00736",
+      18.123728,
+      -66.13619,
+      "https://www.google.com/maps?cid=5279621791923869669"
+    ],
+    [
+      "cidra",
+      "1003",
+      "(787) 714-2700",
+      "500 CARR 172, Cidra, PR 00739",
+      18.17724,
+      -66.15588,
+      "https://www.google.com/maps?cid=14064011115765065630"
+    ],
+    [
+      "dorado",
+      "6652",
+      "(787) 796-2829",
+      "DORADO DELMAR SHOPING CTR, Dorado, PR 00646",
+      18.464862,
+      -66.272945,
+      "https://www.google.com/maps?cid=11886822003827759998"
+    ],
+    [
+      "fajardo",
+      "0905",
+      "(787) 860-2700",
+      "4190 CARR 3, Fajardo, PR 00738",
+      18.34694,
+      -65.67196,
+      "https://www.google.com/maps?cid=7344984914379629207"
+    ],
+    [
+      "guayama",
+      "0924",
+      "(787) 866-2700",
+      "730 CALLE MARGINAL, Guayama, PR 00784",
+      17.97442,
+      -66.11852,
+      "https://www.google.com/maps?cid=11272363645382403124"
+    ],
+    [
+      "hatillo",
+      "0908",
+      "(787) 880-2700",
+      "505 CALLE LA MILITAR, Hatillo, PR 00659",
+      18.485664,
+      -66.77387,
+      "https://www.google.com/maps?cid=17477131025543254065"
+    ],
+    [
+      "humacao",
+      "0910",
+      "(787) 852-9000",
+      "350 CARR 3, Humacao, PR 00791",
+      18.142305,
+      -65.808624,
+      "https://www.google.com/maps?cid=829777849988601690"
+    ],
+    [
+      "isabela",
+      "0911",
+      "(787) 872-2700",
+      "3535 AVE MILITAL, Isabela, PR 00662",
+      18.499996,
+      -67.024,
+      "https://www.google.com/maps?cid=4457745771429718721"
+    ],
+    [
+      "juana diaz",
+      "0906",
+      "(787) 837-0200",
+      "200 CARR 149, Juana Diaz, PR 00795",
+      18.04459,
+      -66.5059,
+      "https://www.google.com/maps?cid=14780932839023107253"
+    ],
+    [
+      "juncos",
+      "0922",
+      "(787) 734-0010",
+      "350 JUNCOS PLZ, Juncos, PR 00777",
+      18.233099,
+      -65.90333,
+      "https://www.google.com/maps?cid=3084481302086055122"
+    ],
+    [
+      "n. mayaguez",
+      "0920",
+      "(787) 805-2700",
+      "2765 AVE HOSTOS, Mayaguez, PR 00682",
+      18.197456,
+      -67.149605,
+      "https://www.google.com/maps?cid=676760347351751493"
+    ],
+    [
+      "s. mayaguez",
+      "0929",
+      "(787) 265-0610",
+      "990 AVE HOSTOS, Mayaguez, PR 00682",
+      18.155682,
+      -67.141716,
+      "https://www.google.com/maps?cid=5084608182818716467"
+    ],
+    [
+      "s. ponce",
+      "0923",
+      "(787) 259-2700",
+      "2422 PONCE BYP, Ponce, PR 00716",
+      17.99604,
+      -66.62892,
+      "https://www.google.com/maps?cid=7014500097654609983"
+    ],
+    [
+      "ponce",
+      "6654",
+      "(787) 843-8088",
+      "458 CALLE FERROCARRIL, Ponce, PR 00717",
+      18.006486,
+      -66.618109,
+      "https://www.google.com/maps?cid=2520717753880726260"
+    ],
+    [
+      "rio grande",
+      "0927",
+      "(787) 888-2700",
+      "23110 CARR 3, Rio Grande, PR 00745",
+      18.37915,
+      -65.84161,
+      "https://www.google.com/maps?cid=12877533657355211391"
+    ],
+    [
+      "san german",
+      "0907",
+      "(787) 892-2700",
+      "300 AVE CASTO PEREZ, San German, PR 00683",
+      18.087677,
+      -67.031494,
+      "https://www.google.com/maps?cid=14776950842445221289"
+    ],
+    [
+      "altamira",
+      "0926",
+      "(787) 774-9000",
+      "1903 AVE JESUS T.PINERO, San Juan, PR 00920",
+      18.394976,
+      -66.10463,
+      "https://www.google.com/maps?cid=14718056712399684346"
+    ],
+    [
+      "san sebastian",
+      "0931",
+      "(787) 896-0707",
+      "4172 AVE ARCADIO ESTRADA, San Sebastian, PR 00685",
+      18.34667,
+      -67.00017,
+      "https://www.google.com/maps?cid=5815734877599093583"
+    ],
+    [
+      "levittown",
+      "0913",
+      "(787) 795-2700",
+      "60 CALLE ACACIA, Toa Baja, PR 00949",
+      18.44197,
+      -66.17575,
+      "https://www.google.com/maps?cid=3350860353525185845"
+    ],
+    [
+      "trujillo alto",
+      "0921",
+      "(787) 748-2700",
+      "160 MARGNAL LAGO ALTO, Trujillo Alto, PR 00976",
+      18.36538,
+      -66.00774,
+      "https://www.google.com/maps?cid=5336467763278255461"
+    ],
+    [
+      "central",
+      "6650",
+      "(787) 783-1780",
+      "1643 AV. JESUS T. PINERO, San Juan, PR 00921",
+      18.399912,
+      -66.096513,
+      "https://www.google.com/maps?q=1643 AV. JESUS T. PINERO"
+    ],
+    [
+      "65th & infantry",
+      "0917",
+      "(787) 754-2700",
+      "845 AVE 65 INFANTERIA, San Juan, PR 00924",
+      18.39781,
+      -66.019684,
+      "https://www.google.com/maps?cid=18302701169711496938"
+    ],
+    [
+      "tienda",
+      "6649",
+      "(787) 276-5630",
+      "802 AVENIDA CAMPO RICO, San Juan, PR 00924",
+      18.407042,
+      -66.002133,
+      "https://www.google.com/maps?cid=6924024114257994928"
+    ],
+    [
+      "almacen",
+      "6651",
+      "(787) 758-3470",
+      "14 AVENIDA SIMON MADERA, San Juan, PR 00924",
+      18.403852,
+      -66.018956,
+      "https://www.google.com/maps?cid=294860907012504504"
+    ],
+    [
+      "fort buchanan",
+      "6665",
+      "(787) 273-7731",
+      "BLDG. 677, San Juan, PR 00934",
+      18.41632,
+      -66.12081,
+      "https://www.google.com/maps?q=BLDG. 677"
+    ]
+  ],
+  "Island": [
+    [
+      "west warwick",
+      "0196",
+      "(401) 826-3336",
+      "375 QUAKER LANE, West Warwick, RI 02893",
+      41.68604,
+      -71.50142,
+      "https://www.google.com/maps?cid=10252729317586015861"
+    ],
+    [
+      "providence",
+      "0463",
+      "(401) 273-2011",
+      "1246 N MAIN ST, Providence, RI 02904",
+      41.854565,
+      -71.40131,
+      "https://www.google.com/maps?cid=14217098006878333544"
+    ]
+  ],
+  "Tennessee": [
+  	[
+      "farragut",
+      "6666",
+      "(865) 672-5464",
+      "410839 KINGSTON PIKE, Farragut, TN 37934",
+      35.89301,
+      -84.14454,
+      "https://www.google.com/maps?q=410839 KINGSTON PIKE, Farragut"
+    ],
+    [
+      "east town crossing",
+      "0148",
+      "(865) 673-8779",
+      "4770 CENTER LINE DR, Knoxville, TN 37917",
+      36.02876,
+      -83.88002,
+      "https://www.google.com/maps?cid=999778583459889014"
+    ],
+    [
+      "kingston",
+      "0151",
+      "(865) 690-2777",
+      "106 MARKET PLACE BLVD, Knoxville, TN 37922",
+      35.91181,
+      -84.09047,
+      "https://www.google.com/maps?cid=4994202884058547848"
+    ],
+    [
+      "gunbarrel road",
+      "1060",
+      "(423) 298-9104",
+      "2114 GUNBARREL RD, Chattanooga, TN 37421",
+      35.033016,
+      -85.153366,
+      "https://www.google.com/maps?cid=8936997734734153200"
+    ],
+    [
+      "poplar ave",
+      "6402",
+      "(901) 327-7328",
+      "2516 POPLAR AVE, Memphis, TN 38112",
+      35.138645,
+      -89.97686,
+      "https://www.google.com/maps?cid=6951565132500907386"
+    ],
+    [
+      "mt. moriah",
+      "6391",
+      "(901) 360-8027",
+      "5667 MT. MORIAH RD, Memphis, TN 38115",
+      35.073895,
+      -89.87452,
+      "https://www.google.com/maps?cid=13314914997478271978"
+    ],
+    [
+      "elvis",
+      "6548",
+      "(901) 332-1801",
+      "4177 ELVIS PRESLEY BLVD, Memphis, TN 38116",
+      35.03464,
+      -90.02562,
+      "https://www.google.com/maps?cid=383183950361788620"
+    ],
+    [
+      "park ave",
+      "6393",
+      "(901) 767-9054",
+      "5115 PARK AVE, Memphis, TN 38117",
+      35.106068,
+      -89.8914,
+      "https://www.google.com/maps?cid=720876693598558958"
+    ],
+    [
+      "frayser",
+      "6403",
+      "(901) 357-0047",
+      "2615 FRAYSER BLVD., Memphis, TN 38127",
+      35.220383,
+      -89.97635,
+      "https://www.google.com/maps?cid=8675817814987874845"
+    ],
+    [
+      "wolfchase",
+      "6395",
+      "(901) 380-9115",
+      "8529 US-64, Memphis, TN 38133",
+      35.203793,
+      -89.77887,
+      "https://www.google.com/maps?cid=6800926870025080044"
+    ],
+    [
+      "pleasant view rd",
+      "6400",
+      "(901) 377-3900",
+      "5285 PLEASANT VIEW ROAD, Memphis, TN 38134",
+      35.1737,
+      -89.88716,
+      "https://www.google.com/maps?cid=12917652120503402462"
+    ],
+    [
+      "e. shelby",
+      "6396",
+      "(901) 365-4701",
+      "6791 E. SHELBY DRIVE, Memphis, TN 38141",
+      35.019905,
+      -89.83642,
+      "https://www.google.com/maps?cid=13704687013851593707"
+    ],
+    [
+      "charlotte pike",
+      "0149",
+      "(615) 292-5692",
+      "5330 CHARLOTTE PIKE, Nashville, TN 37209",
+      36.152687,
+      -86.85283,
+      "https://www.google.com/maps?cid=10267788244224610105"
+    ],
+    [
+      "old hickory",
+      "0146",
+      "(615) 333-1275",
+      "15001 OLD HICKORY BLVD, Nashville, TN 37211",
+      36.04431,
+      -86.7112,
+      "https://www.google.com/maps?cid=4133521212059100509"
+    ],
+    [
+      "bartlett center",
+      "6399",
+      "(901) 373-6265",
+      "5975 BARTLETT CENTER DR, Bartlett, TN 38134",
+      35.206017,
+      -89.863365,
+      "https://www.google.com/maps?cid=9328535896394984484"
+    ],
+    [
+      "collierville",
+      "6392",
+      "(901) 853-1593",
+      "1120 W. POPLAR AVE, Collierville, TN 38017",
+      35.04693,
+      -89.699524,
+      "https://www.google.com/maps?cid=9935012622551236489"
+    ],
+    [
+      "gallatin pike",
+      "0049",
+      "(615) 860-0285",
+      "1577 GALLATIN PIKE, Madison, TN 37115",
+      36.291718,
+      -86.70258,
+      "https://www.google.com/maps?cid=8535964999740811824"
+    ],
+    [
+      "church street",
+      "6674",
+      "(629) 207-4414",
+      "3609 SHELBYVILLE PIKE, Murfreesboro, TN 37127",
+      35.77315,
+      -86.40222,
+      "https://www.google.com/maps?q=3609 SHELBYVILLE PIKE"
+    ],
+    [
+      "victory station",
+      "6683",
+      "(629) 207-4133",
+      "3803 FRANKLIN ROAD, Murfreesboro, TN 37128",
+      35.8456213,
+      -86.39027,
+      "https://www.google.com/maps?cid=12882999812814535418"
+    ]
+  ],
+  "Texas": [
+    [
+      "abilene",
+      "0788",
+      "(325) 692-7374",
+      "2473 S DANVILLE ST, Abilene, TX 79605",
+      32.41927,
+      -99.7805,
+      "https://www.google.com/maps?cid=9074081977068530964"
+    ],
+    [
+      "arlington",
+      "0725",
+      "(817) 277-2996",
+      "1212 N COLLINS ST, Arlington, TX 76011",
+      32.753536,
+      -97.09801,
+      "https://www.google.com/maps?cid=2497578036334478273"
+    ],
+    [
+      "cooper",
+      "0715",
+      "(817) 860-7558",
+      "2710 S COOPER ST, Arlington, TX 76015",
+      32.70034,
+      -97.1229,
+      "https://www.google.com/maps?cid=3790301123941150588"
+    ],
+    [
+      "austin",
+      "0749",
+      "(512) 339-1144",
+      "8917 RESEARCH BLVD, Austin, TX 78758",
+      30.371323,
+      -97.7202,
+      "https://www.google.com/maps?cid=3072004001552493835"
+    ],
+    [
+      "austin",
+      "6565",
+      "(512) 506-8368",
+      "11928 RESEARCH BLVD, Austin, TX 78759",
+      30.424394,
+      -97.751049,
+      "https://www.google.com/maps?cid=12505728503902368149"
+    ],
+    [
+      "baytown",
+      "1773",
+      "(281) 425-6953",
+      "3704 GARTH RD, Baytown, TX 77521",
+      29.763613,
+      -94.977104,
+      "https://www.google.com/maps?cid=5453461924511411017"
+    ],
+    [
+      "bedford",
+      "0736",
+      "(817) 283-2588",
+      "3305 HARWOOD RD, Bedford, TX 76021",
+      32.85249,
+      -97.113144,
+      "https://www.google.com/maps?cid=14578995644766870140"
+    ],
+    [
+      "brownsville",
+      "0766",
+      "(956) 546-1934",
+      "2336 BOCA CHICA BLVD, Brownsville, TX 78521",
+      25.921257,
+      -97.48657,
+      "https://www.google.com/maps?cid=251353048904789865"
+    ],
+    [
+      "conroe",
+      "1768",
+      "(936) 441-4501",
+      "1103 N LOOP 336 WEST, Conroe, TX 77301",
+      30.334505,
+      -95.472466,
+      "https://www.google.com/maps?cid=2793898630923042849"
+    ],
+    [
+      "corpus christi",
+      "0181",
+      "(361) 994-8504",
+      "5106 S PADRE ISLAND DR, Corpus Christi, TX 78411",
+      27.713017,
+      -97.37842,
+      "https://www.google.com/maps?cid=10276267861749188397"
+    ],
+    [
+      "n central",
+      "1716",
+      "(214) 361-0041",
+      "6530 N CENTRAL EXPRESSWAY, Dallas, TX 75206",
+      32.846554,
+      -96.77247,
+      "https://www.google.com/maps?cid=16877892516307498670"
+    ],
+    [
+      "westmoreland",
+      "0745",
+      "(214) 339-5108",
+      "3120 FORT WORTH AVE, Dallas, TX 75211",
+      32.753845,
+      -96.87204,
+      "https://www.google.com/maps?cid=17598073040450175544"
+    ],
+    [
+      "buckner",
+      "0726",
+      "(214) 398-1549",
+      "1710 BUCKNER BLVD S, Dallas, TX 75217",
+      32.74215,
+      -96.68244,
+      "https://www.google.com/maps?cid=14339993178995687917"
+    ],
+    [
+      "lemmon",
+      "1717",
+      "(214) 522-8985",
+      "4329 LEMMON AVE, Dallas, TX 75219",
+      32.817257,
+      -96.81245,
+      "https://www.google.com/maps?cid=14666488087187786196"
+    ],
+    [
+      "abrams",
+      "0179",
+      "(214) 739-1584",
+      "6534 E NORTHWEST HWY, Dallas, TX 75231",
+      32.855568,
+      -96.74731,
+      "https://www.google.com/maps?cid=10894256681397235058"
+    ],
+    [
+      "forest lane",
+      "0761",
+      "(972) 243-4401",
+      "2992 FOREST LN, Dallas, TX 75234",
+      32.909023,
+      -96.87657,
+      "https://www.google.com/maps?cid=1097953990388317607"
+    ],
+    [
+      "camp wisdom",
+      "0716",
+      "(972) 709-1115",
+      "4010 W CAMP WISDOM RD, Dallas, TX 75237",
+      32.66166,
+      -96.884445,
+      "https://www.google.com/maps?cid=12620368393039281019"
+    ],
+    [
+      "avenue of americas",
+      "0750",
+      "(915) 858-8494",
+      "200 S AMERICAS AVE, El Paso, TX 79907",
+      31.678223,
+      -106.31447,
+      "https://www.google.com/maps?cid=14671292209761401191"
+    ],
+    [
+      "sierra plaza",
+      "0753",
+      "(915) 584-8276",
+      "7465 N MESA ST, El Paso, TX 79912",
+      31.837608,
+      -106.56354,
+      "https://www.google.com/maps?cid=18272183151889785356"
+    ],
+    [
+      "dyer street",
+      "0706",
+      "(915) 751-4934",
+      "9345 DYER ST, El Paso, TX 79924",
+      31.876574,
+      -106.4243,
+      "https://www.google.com/maps?cid=9273754807282235178"
+    ],
+    [
+      "yarbrough",
+      "0698",
+      "(915) 595-1958",
+      "10501 GATEWAY WEST 11, El Paso, TX 79925",
+      31.755383,
+      -106.346306,
+      "https://www.google.com/maps?cid=14457146423548576184"
+    ],
+    [
+      "george dieter",
+      "0445",
+      "(915) 857-7633",
+      "1910 GEORGE DIETER DR, El Paso, TX 79936",
+      31.770552,
+      -106.3027,
+      "https://www.google.com/maps?cid=902360912126042267"
+    ],
+    [
+      "seminary",
+      "0751",
+      "(817) 926-7737",
+      "101 W SEMINARY DR, Fort Worth, TX 76115",
+      32.683704,
+      -97.326256,
+      "https://www.google.com/maps?cid=11068941968372079130"
+    ],
+    [
+      "camp bowie",
+      "0722",
+      "(817) 560-4606",
+      "7208 HIGHWAY 80 WEST, Fort Worth, TX 76116",
+      32.722862,
+      -97.44188,
+      "https://www.google.com/maps?cid=15544863491444817827"
+    ],
+    [
+      "mccart",
+      "0729",
+      "(817) 294-3311",
+      "6725 MCCART ST, Fort Worth, TX 76133",
+      32.644855,
+      -97.36896,
+      "https://www.google.com/maps?cid=4353952501690198244"
+    ],
+    [
+      "frisco",
+      "1715",
+      "(469) 362-7645",
+      "9215 WARREN PARKWAY, Frisco, TX 75034",
+      33.108288,
+      -96.80354,
+      "https://www.google.com/maps?cid=497551986069946156"
+    ],
+    [
+      "garland",
+      "0703",
+      "(972) 613-0077",
+      "2002 NORTHWEST HWY, Garland, TX 75041",
+      32.863514,
+      -96.65766,
+      "https://www.google.com/maps?cid=10499856765214921791"
+    ],
+    [
+      "harlingen",
+      "0760",
+      "(956) 425-8611",
+      "2321 W EXPRESSWAY 83, Harlingen, TX 78552",
+      26.18674,
+      -97.722404,
+      "https://www.google.com/maps?cid=1556213553939365546"
+    ],
+    [
+      "north loop",
+      "0239",
+      "(713) 864-7979",
+      "909 NORTH LOOP W, Houston, TX 77008",
+      29.811241,
+      -95.415306,
+      "https://www.google.com/maps?cid=9953685980981062681"
+    ],
+    [
+      "greenspoint",
+      "0209",
+      "(281) 445-5211",
+      "10275 NORTH FWY, Houston, TX 77037",
+      29.914045,
+      -95.41356,
+      "https://www.google.com/maps?cid=12941542218807552619"
+    ],
+    [
+      "jones road",
+      "1485",
+      "(281) 970-9100",
+      "9105 JONES RD, Houston, TX 77065",
+      29.906517,
+      -95.58515,
+      "https://www.google.com/maps?cid=13360684646939386817"
+    ],
+    [
+      "sharpstown",
+      "0207",
+      "(713) 779-8600",
+      "7525 SOUTHWEST FWY, Houston, TX 77074",
+      29.697134,
+      -95.51835,
+      "https://www.google.com/maps?cid=4232563686322573678"
+    ],
+    [
+      "copperfield center",
+      "0333",
+      "(281) 859-8999",
+      "6900 HWY 6 NORTH, Houston, TX 77084",
+      29.877214,
+      -95.64446,
+      "https://www.google.com/maps?cid=1607839665083527941"
+    ],
+    [
+      "west u.",
+      "1487",
+      "(713) 528-8811",
+      "4141 GREENBRIAR  ST, Houston, TX 77098",
+      29.728876,
+      -95.41248,
+      "https://www.google.com/maps?cid=2412805585258381968"
+    ],
+    [
+      "atascocita",
+      "1481",
+      "(281) 812-8811",
+      "7432 FM 1960 RD EAST, Humble, TX 77346",
+      29.997574,
+      -95.163185,
+      "https://www.google.com/maps?cid=11346847678059966083"
+    ],
+    [
+      "irving",
+      "0705",
+      "(972) 986-2200",
+      "1950 BELTLINE RD, Irving, TX 75061",
+      32.834557,
+      -96.99265,
+      "https://www.google.com/maps?cid=16194467482349398934"
+    ],
+    [
+      "green trails",
+      "1484",
+      "(281) 647-6666",
+      "845 S. FRY RD, Katy, TX 77450",
+      29.774384,
+      -95.71842,
+      "https://www.google.com/maps?cid=12749064426116448321"
+    ],
+    [
+      "north beach",
+      "1785",
+      "(817) 337-3005",
+      "8665 N. BEACH STREET, Keller, TX 76244",
+      32.898346,
+      -97.290306,
+      "https://www.google.com/maps?cid=10356110432641154073"
+    ],
+    [
+      "killeen",
+      "1731",
+      "(254) 526-6628",
+      "2002 E CENTRAL EXPRSWY D, Killeen, TX 76541",
+      31.089752,
+      -97.72283,
+      "https://www.google.com/maps?cid=5134566447056893007"
+    ],
+    [
+      "kingwood",
+      "1486",
+      "(281) 359-2040",
+      "2408 NORTHPARK DR, Kingwood, TX 77339",
+      30.067865,
+      -95.208626,
+      "https://www.google.com/maps?cid=6671539558946459788"
+    ],
+    [
+      "lake worth/tx",
+      "0727",
+      "(817) 237-0440",
+      "6500 LAKE WORTH BLVD, Lake Worth, TX 76135",
+      32.81164,
+      -97.42846,
+      "https://www.google.com/maps?cid=5381488982979395908"
+    ],
+    [
+      "lake worth",
+      "1783",
+      "(817) 237-7030",
+      "3980 NW JIM WRIGHT BLVD, Lake Worth, TX 76135",
+      32.813374,
+      -97.415726,
+      "https://www.google.com/maps?cid=12309932876284198625"
+    ],
+    [
+      "laredo",
+      "0775",
+      "(956) 726-9795",
+      "4401 SAN DARIO ST, Laredo, TX 78041",
+      27.539516,
+      -99.501526,
+      "https://www.google.com/maps?cid=6895384559894248430"
+    ],
+    [
+      "league city",
+      "1779",
+      "(281) 332-3339",
+      "1580 W MAIN STREET, League City, TX 77573",
+      29.504082,
+      -95.1119,
+      "https://www.google.com/maps?cid=9817660618048255112"
+    ],
+    [
+      "lubbock",
+      "1786",
+      "(806) 577-4966",
+      "4417 SOUTH LOOP 289, Lubbock, TX 79424",
+      33.530468,
+      -101.90903,
+      "https://www.google.com/maps?cid=11956776327965924943"
+    ],
+    [
+      "mansfield",
+      "1782",
+      "(817) 225-0831",
+      "1965 FM 157, Mansfield, TX 76063",
+      32.603905,
+      -97.14484,
+      "https://www.google.com/maps?cid=820480227609850404"
+    ],
+    [
+      "mcallen",
+      "0768",
+      "(956) 631-0023",
+      "609 S 10TH ST, Mcallen, TX 78501",
+      26.197414,
+      -98.23044,
+      "https://www.google.com/maps?cid=5876975690342464017"
+    ],
+    [
+      "mckinney",
+      "1730",
+      "(214) 385-4744",
+      "991 S CENTRAL EXPY, Mckinney, TX 75070",
+      33.1897,
+      -96.638626,
+      "https://www.google.com/maps?cid=13869225348892042585"
+    ],
+    [
+      "mesquite",
+      "0717",
+      "(972) 289-1834",
+      "2317 N GALLOWAY BLVD, Mesquite, TX 75150",
+      32.79663,
+      -96.612434,
+      "https://www.google.com/maps?cid=1771565268483441510"
+    ],
+    [
+      "north richland",
+      "0731",
+      "(817) 581-1778",
+      "6755 NORTH EAST LOOP 820, North Richland Hills, TX 76180",
+      32.841145,
+      -97.23756,
+      "https://www.google.com/maps?cid=4171128062315946192"
+    ],
+    [
+      "pearland",
+      "1767",
+      "(281) 648-2081",
+      "1433 E. BROADWAY ST, Pearland, TX 77581",
+      29.546116,
+      -95.22801,
+      "https://www.google.com/maps?cid=8904683577545199411"
+    ],
+    [
+      "plano",
+      "0704",
+      "(972) 422-7575",
+      "928 W SPRING CREEK PKWY, Plano, TX 75023",
+      33.05586,
+      -96.71169,
+      "https://www.google.com/maps?cid=15945644207467786195"
+    ],
+    [
+      "roanoke",
+      "1784",
+      "(817) 491-7380",
+      "121 E SH 114 HWY, Roanoke, TX 76262",
+      33.009903,
+      -97.2189,
+      "https://www.google.com/maps?cid=1635193824003061195"
+    ],
+    [
+      "military",
+      "0733",
+      "(210) 924-5544",
+      "830 MILITARY DR SE, San Antonio, TX 78214",
+      29.356123,
+      -98.487076,
+      "https://www.google.com/maps?cid=5699228773326494559"
+    ],
+    [
+      "san pedro",
+      "0734",
+      "(210) 829-7505",
+      "6200 SAN PEDRO AVE, San Antonio, TX 78216",
+      29.492693,
+      -98.49853,
+      "https://www.google.com/maps?cid=2829919214635383769"
+    ],
+    [
+      "nacogdoches",
+      "0741",
+      "(210) 599-0068",
+      "12535 NACOGDOCHES RD, San Antonio, TX 78217",
+      29.554663,
+      -98.40262,
+      "https://www.google.com/maps?cid=2515727209303805413"
+    ],
+    [
+      "walzem",
+      "0713",
+      "(210) 599-0074",
+      "5616 WALZEM RD, San Antonio, TX 78218",
+      29.509151,
+      -98.3762,
+      "https://www.google.com/maps?cid=12737891105419485027"
+    ],
+    [
+      "marbach",
+      "0737",
+      "(210) 675-5008",
+      "8103 MARBACH RD, San Antonio, TX 78227",
+      29.418526,
+      -98.64742,
+      "https://www.google.com/maps?cid=610223800293711424"
+    ],
+    [
+      "leon valley",
+      "0744",
+      "(210) 680-1675",
+      "7680 BANDERA RD, San Antonio, TX 78238",
+      29.510548,
+      -98.630196,
+      "https://www.google.com/maps?cid=9199504481343334426"
+    ],
+    [
+      "fm 78",
+      "1846",
+      "(210) 661-5408",
+      "6721 SEGUIN ROAD, San Antonio, TX 78244",
+      29.482965,
+      -98.35661,
+      "https://www.google.com/maps?cid=2696713238585718839"
+    ],
+    [
+      "thousand oaks",
+      "1848",
+      "(210) 402-5340",
+      "3102 THOUSAND OAKS, San Antonio, TX 78247",
+      29.574108,
+      -98.43875,
+      "https://www.google.com/maps?cid=14401062872320355831"
+    ],
+    [
+      "281 north",
+      "1845",
+      "(830) 980-9002",
+      "26676 US HWY 281 N, San Antonio, TX 78260",
+      29.695322,
+      -98.45131,
+      "https://www.google.com/maps?cid=17749626490894264166"
+    ],
+    [
+      "military hwy",
+      "1847",
+      "(210) 764-1260",
+      "14335 NW MILITARY HWY, Shavano Park, TX 78231",
+      29.571638,
+      -98.543144,
+      "https://www.google.com/maps?cid=3407072667974292641"
+    ],
+    [
+      "i-45 spring",
+      "1644",
+      "(281) 528-9370",
+      "20220 I-45, Spring, TX 77373",
+      30.057795,
+      -95.431885,
+      "https://www.google.com/maps?cid=600671125240294969"
+    ],
+    [
+      "woodland",
+      "1639",
+      "(281) 298-8395",
+      "26030 I-45 N, Spring, TX 77386",
+      30.140299,
+      -95.444984,
+      "https://www.google.com/maps?cid=9798340798330828331"
+    ],
+    [
+      "sugarland",
+      "1063",
+      "(281) 240-0419",
+      "10225 HIGHWAY 6 SOUTH, Sugar Land, TX 77498",
+      29.665932,
+      -95.642426,
+      "https://www.google.com/maps?cid=6290754207624434913"
+    ],
+    [
+      "tyler",
+      "0787",
+      "(903) 561-8820",
+      "3616 S BROADWAY AVE, Tyler, TX 75701",
+      32.308933,
+      -95.29971,
+      "https://www.google.com/maps?cid=13288351366262668086"
+    ],
+    [
+      "waco",
+      "0786",
+      "(254) 772-5805",
+      "581 N VALLEY MILLS DR, Waco, TX 76710",
+      31.530073,
+      -97.17354,
+      "https://www.google.com/maps?cid=11838814999730979761"
+    ],
+    [
+      "weatherford",
+      "1732",
+      "(817) 594-9389",
+      "148 W INTERSTATE 20, Weatherford, TX 76086",
+      32.72938,
+      -97.79316,
+      "https://www.google.com/maps?cid=8561853551055180584"
+    ],
+    [
+      "weslaco",
+      "0767",
+      "(956) 969-0856",
+      "212 W. EXPRESSWAY  83, Weslaco, TX 78596",
+      26.174023,
+      -97.99207,
+      "https://www.google.com/maps?cid=11225676016245897616"
+    ],
+    [
+      "wylie",
+      "1736",
+      "(972) 442-6100",
+      "2807 W FM 544, Wylie, TX 75098",
+      33.0116,
+      -96.58414,
+      "https://www.google.com/maps?cid=14021345593888927342"
+    ]
+  ],
+  "Utah": [
+    [
+      "sandy city",
+      "0793",
+      "(801) 565-8811",
+      "9319 S 700 EAST, Sandy, UT 84070",
+      40.582615,
+      -111.871,
+      "https://www.google.com/maps?cid=11939864784550023135"
+    ],
+    [
+      "west valley",
+      "0785",
+      "(801) 972-5550",
+      "2040 W 3500 SOUTH ST, West Valley City, UT 84119",
+      40.69728,
+      -111.94541,
+      "https://www.google.com/maps?cid=11751158936361855563"
+    ],
+    [
+      "murray",
+      "0782",
+      "(801) 262-9300",
+      "6041 S STATE ST, Murray, UT 84107",
+      40.639637,
+      -111.88807,
+      "https://www.google.com/maps?cid=11351103490629035241"
+    ],
+    [
+      "riverdale/ut",
+      "0784",
+      "(801) 393-1200",
+      "4240 RIVERDALE RD, Ogden, UT 84405",
+      41.185802,
+      -111.98513,
+      "https://www.google.com/maps?cid=6620545380265849212"
+    ]
+  ],
+  "Virginia": [
+    [
+      "portsmouth",
+      "0121",
+      "(757) 488-1979",
+      "2570 AIRLINE BLVD, Portsmouth, VA 23701",
+      36.81359,
+      -76.35913,
+      "https://www.google.com/maps?cid=18129512147841184333"
+    ],
+    [
+      "hybla valley",
+      "0232",
+      "(703) 799-2900",
+      "7800 RICHMOND HWY, Alexandria, VA 22306",
+      38.746357,
+      -77.08463,
+      "https://www.google.com/maps?cid=1051722516867609387"
+    ],
+    [
+      "fredericksburg",
+      "0031",
+      "(540) 373-0365",
+      "2384 PLANK RD, Fredericksburg, VA 22401",
+      38.294964,
+      -77.501656,
+      "https://www.google.com/maps?cid=16263905937949451626"
+    ],
+    [
+      "norfolk",
+      "0111",
+      "(757) 461-0615",
+      "1230 N MILITARY HWY, Norfolk, VA 23502",
+      36.865604,
+      -76.20917,
+      "https://www.google.com/maps?cid=8259651702460475788"
+    ],
+    [
+      "nine mile road",
+      "0102",
+      "(804) 222-8105",
+      "4507 NINE MILE RD, Richmond, VA 23223",
+      37.541245,
+      -77.37292,
+      "https://www.google.com/maps?cid=4928843476790346061"
+    ],
+    [
+      "midlothian",
+      "0088",
+      "(804) 745-7680",
+      "6300 MIDLOTHIAN TURNPIKE, Richmond, VA 23225",
+      37.504684,
+      -77.51185,
+      "https://www.google.com/maps?cid=5059980813992896988"
+    ],
+    [
+      "west broad/va",
+      "0083",
+      "(804) 672-1161",
+      "4728 WISTAR RD, Richmond, VA 23228",
+      37.62081,
+      -77.523346,
+      "https://www.google.com/maps?cid=10436506107605150251"
+    ],
+    [
+      "midlothian turnpike",
+      "1478",
+      "(804) 272-1107",
+      "10040 MIDLOTHIAN TURNPIKE, Richmond, VA 23235",
+      37.506832,
+      -77.581764,
+      "https://www.google.com/maps?cid=11052953556285600884"
+    ],
+    [
+      "denbigh",
+      "0085",
+      "(757) 875-5350",
+      "13200 WARWICK BLVD, Newport News, VA 23602",
+      37.112083,
+      -76.51657,
+      "https://www.google.com/maps?cid=7993808754771035284"
+    ],
+    [
+      "hampton",
+      "0186",
+      "(757) 838-3313",
+      "2224 W MERCURY BLVD, Hampton, VA 23666",
+      37.039234,
+      -76.40344,
+      "https://www.google.com/maps?cid=3708421416813009576"
+    ],
+    [
+      "woodbridge",
+      "0090",
+      "(703) 494-4400",
+      "1641 WIGGLESWORTH WAY, Woodbridge, VA 22191",
+      38.646908,
+      -77.26467,
+      "https://www.google.com/maps?cid=1480982299462012091"
+    ],
+    [
+      "manassas",
+      "0162",
+      "(703) 330-6974",
+      "8000 STREAM WALK LN, Manassas, VA 20109",
+      38.79565,
+      -77.51886,
+      "https://www.google.com/maps?cid=15177592116729899191"
+    ],
+    [
+      "winchester/va",
+      "0525",
+      "(540) 723-6600",
+      "2001 S PLEASANT VALLEY RD, Winchester, VA 22601",
+      39.16392,
+      -78.16758,
+      "https://www.google.com/maps?cid=14394175273506596853"
+    ],
+    [
+      "petersburg",
+      "0091",
+      "(804) 733-0047",
+      "3120 S CRATER RD, Petersburg, VA 23805",
+      37.189667,
+      -77.37237,
+      "https://www.google.com/maps?cid=8342525630514034953"
+    ],
+    [
+      "annandale",
+      "0087",
+      "(703) 256-8966",
+      "7121 LITTLE RIVER TURNPIK, Annandale, VA 22003",
+      38.829067,
+      -77.19102,
+      "https://www.google.com/maps?cid=3112613667260048115"
+    ],
+    [
+      "virginia beach",
+      "0100",
+      "(757) 430-1907",
+      "1116 LYNNHAVEN PKWY, Virginia Beach, VA 23452",
+      36.802692,
+      -76.08258,
+      "https://www.google.com/maps?cid=4529141504982932264"
+    ],
+    [
+      "e. virginia beach",
+      "0391",
+      "(757) 463-9001",
+      "321 HUTTON LN, Virginia Beach, VA 23454",
+      36.842686,
+      -76.05604,
+      "https://www.google.com/maps?cid=10868585837877310890"
+    ],
+    [
+      "cave spring",
+      "6670",
+      "(540) 945-9720",
+      "3830 ELECTRIC ROAD, Roanoke, VA 24018",
+      37.22495,
+      -79.98905,
+      "https://www.google.com/maps?cid=7736796037328162005"
+    ]
+  ],
+  "Washington": [
+  	[
+      "mt. vernon",
+      "6448",
+      "(360) 428-2711",
+      "1621 RIVERSIDE DRIVE, Mt. Vernon, WA 98273",
+      48.435257,
+      -122.335625,
+      "https://www.google.com/maps?cid=13294057227572875676"
+    ],
+    [
+      "federal way",
+      "1474",
+      "(253) 927-5383",
+      "34611 16TH AVENUE S, Federal Way, WA 98003",
+      47.29137,
+      -122.31426,
+      "https://www.google.com/maps?cid=17021957418443098785"
+    ],
+    [
+      "ballard",
+      "6449",
+      "(206) 783-4423",
+      "5601 15TH AVENUE NW, Seattle, WA 98107",
+      47.669727,
+      -122.37684,
+      "https://www.google.com/maps?cid=4442842032347387384"
+    ],
+    [
+      "elliott avenue",
+      "6450",
+      "(206) 284-0600",
+      "444 ELLIOTT AVE W, Seattle, WA 98119",
+      47.62332,
+      -122.363655,
+      "https://www.google.com/maps?cid=14837903178172467088"
+    ],
+    [
+      "fauntleroy",
+      "6452",
+      "(206) 932-1346",
+      "4441 FAUNTLEROY WAY SW, Seattle, WA 98126",
+      47.563976,
+      -122.37841,
+      "https://www.google.com/maps?cid=15922928174154297287"
+    ],
+    [
+      "sodo",
+      "6451",
+      "(206) 447-2700",
+      "1961 4TH AVE S, Seattle, WA 98134",
+      47.584217,
+      -122.32964,
+      "https://www.google.com/maps?cid=14438095452658447844"
+    ],
+    [
+      "yakima",
+      "6454",
+      "(509) 575-8473",
+      "1 E LINCOLN AVE, Yakima, WA 98901",
+      46.606293,
+      -120.509315,
+      "https://www.google.com/maps?cid=14706222052329326075"
+    ],
+    [
+      "85th street",
+      "6455",
+      "(425) 822-5330",
+      "12856 NE 85TH ST, Kirkland, WA 98033",
+      47.679832,
+      -122.16698,
+      "https://www.google.com/maps?cid=10035693219408041939"
+    ],
+    [
+      "puyallup",
+      "0529",
+      "(253) 840-1800",
+      "12228 MERIDIAN EAST, Puyallup, WA 98373",
+      47.14491,
+      -122.294,
+      "https://www.google.com/maps?cid=2728771264488409295"
+    ],
+    [
+      "kent",
+      "6447",
+      "(253) 373-1500",
+      "25923 104TH AVE SE, Kent, WA 98030",
+      47.369747,
+      -122.20307,
+      "https://www.google.com/maps?cid=4741988645946731360"
+    ],
+    [
+      "woodinville",
+      "6453",
+      "(425) 481-8211",
+      "13018 NE 175TH ST, Woodinville, WA 98072",
+      47.754833,
+      -122.16581,
+      "https://www.google.com/maps?cid=12324151126508983068"
+    ],
+    [
+      "everett",
+      "6446",
+      "(425) 348-4270",
+      "531 128TH STREET SW, Everett, WA 98204",
+      47.88232,
+      -122.241455,
+      "https://www.google.com/maps?q=531 128TH STREET SW"
+    ],
+    [
+      "everett mall",
+      "0528",
+      "(425) 438-8181",
+      "10113 EVERGREEN WAY, Everett, WA 98204",
+      47.905827,
+      -122.23988,
+      "https://www.google.com/maps?cid=13635109384255759256"
+    ]
+  ],
+  "N_Carolina": [
+  	[
+      "apex highway",
+      "6669",
+      "(919) 666-5898",
+      "4908 NC-55, Durham, NC 27713",
+      35.89834,
+      -78.89741,
+      "https://www.google.com/maps?q=4908 NC-55, Durham"
+    ],
+    [
+      "chapel hill",
+      "1624",
+      "(919) 968-7716",
+      "1510 EAST FRANKLIN STREET, Chapel Hill, NC 27514",
+      35.930847,
+      -79.03293,
+      "https://www.google.com/maps?cid=15305542034905252828"
+    ],
+    [
+      "north tryon street",
+      "0094",
+      "(704) 597-8181",
+      "4837 N TRYON ST, Charlotte, NC 28213",
+      35.25875,
+      -80.78509,
+      "https://www.google.com/maps?cid=14703243868143706131"
+    ],
+    [
+      "south blvd.",
+      "0132",
+      "(704) 529-6280",
+      "5020 SOUTH BLVD, Charlotte, NC 28217",
+      35.168655,
+      -80.87661,
+      "https://www.google.com/maps?cid=12248807812459596799"
+    ],
+    [
+      "highland creek",
+      "1684",
+      "(704) 992-5768",
+      "8620 ARBOR CREEK DRIVE, Charlotte, NC 28269",
+      35.382137,
+      -80.785904,
+      "https://www.google.com/maps?cid=7703720465173308095"
+    ],
+    [
+      "clayton",
+      "1627",
+      "(919) 550-0003",
+      "11999 HWY 70 BUSINESS W, Clayton, NC 27520",
+      35.657345,
+      -78.48121,
+      "https://www.google.com/maps?cid=1836058224291117056"
+    ],
+    [
+      "traemoor village",
+      "1688",
+      "(910) 321-0318",
+      "2961 TOWN CENTER DRIVE, Fayetteville, NC 28306",
+      34.981426,
+      -79.01289,
+      "https://www.google.com/maps?cid=10170642501561113831"
+    ],
+    [
+      "fayetteville",
+      "0080",
+      "(910) 867-1372",
+      "1924 SKIBO RD, Fayetteville, NC 28314",
+      35.06606,
+      -78.96833,
+      "https://www.google.com/maps?cid=2747263951941235205"
+    ],
+    [
+      "fuquay varina",
+      "1679",
+      "(919) 567-0662",
+      "1516 N MAIN STREET, Fuquay Varina, NC 27526",
+      35.59454,
+      -78.76485,
+      "https://www.google.com/maps?cid=4962328720412415719"
+    ],
+    [
+      "garner",
+      "0128",
+      "(919) 662-7455",
+      "1490 US-70, Garner, NC 27529",
+      35.7232,
+      -78.64422,
+      "https://www.google.com/maps?cid=5728314356261934708"
+    ],
+    [
+      "gastonia",
+      "0105",
+      "(704) 853-0040",
+      "3028 E FRANKLIN BLVD, Gastonia, NC 28056",
+      35.26134,
+      -81.12186,
+      "https://www.google.com/maps?cid=16405491303166680377"
+    ],
+    [
+      "harrisburg",
+      "1696",
+      "(704) 455-2697",
+      "3616 RUCKUS ROAD, Harrisburg, NC 28075",
+      35.323833,
+      -80.641495,
+      "https://www.google.com/maps?cid=8019492377219591720"
+    ],
+    [
+      "independence blvd.",
+      "0150",
+      "(704) 845-5980",
+      "9415 E INDEPENDENCE BLVD, Matthews, NC 28105",
+      35.13829,
+      -80.715294,
+      "https://www.google.com/maps?cid=677345376615209802"
+    ],
+    [
+      "morrisville",
+      "6539",
+      "(919) 466-9645",
+      "9515 CHAPEL HILL RD, Morrisville, NC 27560",
+      35.805202,
+      -78.80849,
+      "https://www.google.com/maps?cid=15460263659881287039"
+    ],
+    [
+      "fayetteville & ten ten",
+      "1689",
+      "(919) 661-4382",
+      "8100 FAYETTEVILLE RD, Raleigh, NC 27603",
+      35.66448,
+      -78.701355,
+      "https://www.google.com/maps?cid=3589357530745977193"
+    ],
+    [
+      "route 1 north",
+      "0069",
+      "(919) 954-0618",
+      "3720 CAPITAL BLVD, Raleigh, NC 27604",
+      35.8317,
+      -78.583565,
+      "https://www.google.com/maps?cid=9001434942248837125"
+    ],
+    [
+      "wake forest",
+      "1623",
+      "(919) 569-0085",
+      "935 GATEWAY COMMONS CIRCL, Wake Forest, NC 27587",
+      35.969128,
+      -78.49409,
+      "https://www.google.com/maps?cid=7413824327274327715"
+    ],
+    [
+      "waxhaw",
+      "6710",
+      "(704) 627-6297",
+      "3707 PROVIDENCE ROAD S, Waxhaw, NC 28173",
+      34.94264,
+      -80.75251,
+      "https://www.google.com/maps?cid=8311985376961125704"
+    ],
+    [
+      "western blvd",
+      "6678",
+      "(984) 233-2564",
+      "3921 WESTERN BLVD, Raleigh, NC 27606",
+      35.78405,
+      -78.69188,
+      "https://www.google.com/maps?q=3921 WESTERN BLVD"
+    ],
+    [
+      "route 70",
+      "0004",
+      "(919) 781-9317",
+      "6806 DAVIS CIR, Raleigh, NC 27613",
+      35.862114,
+      -78.70856,
+      "https://www.google.com/maps?cid=18356877601135362075"
+    ],
+    [
+      "triangle town center",
+      "6684",
+      "(984) 867-8333",
+      "7320 OLD WAKE FOREST ROAD, Raleigh, NC 27616",
+      35.869156,
+      -78.578039,
+      "https://www.google.com/maps?cid=18059722397502547594"
+    ]
+  ],
+  "Florida": [
+    [
+      "fleming island",
+      "6625",
+      "(904) 278-5252",
+      "1807 EAST-WEST PARKWAY, Fleming Island, FL 32003",
+      30.096144,
+      -81.707081,
+      "https://www.google.com/maps?q=1807 EAST-WEST PARKWAY"
+    ],
+    [
+      "altamonte springs",
+      "0120",
+      "(407) 339-3385",
+      "1029 E ALTAMONTE DR, Altamonte Springs, FL 32701",
+      28.663889,
+      -81.35601,
+      "https://www.google.com/maps?cid=3193290429291609910"
+    ],
+    [
+      "forest city",
+      "1434",
+      "(407) 774-6830",
+      "710 W. HIGHWAY 436, Altamonte Springs, FL 32714",
+      28.663158,
+      -81.41207,
+      "https://www.google.com/maps?cid=3010146464104164699"
+    ],
+    [
+      "apopka service and tire",
+      "1422",
+      "(407) 886-2699",
+      "260 E MAIN STREET, Apopka, FL 32703",
+      28.672714,
+      -81.50585,
+      "https://www.google.com/maps?cid=16645111625067586921"
+    ],
+    [
+      "apopka",
+      "0544",
+      "(407) 880-4500",
+      "2000 EAST SEMORAN BLVD, Apopka, FL 32703",
+      28.672247,
+      -81.4733,
+      "https://www.google.com/maps?cid=17407998718319617116"
+    ],
+    [
+      "bayshore gardens",
+      "1808",
+      "(941) 751-7519",
+      "6324 14TH STREET WEST, Bradenton, FL 34207",
+      27.428436,
+      -82.57594,
+      "https://www.google.com/maps?cid=15488561812844072986"
+    ],
+    [
+      "bradenton",
+      "0398",
+      "(941) 739-1525",
+      "2303 CORTEZ RD, Bradenton, FL 34207",
+      27.46148,
+      -82.584564,
+      "https://www.google.com/maps?cid=11394713435497403080"
+    ],
+    [
+      "brandon",
+      "1803",
+      "(813) 655-3476",
+      "214 E. BRANDON BLVD, Brandon, FL 33511",
+      27.938112,
+      -82.28324,
+      "https://www.google.com/maps?cid=12400546436373806238"
+    ],
+    [
+      "brandon",
+      "0139",
+      "(813) 689-0700",
+      "1747 W BRANDON BLVD, Brandon, FL 33511",
+      27.936811,
+      -82.31187,
+      "https://www.google.com/maps?cid=6256050035878161390"
+    ],
+    [
+      "callaway",
+      "1527",
+      "(850) 769-0261",
+      "161 N TYNDALL PKWY, Callaway, FL 32404",
+      30.148054,
+      -85.59155,
+      "https://www.google.com/maps?cid=1089430750110042418"
+    ],
+    [
+      "cape coral",
+      "1820",
+      "(239) 214-6911",
+      "1820 S. DEL PRADO BLVD, Cape Coral, FL 33990",
+      26.618282,
+      -81.941246,
+      "https://www.google.com/maps?cid=15528839646823012531"
+    ],
+    [
+      "casselberry",
+      "1813",
+      "(407) 682-9988",
+      "690 E SEMORAN BLVD, Casselberry, FL 32707",
+      28.652884,
+      -81.329278,
+      "https://www.google.com/maps?cid=2666474073634138986"
+    ],
+    [
+      "celebration",
+      "1423",
+      "(321) 939-2581",
+      "70 BLAKE DR, Celebration, FL 34747",
+      28.330477,
+      -81.52908,
+      "https://www.google.com/maps?cid=10927362468055569021"
+    ],
+    [
+      "gulf to bay",
+      "1806",
+      "(727) 443-1194",
+      "1559B GULF TO BAY BLVD, Clearwater, FL 33755",
+      27.960323,
+      -82.771835,
+      "https://www.google.com/maps?cid=13985882705942618189"
+    ],
+    [
+      "clearwater",
+      "1447",
+      "(727) 785-2803",
+      "29889 US 19 NORTH, Clearwater, FL 33761",
+      28.043907,
+      -82.73777,
+      "https://www.google.com/maps?cid=13403752356137245557"
+    ],
+    [
+      "clermont",
+      "1054",
+      "(352) 243-2109",
+      "950 HOOKS STREET, Clermont, FL 34711",
+      28.543854,
+      -81.74067,
+      "https://www.google.com/maps?cid=14697302575123733287"
+    ],
+    [
+      "clermont",
+      "1417",
+      "(352) 536-1177",
+      "1437 SUNRISE PLAZA DR, Clermont, FL 34714",
+      28.367613,
+      -81.68153,
+      "https://www.google.com/maps?cid=7042687154633742467"
+    ],
+    [
+      "coral springs",
+      "0292",
+      "(954) 346-4041",
+      "2100 UNIVERSITY DR, Coral Springs, FL 33071",
+      26.257196,
+      -80.25173,
+      "https://www.google.com/maps?cid=6019625083292901715"
+    ],
+    [
+      "crestview",
+      "1533",
+      "(850) 689-1550",
+      "883 N FERDON BLVD, Crestview, FL 32536",
+      30.777166,
+      -86.56198,
+      "https://www.google.com/maps?cid=13204964406897500246"
+    ],
+    [
+      "davie",
+      "0182",
+      "(954) 476-2401",
+      "2380 S UNIVERSITY DR, Davie, FL 33324",
+      26.091734,
+      -80.25051,
+      "https://www.google.com/maps?cid=10351856077772047398"
+    ],
+    [
+      "daytona beach",
+      "0163",
+      "(386) 255-6390",
+      "2220 W INTERNATIONAL SPEE, Daytona Beach, FL 32114",
+      29.186857,
+      -81.07774,
+      "https://www.google.com/maps?cid=7578484982375384101"
+    ],
+    [
+      "deland",
+      "1826",
+      "(386) 337-3530",
+      "722 S WOODLAND BLVD, Deland, FL 32720",
+      29.016544,
+      -81.303406,
+      "https://www.google.com/maps?cid=3820491917508398800"
+    ],
+    [
+      "deland",
+      "1433",
+      "(386) 943-9299",
+      "2835 S. WOODLAND BLVD, Deland, FL 32720",
+      28.978683,
+      -81.298775,
+      "https://www.google.com/maps?cid=15432260487208874020"
+    ],
+    [
+      "destin",
+      "1531",
+      "(850) 650-1575",
+      "35800 EMERALD COAST PKWY, Destin, FL 32541",
+      30.388996,
+      -86.41917,
+      "https://www.google.com/maps?cid=16293599986134333141"
+    ],
+    [
+      "eustis",
+      "1424",
+      "(352) 357-2637",
+      "15469 US HIGHWAY 441, Eustis, FL 32726",
+      28.822618,
+      -81.70035,
+      "https://www.google.com/maps?cid=6557334712146512164"
+    ],
+    [
+      "sunrise & flagler",
+      "0311",
+      "(954) 779-1002",
+      "601 SUNRISE BLVD, Fort Lauderdale, FL 33304",
+      26.137825,
+      -80.13705,
+      "https://www.google.com/maps?cid=5612389020548895400"
+    ],
+    [
+      "stirling road",
+      "0387",
+      "(954) 894-1888",
+      "2721 STIRLING RD, Fort Lauderdale, FL 33312",
+      26.048191,
+      -80.17748,
+      "https://www.google.com/maps?cid=2992426354487198665"
+    ],
+    [
+      "fort myers",
+      "0204",
+      "(239) 939-5447",
+      "4797 S CLEVELAND AVE, Fort Myers, FL 33907",
+      26.591383,
+      -81.87054,
+      "https://www.google.com/maps?cid=1863672487680368898"
+    ],
+    [
+      "fort pierce",
+      "1827",
+      "(772) 595-5230",
+      "2903 S. US HWY 1, Fort Pierce, FL 34982",
+      27.416374,
+      -80.32632,
+      "https://www.google.com/maps?cid=16486167494644383312"
+    ],
+    [
+      "wright",
+      "1534",
+      "(850) 862-2164",
+      "705 NORTH BEAL ST, Fort Walton Beach, FL 32547",
+      30.437061,
+      -86.63824,
+      "https://www.google.com/maps?cid=1429553735213011654"
+    ],
+    [
+      "ocean city",
+      "1530",
+      "(850) 863-1102",
+      "311 NE RACETRACK RD, Fort Walton Beach, FL 32547",
+      30.444006,
+      -86.60421,
+      "https://www.google.com/maps?cid=14050267651379675873"
+    ],
+    [
+      "fort walton beach",
+      "1532",
+      "(850) 243-7632",
+      "15 W MIRACLE STRIP PKWY, Fort Walton Beach, FL 32548",
+      30.404545,
+      -86.615166,
+      "https://www.google.com/maps?cid=5248326779968441507"
+    ],
+    [
+      "gainesville",
+      "0127",
+      "(352) 332-6003",
+      "7725 W NEWBERRY RD, Gainesville, FL 32606",
+      29.659025,
+      -82.42491,
+      "https://www.google.com/maps?cid=1167102249206422203"
+    ],
+    [
+      "gulf breeze",
+      "1495",
+      "(850) 932-6425",
+      "3113 GULF BREEZE PKWY, Gulf Breeze, FL 32563",
+      30.385267,
+      -87.09422,
+      "https://www.google.com/maps?cid=6386099507008087305"
+    ],
+    [
+      "miami lakes",
+      "0153",
+      "(305) 557-4498",
+      "17050 NORTHWEST  57TH AVE, Hialeah, FL 33015",
+      25.928305,
+      -80.294586,
+      "https://www.google.com/maps?cid=13568208901480168147"
+    ],
+    [
+      "hobe sound",
+      "1828",
+      "(772) 546-2195",
+      "11350 SE FEDERAL HWY, Hobe Sound, FL 33455",
+      27.065845,
+      -80.140175,
+      "https://www.google.com/maps?cid=11998245012884781984"
+    ],
+    [
+      "hollywood/fl",
+      "0176",
+      "(954) 985-9440",
+      "860 S STATE ROAD 7, Hollywood, FL 33023",
+      26.00362,
+      -80.208595,
+      "https://www.google.com/maps?cid=5121128599594922945"
+    ],
+    [
+      "jacksonville",
+      "1824",
+      "(904) 758-8649",
+      "1300 NORTH 3RD STREET, Jacksonville Beach, FL 32250",
+      30.30046,
+      -81.39479,
+      "https://www.google.com/maps?cid=5925441396202364846"
+    ],
+    [
+      "lane avenue",
+      "0135",
+      "(904) 695-7770",
+      "919 LANE AVE S, Jacksonville, FL 32205",
+      30.308723,
+      -81.7511,
+      "https://www.google.com/maps?cid=13083745060116003549"
+    ],
+    [
+      "san marco",
+      "6623",
+      "(904) 398-6982",
+      "3726 ST. AUGUSTINE ROAD, Jacksonville, FL 32207",
+      30.285021,
+      -81.644241,
+      "https://www.google.com/maps?q=3726 ST. AUGUSTINE ROAD"
+    ],
+    [
+      "ortega",
+      "6624",
+      "(904) 387-9218",
+      "5431 ROOSEVELT BLVD, Jacksonville, FL 32210",
+      30.251117,
+      -81.698127,
+      "https://www.google.com/maps?q=5431 ROOSEVELT BLVD"
+    ],
+    [
+      "dunn avenue",
+      "0130",
+      "(904) 696-0090",
+      "1105 DUNN AVE, Jacksonville, FL 32218",
+      30.43075,
+      -81.664375,
+      "https://www.google.com/maps?cid=8071177687683462361"
+    ],
+    [
+      "river city",
+      "6628",
+      "(904) 757-6600",
+      "13131-1 WOLF BAY DRIVE, Jacksonville, FL 32218",
+      30.476357,
+      -81.630685,
+      "https://www.google.com/maps?q=13131-1 WOLF BAY DRIVE"
+    ],
+    [
+      "julington creek",
+      "6622",
+      "(904) 268-2044",
+      "12620 SAN JOSE BLVD, Jacksonville, FL 32223",
+      30.138365,
+      -81.633369,
+      "https://www.google.com/maps?q=12620 SAN JOSE BLVD"
+    ],
+    [
+      "atlantic at san pablo",
+      "6627",
+      "(904) 221-1100",
+      "13657-1 ATLANTIC BLVD, Jacksonville, FL 32225",
+      30.321956,
+      -81.447179,
+      "https://www.google.com/maps?q=13657-1 ATLANTIC BLVD"
+    ],
+    [
+      "blanding boulevard",
+      "6629",
+      "(904) 337-1053",
+      "7762 BLANDING BLVD, Jacksonville, FL 32244",
+      30.206904,
+      -81.739978,
+      "https://www.google.com/maps?q=7762 BLANDING BLVD"
+    ],
+    [
+      "baymeadows",
+      "1489",
+      "(904) 448-5042",
+      "8397 BAYMEADOWS RD, Jacksonville, FL 32256",
+      30.221231,
+      -81.583534,
+      "https://www.google.com/maps?cid=4539184871401382734"
+    ],
+    [
+      "the avenues",
+      "6621",
+      "(904) 260-9600",
+      "9148 PHILLIPS HIGHWAY, Jacksonville, FL 32256",
+      30.199812,
+      -81.573309,
+      "https://www.google.com/maps?q=9148 PHILLIPS HIGHWAY"
+    ],
+    [
+      "mandarin",
+      "0047",
+      "(904) 260-9660",
+      "9605 SAN JOSE BLVD, Jacksonville, FL 32257",
+      30.203705,
+      -81.61647,
+      "https://www.google.com/maps?cid=1931971352554241792"
+    ],
+    [
+      "pine island road",
+      "6537",
+      "(954) 741-3111",
+      "4397 N PINE ISLAND RD, Sunrise, FL 33351",
+      26.178452,
+      -80.26824,
+      "https://www.google.com/maps?q=4397 N PINE ISLAND RD"
+    ],
+    [
+      "st. johns at 210",
+      "6630",
+      "(904) 429-9575",
+      "1605 COUNTY ROAD 210, St. Augustine, FL 32095",
+      30.067059,
+      -81.493457,
+      "https://www.google.com/maps?q=1605 COUNTY ROAD 210"
+    ],
+    [
+      "jupiter",
+      "0397",
+      "(561) 748-9444",
+      "2064 W INDIANTOWN RD, Jupiter, FL 33458",
+      26.933268,
+      -80.12689,
+      "https://www.google.com/maps?cid=14923996052034091195"
+    ],
+    [
+      "osceola parkway",
+      "1655",
+      "(407) 518-2098",
+      "2708 W. OSCEOLA PARKWAY, Kissimmee, FL 34741",
+      28.341291,
+      -81.43221,
+      "https://www.google.com/maps?cid=6650910729169416320"
+    ],
+    [
+      "kissimmee",
+      "0310",
+      "(407) 933-0055",
+      "302 W VINE ST, Kissimmee, FL 34741",
+      28.303911,
+      -81.40669,
+      "https://www.google.com/maps?cid=5108731410287923531"
+    ],
+    [
+      "lake worth/fl",
+      "0194",
+      "(561) 968-4688",
+      "4301 LAKE WORTH RD, Lake Worth, FL 33461",
+      26.619663,
+      -80.11137,
+      "https://www.google.com/maps?cid=2870342983405784682"
+    ],
+    [
+      "lakeland",
+      "0118",
+      "(863) 853-3776",
+      "4405 US HWY 98 N, Lakeland, FL 33809",
+      28.099003,
+      -81.97266,
+      "https://www.google.com/maps?cid=5838983609744971083"
+    ],
+    [
+      "mulberry",
+      "1619",
+      "(863) 644-3420",
+      "6820 S. FLORIDA AVENUE, Lakeland, FL 33813",
+      27.940609,
+      -81.97321,
+      "https://www.google.com/maps?cid=7529586604182049770"
+    ],
+    [
+      "largo",
+      "1805",
+      "(727) 518-6476",
+      "13015 SEMINOLE BLVD, Largo, FL 33778",
+      27.89169,
+      -82.78654,
+      "https://www.google.com/maps?cid=15829279799881906880"
+    ],
+    [
+      "leesburg",
+      "1419",
+      "(352) 787-2144",
+      "1314 W MAIN ST, Leesburg, FL 34748",
+      28.81171,
+      -81.88641,
+      "https://www.google.com/maps?cid=79927518907030160"
+    ],
+    [
+      "radio road",
+      "1437",
+      "(352) 314-6913",
+      "10209 HIGHWAY 441, Leesburg, FL 34788",
+      28.823889,
+      -81.78746,
+      "https://www.google.com/maps?cid=11393374864826343613"
+    ],
+    [
+      "leesburg",
+      "1821",
+      "(352) 504-3671",
+      "9816 US HIGHWAY 441, Leesburg, FL 34788",
+      28.824833,
+      -81.79404,
+      "https://www.google.com/maps?cid=493748786380504071"
+    ],
+    [
+      "longwood",
+      "1435",
+      "(407) 339-4611",
+      "100 S. HIGHWAY 17-92, Longwood, FL 32750",
+      28.697536,
+      -81.327675,
+      "https://www.google.com/maps?cid=2706674168919036215"
+    ],
+    [
+      "land o'lakes  lutz",
+      "1687",
+      "(813) 909-7175",
+      "22545 CATFISH LAKE ROAD, Lutz, FL 33549",
+      28.186434,
+      -82.444,
+      "https://www.google.com/maps?cid=17985471408542544764"
+    ],
+    [
+      "merritt island",
+      "1611",
+      "(321) 453-9583",
+      "1090 N COURTENAY PKWY, Merritt Island, FL 32953",
+      28.375795,
+      -80.70095,
+      "https://www.google.com/maps?cid=8466360458997636419"
+    ],
+    [
+      "west miami",
+      "0167",
+      "(305) 264-6355",
+      "211 NW 82ND AVE, Miami, FL 33126",
+      25.772419,
+      -80.32767,
+      "https://www.google.com/maps?cid=4924084507148038975"
+    ],
+    [
+      "little havana",
+      "0157",
+      "(305) 541-7200",
+      "2301 SW 8TH ST, Miami, FL 33135",
+      25.765675,
+      -80.23322,
+      "https://www.google.com/maps?cid=14552982109204435740"
+    ],
+    [
+      "cutler ridge",
+      "0133",
+      "(305) 252-7311",
+      "10200 BROAD CHANNEL RD, Miami, FL 33157",
+      25.592329,
+      -80.35655,
+      "https://www.google.com/maps?cid=348480402256511358"
+    ],
+    [
+      "middleburg",
+      "1631",
+      "(904) 406-4758",
+      "1716 BLANDING BLVD., Middleburg, FL 32068",
+      30.107271,
+      -81.8257,
+      "https://www.google.com/maps?cid=7096277920472193403"
+    ],
+    [
+      "milton",
+      "1539",
+      "(850) 623-4377",
+      "6611 CAROLINE ST, Milton, FL 32570",
+      30.620451,
+      -87.047165,
+      "https://www.google.com/maps?cid=659732051869226558"
+    ],
+    [
+      "niceville",
+      "1535",
+      "(850) 678-0887",
+      "796 JOHN SIMS PKWY, Niceville, FL 32578",
+      30.519356,
+      -86.47882,
+      "https://www.google.com/maps?cid=16220532879332566434"
+    ],
+    [
+      "north miami beach",
+      "0173",
+      "(305) 655-3000",
+      "295 NE 167TH STREET, North Miami Beach, FL 33162",
+      25.92898,
+      -80.19501,
+      "https://www.google.com/maps?cid=5606261222115295745"
+    ],
+    [
+      "ocala",
+      "1819",
+      "(352) 368-3697",
+      "2425 NE SILVER SPRNGS BLV, Ocala, FL 34470",
+      29.187263,
+      -82.10509,
+      "https://www.google.com/maps?cid=13847441277865132180"
+    ],
+    [
+      "silver springs",
+      "1659",
+      "(352) 624-8654",
+      "2170 NE 49TH COURT RD, Ocala, FL 34470",
+      29.208357,
+      -82.06816,
+      "https://www.google.com/maps?cid=1509881850261857369"
+    ],
+    [
+      "ocala",
+      "0598",
+      "(352) 369-0303",
+      "2035 SW COLLEGE RD, Ocala, FL 34471",
+      29.173477,
+      -82.1607,
+      "https://www.google.com/maps?cid=6198242871886234975"
+    ],
+    [
+      "ocoee",
+      "1613",
+      "(407) 293-8634",
+      "8805 WEST COLONIAL DR, Ocoee, FL 34761",
+      28.553478,
+      -81.50531,
+      "https://www.google.com/maps?cid=733780423424419536"
+    ],
+    [
+      "ocoee",
+      "1811",
+      "(407) 654-9847",
+      "11460 W COLONIAL DRIVE, Ocoee, FL 34761",
+      28.551125,
+      -81.54985,
+      "https://www.google.com/maps?cid=17211518430402479398"
+    ],
+    [
+      "orange park",
+      "0113",
+      "(904) 276-7680",
+      "204 BLANDING BLVD, Orange Park, FL 32073",
+      30.177618,
+      -81.74411,
+      "https://www.google.com/maps?cid=10410904805577661983"
+    ],
+    [
+      "orange blossom",
+      "0125",
+      "(407) 851-2626",
+      "7750 S ORANGE BLOSSOM TRA, Orlando, FL 32809",
+      28.452908,
+      -81.402054,
+      "https://www.google.com/maps?cid=7113127683719834329"
+    ],
+    [
+      "lb mcleod road",
+      "1520",
+      "(407) 295-2658",
+      "5546 LB MCLEOD RD, Orlando, FL 32811",
+      28.504026,
+      -81.45628,
+      "https://www.google.com/maps?cid=17795822115034263104"
+    ],
+    [
+      "west colonial",
+      "0126",
+      "(407) 295-5553",
+      "601 POWERS DR, Orlando, FL 32818",
+      28.55044,
+      -81.46709,
+      "https://www.google.com/maps?cid=15315689986985942557"
+    ],
+    [
+      "semoran boulevard",
+      "1496",
+      "(407) 381-8537",
+      "4400 S. SEMORAN BLVD, Orlando, FL 32822",
+      28.499613,
+      -81.310974,
+      "https://www.google.com/maps?cid=17389586813257212613"
+    ],
+    [
+      "avalon park blvd",
+      "1694",
+      "(407) 207-4588",
+      "351 AVALON PARK S BLVD, Orlando, FL 32828",
+      28.541111,
+      -81.15143,
+      "https://www.google.com/maps?cid=10464615314114772075"
+    ],
+    [
+      "woodland lakes drive",
+      "1522",
+      "(407) 207-1750",
+      "420 WOODLAND LAKES DR, Orlando, FL 32828",
+      28.541035,
+      -81.20734,
+      "https://www.google.com/maps?cid=2913331631060646133"
+    ],
+    [
+      "ormond beach",
+      "1436",
+      "(386) 677-5037",
+      "234 WEST GRANADA BLVD, Ormond Beach, FL 32174",
+      29.282555,
+      -81.06233,
+      "https://www.google.com/maps?cid=9103545853277477469"
+    ],
+    [
+      "mitchell hammock road",
+      "1516",
+      "(407) 366-0202",
+      "907 SOUTH LAKE JESSUP AVE, Oviedo, FL 32765",
+      28.65612,
+      -81.21283,
+      "https://www.google.com/maps?cid=5281551009046133385"
+    ],
+    [
+      "oviedo",
+      "1061",
+      "(407) 326-5000",
+      "2994 ALAFAYA TRAIL, Oviedo, FL 32765",
+      28.627794,
+      -81.20859,
+      "https://www.google.com/maps?cid=16027089526951579551"
+    ],
+    [
+      "pace",
+      "1541",
+      "(850) 994-0777",
+      "4128 HWY. 90, Pace, FL 32571",
+      30.603552,
+      -87.15176,
+      "https://www.google.com/maps?cid=16246974755330709818"
+    ],
+    [
+      "palm bay",
+      "1610",
+      "(321) 723-0280",
+      "2035 PALM BAY ROAD NE, Palm Bay, FL 32905",
+      28.035538,
+      -80.61288,
+      "https://www.google.com/maps?cid=13452462252078039747"
+    ],
+    [
+      "north lake blvd.",
+      "0285",
+      "(561) 881-8744",
+      "3169 NORTHLAKE BLVD, Palm Beach Gardens, FL 33403",
+      26.809196,
+      -80.08501,
+      "https://www.google.com/maps?cid=5002452749085987297"
+    ],
+    [
+      "palm harbor",
+      "1804",
+      "(727) 771-6216",
+      "35061 US HIGHWAY 19 NORTH, Palm Harbor, FL 34684",
+      28.090176,
+      -82.73866,
+      "https://www.google.com/maps?cid=1943729180246668567"
+    ],
+    [
+      "panama city beach",
+      "1529",
+      "(850) 236-7585",
+      "8113 FRONT BEACH RD, Panama City Beach, FL 32407",
+      30.184616,
+      -85.77583,
+      "https://www.google.com/maps?cid=9847830226732132318"
+    ],
+    [
+      "23rd & breezy",
+      "1528",
+      "(850) 763-7936",
+      "712 W 23RD ST, Panama City, FL 32405",
+      30.190134,
+      -85.67138,
+      "https://www.google.com/maps?cid=16986037540683851172"
+    ],
+    [
+      "cervantes",
+      "1538",
+      "(850) 433-5471",
+      "300 E CERVANTES ST, Pensacola, FL 32501",
+      30.42239,
+      -87.212875,
+      "https://www.google.com/maps?cid=629132737879792887"
+    ],
+    [
+      "9th & tippin",
+      "1545",
+      "(850) 477-0330",
+      "6389 NORTH 9TH AVE, Pensacola, FL 32504",
+      30.4896,
+      -87.19632,
+      "https://www.google.com/maps?cid=11257199237178299975"
+    ],
+    [
+      "davis highway",
+      "0082",
+      "(850) 484-0605",
+      "6340 N DAVIS HWY, Pensacola, FL 32504",
+      30.490273,
+      -87.22272,
+      "https://www.google.com/maps?cid=11810878496061054750"
+    ],
+    [
+      "new warrington",
+      "1537",
+      "(850) 455-1305",
+      "549 NEW WARRINGTON RD, Pensacola, FL 32506",
+      30.417427,
+      -87.27633,
+      "https://www.google.com/maps?cid=269029120371733909"
+    ],
+    [
+      "mobile highway",
+      "0142",
+      "(850) 457-1907",
+      "4700 MOBILE HWY, Pensacola, FL 32506",
+      30.438772,
+      -87.279785,
+      "https://www.google.com/maps?cid=9887478004655454018"
+    ],
+    [
+      "ensley",
+      "1536",
+      "(850) 476-6530",
+      "317 E NINE MILE RD, Pensacola, FL 32514",
+      30.532364,
+      -87.259926,
+      "https://www.google.com/maps?cid=3603197429177834669"
+    ],
+    [
+      "pinellas park",
+      "1649",
+      "(727) 541-6154",
+      "6492 PARK BLVD, Pinellas Park, FL 33781",
+      27.83876,
+      -82.725845,
+      "https://www.google.com/maps?cid=13746474904719863124"
+    ],
+    [
+      "plantation",
+      "0376",
+      "(954) 916-9100",
+      "12251 W SUNRISE BLVD, Plantation, FL 33323",
+      26.147198,
+      -80.31243,
+      "https://www.google.com/maps?cid=7590115062032689947"
+    ],
+    [
+      "pompano beach",
+      "0165",
+      "(954) 784-7676",
+      "240 COPANS RD, Pompano Beach, FL 33064",
+      26.259811,
+      -80.12623,
+      "https://www.google.com/maps?cid=5231315749589392338"
+    ],
+    [
+      "new port richey",
+      "1822",
+      "(727) 619-4854",
+      "9208 US HWY 19 N, Port Richey, FL 34668",
+      28.290945,
+      -82.71022,
+      "https://www.google.com/maps?cid=588038743673562525"
+    ],
+    [
+      "riverview",
+      "1632",
+      "(813) 677-0950",
+      "10119 MCMULLEN ROAD, Riverview, FL 33569",
+      27.85208,
+      -82.30247,
+      "https://www.google.com/maps?cid=1899795614061470264"
+    ],
+    [
+      "st. josephs",
+      "1521",
+      "(407) 322-9896",
+      "4170 WEST STATE ROAD 46, Sanford, FL 32771",
+      28.812414,
+      -81.324188,
+      "https://www.google.com/maps?cid=3220009940693930983"
+    ],
+    [
+      "bee ridge",
+      "1809",
+      "(941) 371-1377",
+      "4427 BEE RIDGE RD, Sarasota, FL 34233",
+      27.299171,
+      -82.48006,
+      "https://www.google.com/maps?cid=14191799547171115636"
+    ],
+    [
+      "spring hill",
+      "1703",
+      "(352) 544-8273",
+      "14414 SPRING HILL DRIVE, Spring Hill, FL 34609",
+      28.479292,
+      -82.48522,
+      "https://www.google.com/maps?cid=9298388619214080445"
+    ],
+    [
+      "st. cloud",
+      "1519",
+      "(407) 891-3661",
+      "4561 13TH STREET, St Cloud, FL 34769",
+      28.255169,
+      -81.32047,
+      "https://www.google.com/maps?cid=15448923374138007077"
+    ],
+    [
+      "apalachee parkway",
+      "1526",
+      "(850) 656-1024",
+      "2984 APALACHEE PKWY, Tallahassee, FL 32301",
+      30.42781,
+      -84.22866,
+      "https://www.google.com/maps?cid=7426105983844707783"
+    ],
+    [
+      "tallahassee",
+      "0123",
+      "(850) 656-9000",
+      "2353 APALACHEE PARKWAY, Tallahassee, FL 32301",
+      30.427845,
+      -84.24064,
+      "https://www.google.com/maps?cid=18299685476811347435"
+    ],
+    [
+      "monroe street",
+      "1523",
+      "(850) 385-5323",
+      "2525 NORTH MONROE ST, Tallahassee, FL 32303",
+      30.47558,
+      -84.29514,
+      "https://www.google.com/maps?cid=2890640280329131396"
+    ],
+    [
+      "tennessee street",
+      "1524",
+      "(850) 224-0095",
+      "1425 WEST TENNESSEE ST, Tallahassee, FL 32304",
+      30.448702,
+      -84.30617,
+      "https://www.google.com/maps?cid=1029517039614212351"
+    ],
+    [
+      "capital circle",
+      "1525",
+      "(850) 385-4377",
+      "2237 CAPITAL CIRCLE NE, Tallahassee, FL 32308",
+      30.480621,
+      -84.23632,
+      "https://www.google.com/maps?cid=12311465173934732004"
+    ],
+    [
+      "tamarac",
+      "0382",
+      "(954) 726-8677",
+      "7305 W COMMERCIAL BLVD, Tamarac, FL 33319",
+      26.194328,
+      -80.24877,
+      "https://www.google.com/maps?cid=16622087168624015320"
+    ],
+    [
+      "florida avenue",
+      "0136",
+      "(813) 933-2424",
+      "10124 N FLORIDA AVE, Tampa, FL 33612",
+      28.042526,
+      -82.4603,
+      "https://www.google.com/maps?cid=17150827440757869620"
+    ],
+    [
+      "bearss",
+      "1810",
+      "(813) 866-8790",
+      "2304 E. BEARSS AVE, Tampa, FL 33613",
+      28.080828,
+      -82.433815,
+      "https://www.google.com/maps?cid=4733663937310183102"
+    ],
+    [
+      "west hillsborough",
+      "0124",
+      "(813) 884-1577",
+      "3933 W HILLSBOROUGH AVE, Tampa, FL 33614",
+      27.997137,
+      -82.508354,
+      "https://www.google.com/maps?cid=7269693452331413466"
+    ],
+    [
+      "n. dale mabry",
+      "1823",
+      "(813) 336-3330",
+      "8705 N. DALE MABRY, Tampa, FL 33614",
+      28.03114,
+      -82.50436,
+      "https://www.google.com/maps?cid=11669618627153484153"
+    ],
+    [
+      "w. hillsborough",
+      "1802",
+      "(813) 249-7736",
+      "7655 W HILLSBOROUGH AVE, Tampa, FL 33615",
+      27.996946,
+      -82.565796,
+      "https://www.google.com/maps?cid=8564211040125314518"
+    ],
+    [
+      "north dale mabry",
+      "0143",
+      "(813) 963-5545",
+      "15625 N DALE MABRY HWY, Tampa, FL 33618",
+      28.095148,
+      -82.50142,
+      "https://www.google.com/maps?cid=9658014182049663486"
+    ],
+    [
+      "gunn highway",
+      "1620",
+      "(813) 961-0361",
+      "6022 GUNN HWY, Tampa, FL 33625",
+      28.062874,
+      -82.54947,
+      "https://www.google.com/maps?cid=16260149978394547334"
+    ],
+    [
+      "the villages",
+      "1698",
+      "(352) 205-7746",
+      "8697 SE 165TH MULBERRY LN, The Villages, FL 32162",
+      28.981209,
+      -82.00931,
+      "https://www.google.com/maps?cid=3743821646341320802"
+    ],
+    [
+      "titusville",
+      "1641",
+      "(321) 268-1534",
+      "3100 CHENEY HWY, Titusville, FL 32780",
+      28.556435,
+      -80.84541,
+      "https://www.google.com/maps?cid=11985233491295529387"
+    ],
+    [
+      "union park",
+      "1518",
+      "(407) 282-3155",
+      "10306 E COLONIAL DR, Union Park, FL 32817",
+      28.569244,
+      -81.23689,
+      "https://www.google.com/maps?cid=7885437170322576764"
+    ],
+    [
+      "military trail",
+      "0370",
+      "(561) 686-3004",
+      "800 N MILITARY TRAIL, West Palm Beach, FL 33415",
+      26.688932,
+      -80.11119,
+      "https://www.google.com/maps?cid=14666369693696749026"
+    ],
+    [
+      "winter haven",
+      "1686",
+      "(863) 324-1824",
+      "5694 SE CYPRESS GARDENS, Winter Haven, FL 33884",
+      27.994905,
+      -81.6882,
+      "https://www.google.com/maps?cid=12882795534857348696"
+    ],
+    [
+      "yulee",
+      "6672",
+      "(904) 557-9469",
+      "463801 E STATE ROAD 200, Yulee, FL 32097",
+      30.61868,
+      -81.65354,
+      "https://www.google.com/maps?q=463801 E STATE ROAD 200"
+    ],
+    [
+      "tamiami trail", 
+      "6677", 
+      "(941) 236-9206", 
+      "1830 TAMIAMI TRAIL S, Venice, FL 34293", 
+      27.06639, 
+      -82.42, 
+      "https://www.google.com/maps?q=1830 TAMIAMI TRAIL S"
+    ],
+    [
+      "the beaches", 
+      "6626", 
+      "(904) 249-5711", 
+      "304 3RD STREET N., Jacksonville Beach, FL 32250", 
+      30.291126, 
+      -81.392735, 
+      "https://www.google.com/maps?q=304 3RD STREET N."
+    ]
+  ]
+}

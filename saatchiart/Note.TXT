@@ -1,0 +1,40 @@
+1.saatchiart.com ---------==============>
+Question -->
+Task was to scrape saatchiart.com for paintings and the data that have scrape is [image_url, price, artist_name] 
+
+Note:-->
+****we had scrape this data by using api scrape 
+so may bw next time when you try to scrape this key would be change so inspect the website before start scraping
+*******
+we scrape over 400000 data that is availabe in saatchiart.csv file with python code that is availabe in saatchiart.py file
+
+to get image in different sizes you can use the options from in this list [2,4,6,8]
+
+like: https://images.saatchiart.com/saatchi/309262/art/8643620/7707277-HSC00001-6.jpg
+
+here in the file name HSC00001-6.jpg you can see at the end there was -6 you can change this and get image in different size as you like.
+
+----------------------------------------------------
+----------------------------------------------------
+
+
+2. artsy.com
+url --> "https://www.artsy.net/gene/painting"
+Question --> we have to scrape all the painting images from site and that include [image_url, price'] 
+
+
+** Here we use graphql query to scrape the images
+*we scraped around 10,000 painting image urls
+
+*there are two way to use images here are they -->
+ 
+first->
+https://d7hftxdivxxvm.cloudfront.net?height=356&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FAGGzKJ3SKGy1P5eI_nUoxA%2Flarger.jpg&width=445
+
+second-->
+https://d32dm0rphc51dk.cloudfront.net/qjcDXVuSbeDQXxGQU2p-2A/larger.jpg
+
+Note:--> here we can use at place of "larger".jpg ["square","large_rectangle",        "medium_rectangle", "tall", "small",            "large", "larger", "normalized", main", "medium" ]
+
+this will result us painting in different sizes
+
